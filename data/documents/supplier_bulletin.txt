@@ -1,0 +1,21 @@
+SUPPLIER QUALITY BULLETIN - July 2026
+
+ALERT: Turbocharger Shortage from Supplier S-123
+
+Effective immediately, Supplier S-123 has reported critical production delays
+on turbocharger components due to semiconductor chip shortage.
+
+Impact: All turbocharger variants including advanced and standard models
+are affected with 8-12 week lead time extensions.
+
+Affected Products:
+- Model 3500 Engine (advanced cooling systems)
+- Model 3600 Engine (heavy-duty variants)
+
+Recommended Actions:
+1. Adjust demand forecasts for Q3-Q4 2026
+2. Consider alternative suppliers for non-critical applications
+3. Expedite orders before August 15 cutoff
+
+Escalation Contact: supplier-ops@example.com
+Status: ACTIVE

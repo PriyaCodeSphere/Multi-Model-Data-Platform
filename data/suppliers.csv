@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,quality_score,on_time_delivery_pct,status
+Supplier-S001,Cox-Stephens Manufacturing,Japan,0.9094289965747149,0.9109324224358223,Active
+Supplier-S002,Rowland-Barrett Manufacturing,China,0.9467194906075739,0.9586968648436742,Active
+Supplier-S003,Turner PLC Manufacturing,China,0.9004227014499308,0.9768207927703366,Active
+Supplier-S004,Hopkins-Wallace Manufacturing,China,0.9737705414834259,0.9252088510338973,Active
+Supplier-S005,"Henry, Edwards and Bartlett Manufacturing",China,0.8707924393959964,0.9213967698484054,Probation
+Supplier-S006,Obrien-Dixon Manufacturing,Germany,0.8868910014929199,0.9156476670847787,Probation
+Supplier-S007,"Garcia, Weiss and Young Manufacturing",Japan,0.918478764440227,0.9593843292867861,Probation
+Supplier-S008,Thomas and Sons Manufacturing,Germany,0.9182614244755403,0.9497646382779725,Active
+Supplier-S009,Guzman and Sons Manufacturing,Brazil,0.9048345835149768,0.9421914421283878,Active
+Supplier-S010,"Howard, Anderson and Dean Manufacturing",China,0.9046022485046585,0.9206605853046096,Probation
+Supplier-S011,Pierce LLC Manufacturing,USA,0.8713044442634685,0.8976643029870469,At Risk
+Supplier-S012,Santos-Martin Manufacturing,China,0.9159067349342644,0.9678115196985702,At Risk
+Supplier-S013,Miller-King Manufacturing,China,0.867860705648337,0.9659332819723752,At Risk
+Supplier-S014,Bentley-Thomas Manufacturing,Brazil,0.9623590348088074,0.9645708581716727,Probation
+Supplier-S015,Jones Ltd Manufacturing,Brazil,0.9857105742994087,0.9759626153789731,Active
+Supplier-S016,Cowan-Terry Manufacturing,USA,0.9078472270323916,0.9205619390255442,At Risk
+Supplier-S017,Klein PLC Manufacturing,Germany,0.9331188096132008,0.9572031785972355,Probation
+Supplier-S018,"Holland, Dixon and Martin Manufacturing",USA,0.8738742545151286,0.9697419050078173,Probation
+Supplier-S019,Stewart Group Manufacturing,USA,0.9734596721148956,0.9285280717110198,Probation
+Supplier-S020,Johnson-Munoz Manufacturing,Germany,0.9182951972334633,0.9114581546546228,Active

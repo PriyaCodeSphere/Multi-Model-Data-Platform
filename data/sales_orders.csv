@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,product_name,product_family,order_date,status,quantity,unit_price,amount,region,forecast_quarter,notes
+SO-1000000,Dealer-D025,PROD-380,Model 380F Excavator,Excavators,2026-04-07,Delayed,4,373709.13006612135,1494836.5202644854,Africa,Q3-2026,Agent every development say quality.
+SO-1000001,Dealer-D028,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-26,Delivered,6,293357.18974349496,1760143.1384609698,Asia Pacific,Q1-2026,Beautiful instead ahead despite measure ago current practice nation determine.
+SO-1000002,Dealer-D011,PROD-3600,Model 3600 Engine,Engines,2026-06-24,Shipped,12,211009.2193964488,2532110.6327573857,Europe,Q4-2026,Everything thank serve civil institution everyone democratic shake bill here.
+SO-1000003,Dealer-D028,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-21,Delivered,10,89230.76052432403,892307.6052432403,Europe,Q4-2026,Suggest page southern role movie win her need.
+SO-1000004,Dealer-D034,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-20,Delivered,2,386971.8516334879,773943.7032669758,North America,Q1-2026,Peace technology officer relate animal direction eye bag do big everyone.
+SO-1000005,Dealer-D044,PROD-380,Model 380F Excavator,Excavators,2026-02-02,Confirmed,4,382682.63082414796,1530730.5232965918,Europe,Q4-2026,Class great prove reduce raise author play move.
+SO-1000006,Dealer-D028,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-28,In Production,1,426668.50635932304,426668.50635932304,Europe,Q4-2026,Clear here writer policy news range successful.
+SO-1000007,Dealer-D025,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-23,In Production,5,64935.2095530918,324676.047765459,Asia Pacific,Q2-2026,Director allow firm environment decision.
+SO-1000008,Dealer-D036,PROD-3500,Model 3500 Engine,Engines,2026-02-08,Delivered,12,404801.3044639844,4857615.653567812,South America,Q3-2026,Then fire pretty how trip learn enter east no enjoy.
+SO-1000009,Dealer-D033,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-31,Shipped,2,251174.99471289144,502349.9894257829,Asia Pacific,Q1-2026,Investment on gun young catch management sense technology check civil.
+SO-1000010,Dealer-D008,PROD-380,Model 380F Excavator,Excavators,2026-05-27,Shipped,4,58100.040025346745,232400.16010138698,South America,Q2-2026,Others his other life edge network wall quite boy.
+SO-1000011,Dealer-D023,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-25,Backlog,12,181498.203707854,2177978.444494248,South America,Q3-2026,Seem shoulder future fall citizen about reveal rest will seven.
+SO-1000012,Dealer-D009,PROD-390,Model 390F Excavator,Excavators,2026-06-22,Delivered,8,329605.0237640883,2636840.1901127063,Asia Pacific,Q3-2026,Tree that fear police participant check several much single.
+SO-1000013,Dealer-D019,PROD-390,Model 390F Excavator,Excavators,2026-05-22,Delivered,10,366658.6898573581,3666586.898573581,North America,Q2-2026,Truth out major born guy world southern dream drive note.
+SO-1000014,Dealer-D009,PROD-3500,Model 3500 Engine,Engines,2026-04-30,Delivered,4,185569.36734200016,742277.4693680006,Europe,Q1-2026,Beat magazine attorney set she.
+SO-1000015,Dealer-D014,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-09,In Production,10,444767.79327178077,4447677.932717808,North America,Q4-2026,Process water close month parent who.
+SO-1000016,Dealer-D016,PROD-3500,Model 3500 Engine,Engines,2026-06-25,Delayed,3,170499.50396975037,511498.5119092511,Africa,Q3-2026,Sense ready require human public health tonight later easy ask.
+SO-1000017,Dealer-D021,PROD-320,Model 320 Excavator,Excavators,2026-02-17,Shipped,4,149101.3856197918,596405.5424791672,Africa,Q1-2026,Open discover detail audience.
+SO-1000018,Dealer-D009,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-09,Delayed,3,423179.05969254,1269537.17907762,North America,Q4-2026,Arrive attack all form method everything magazine much rich think office.
+SO-1000019,Dealer-D045,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-24,Shipped,10,192625.9645060037,1926259.6450600368,North America,Q3-2026,Six space couple best issue interest level.
+SO-1000020,Dealer-D026,PROD-390,Model 390F Excavator,Excavators,2026-04-03,Delivered,6,323190.3104234393,1939141.8625406357,Asia Pacific,Q1-2026,Pull worker better I fund.
+SO-1000021,Dealer-D029,PROD-380,Model 380F Excavator,Excavators,2026-05-12,Confirmed,8,280563.6998956058,2244509.5991648464,Asia Pacific,Q1-2026,Eat couple large instead everything.
+SO-1000022,Dealer-D003,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-11,In Production,8,492728.140784947,3941825.126279576,North America,Q2-2026,Themselves away space task better present music.
+SO-1000023,Dealer-D017,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-27,Shipped,10,157485.49718086745,1574854.9718086745,North America,Q1-2026,Why unit support coach.
+SO-1000024,Dealer-D045,PROD-3500,Model 3500 Engine,Engines,2026-04-09,Shipped,10,261384.6933458077,2613846.933458077,Asia Pacific,Q4-2026,Loss ten total clearly able hospital unit size expect.
+SO-1000025,Dealer-D049,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-18,Confirmed,1,148580.96409583598,148580.96409583598,Asia Pacific,Q1-2026,Product main couple design around save article finish anyone live.
+SO-1000026,Dealer-D026,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-26,Delivered,5,307421.8895161854,1537109.447580927,Europe,Q2-2026,Church whether bag control organization push dog build three east.
+SO-1000027,Dealer-D041,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-29,Delayed,5,178053.0357933039,890265.1789665194,Africa,Q3-2026,Always bank price north first end prove fire enter capital.
+SO-1000028,Dealer-D039,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-10,Delivered,8,272095.9611530534,2176767.689224427,Europe,Q3-2026,Lead upon very act perform none beyond.
+SO-1000029,Dealer-D013,PROD-3500,Model 3500 Engine,Engines,2026-06-17,Backlog,3,234959.4838694956,704878.4516084868,Africa,Q1-2026,Defense enter value thing these hard citizen street region particularly.
+SO-1000030,Dealer-D012,PROD-3500,Model 3500 Engine,Engines,2026-02-14,Delivered,8,479314.9074132682,3834519.259306146,North America,Q3-2026,Account stage federal professional voice care break blood network evening.
+SO-1000031,Dealer-D046,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-07,Delayed,8,68251.43189510664,546011.4551608531,South America,Q2-2026,Decision garden reach table measure economy traditional anything plant stop.
+SO-1000032,Dealer-D004,PROD-3500,Model 3500 Engine,Engines,2026-05-07,Confirmed,4,216073.85979241246,864295.4391696498,Asia Pacific,Q4-2026,About side PM energy scientist.
+SO-1000033,Dealer-D020,PROD-3500,Model 3500 Engine,Engines,2026-03-17,Backlog,3,209647.08132619289,628941.2439785786,Africa,Q1-2026,Relationship night born war real chance along hard need involve.
+SO-1000034,Dealer-D010,PROD-3600,Model 3600 Engine,Engines,2026-02-20,Confirmed,2,112492.09687843265,224984.1937568653,Asia Pacific,Q3-2026,Final together someone team together.
+SO-1000035,Dealer-D020,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-04,Confirmed,5,456103.9882786288,2280519.941393144,South America,Q1-2026,Radio project government nice themselves wind.
+SO-1000036,Dealer-D041,PROD-380,Model 380F Excavator,Excavators,2026-03-06,Confirmed,8,309739.94903054787,2477919.592244383,Africa,Q2-2026,Understand door class son computer include.
+SO-1000037,Dealer-D049,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-23,Delayed,10,343531.2418663729,3435312.418663729,Europe,Q2-2026,Say forward us soon ten specific.
+SO-1000038,Dealer-D036,PROD-380,Model 380F Excavator,Excavators,2026-06-22,Delayed,8,294140.4658395131,2353123.726716105,Asia Pacific,Q4-2026,City red him although likely current truth.
+SO-1000039,Dealer-D034,PROD-380,Model 380F Excavator,Excavators,2026-06-05,In Production,12,243943.3492309833,2927320.1907717995,South America,Q3-2026,Figure somebody dinner age cover foreign ten whom.
+SO-1000040,Dealer-D036,PROD-3500,Model 3500 Engine,Engines,2026-06-01,In Production,8,280256.6239616803,2242052.991693442,Asia Pacific,Q1-2026,Go meeting quickly such former agree theory.
+SO-1000041,Dealer-D001,PROD-3500,Model 3500 Engine,Engines,2026-02-16,Delivered,4,202895.97221800304,811583.8888720121,South America,Q4-2026,Condition while enter board its rock finish.
+SO-1000042,Dealer-D035,PROD-3500,Model 3500 Engine,Engines,2026-04-23,Delivered,6,431212.7703622033,2587276.62217322,Asia Pacific,Q4-2026,Worker break tonight couple and job mind southern rather vote.
+SO-1000043,Dealer-D012,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-06,Backlog,4,125311.87991238257,501247.5196495303,Europe,Q3-2026,Hair attorney professional form finish summer.
+SO-1000044,Dealer-D011,PROD-390,Model 390F Excavator,Excavators,2026-06-03,Shipped,6,466536.7985114011,2799220.791068407,Europe,Q2-2026,Medical project for recent never court professor.
+SO-1000045,Dealer-D006,PROD-320,Model 320 Excavator,Excavators,2026-01-30,Shipped,5,425966.10637204745,2129830.531860237,Asia Pacific,Q1-2026,Quality total past feeling nature a expert involve.
+SO-1000046,Dealer-D035,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-14,Delivered,4,497686.0878766947,1990744.3515067787,Africa,Q1-2026,Parent focus kid put memory soldier where save probably exist.
+SO-1000047,Dealer-D047,PROD-390,Model 390F Excavator,Excavators,2026-05-25,In Production,6,293633.42330641334,1761800.53983848,North America,Q1-2026,Friend stand seem pull different current agency each little sure authority.
+SO-1000048,Dealer-D034,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-22,In Production,8,248198.6076405908,1985588.8611247265,Africa,Q3-2026,Though offer responsibility himself hundred challenge reach throughout team.
+SO-1000049,Dealer-D049,PROD-320,Model 320 Excavator,Excavators,2026-06-23,Delivered,5,484887.8236398833,2424439.1181994164,Europe,Q1-2026,Sing despite sound receive let.
+SO-1000050,Dealer-D028,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-05,Delayed,3,117734.6712485361,353204.01374560833,Asia Pacific,Q3-2026,Eat summer lead soon property write other wear through partner.
+SO-1000051,Dealer-D017,PROD-380,Model 380F Excavator,Excavators,2026-03-23,Delayed,10,196620.4029040024,1966204.0290400242,Europe,Q1-2026,Interview trade knowledge city technology late seem style everyone.
+SO-1000052,Dealer-D039,PROD-320,Model 320 Excavator,Excavators,2026-01-08,Delivered,5,263995.716869072,1319978.58434536,Europe,Q3-2026,Machine dream key require doctor from throw ball character him.
+SO-1000053,Dealer-D027,PROD-320,Model 320 Excavator,Excavators,2026-04-08,Delayed,6,290023.9829444132,1740143.8976664792,Africa,Q2-2026,Relationship ask imagine my indeed deal.
+SO-1000054,Dealer-D011,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-05,Shipped,1,356340.1518322185,356340.1518322185,South America,Q4-2026,Hope show watch affect thing offer local wall fear.
+SO-1000055,Dealer-D006,PROD-3500,Model 3500 Engine,Engines,2026-04-25,Confirmed,3,280806.0872662389,842418.2617987166,Asia Pacific,Q4-2026,Table well industry section national owner determine detail.
+SO-1000056,Dealer-D006,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-12,Shipped,1,303220.26456005266,303220.26456005266,Europe,Q3-2026,Magazine home protect something right subject try wonder move.
+SO-1000057,Dealer-D050,PROD-3500,Model 3500 Engine,Engines,2026-06-28,Shipped,5,491332.7046125432,2456663.5230627162,Europe,Q3-2026,Option production base investment term consider employee force.
+SO-1000058,Dealer-D047,PROD-390,Model 390F Excavator,Excavators,2026-05-15,Confirmed,3,140213.53198778126,420640.59596334375,Asia Pacific,Q1-2026,Force seven here sell story edge bank affect much.
+SO-1000059,Dealer-D017,PROD-3500,Model 3500 Engine,Engines,2026-04-23,Confirmed,1,451890.59233793675,451890.59233793675,Europe,Q3-2026,Difference attention whatever American all easy stuff perform.
+SO-1000060,Dealer-D005,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-24,Delivered,6,359474.9190937523,2156849.5145625137,South America,Q2-2026,Call prove nor design record short cold.
+SO-1000061,Dealer-D021,PROD-3600,Model 3600 Engine,Engines,2026-06-18,Delivered,10,379873.035436997,3798730.35436997,Europe,Q3-2026,White responsibility sing clearly find official up office traditional heart.
+SO-1000062,Dealer-D050,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-26,Confirmed,1,90415.4694272483,90415.4694272483,Europe,Q1-2026,Away real physical big significant sure.
+SO-1000063,Dealer-D036,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-06,Confirmed,1,81063.29339953233,81063.29339953233,Africa,Q4-2026,South someone not American mouth product attention positive actually information.
+SO-1000064,Dealer-D009,PROD-3500,Model 3500 Engine,Engines,2026-06-13,Confirmed,3,326121.85140685627,978365.5542205689,North America,Q2-2026,Black whether player stock religious itself safe whole establish.
+SO-1000065,Dealer-D046,PROD-390,Model 390F Excavator,Excavators,2026-06-07,Delivered,6,187761.80339581694,1126570.8203749016,Asia Pacific,Q1-2026,Simple let stay or focus early various everything late seek.
+SO-1000066,Dealer-D045,PROD-3600,Model 3600 Engine,Engines,2026-02-14,In Production,3,285159.4697015353,855478.4091046059,North America,Q3-2026,Particular her agreement surface consider deep something future they red.
+SO-1000067,Dealer-D034,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-04,Confirmed,6,72601.70515878819,435610.2309527291,Africa,Q4-2026,New might course drop image new drive.
+SO-1000068,Dealer-D047,PROD-3600,Model 3600 Engine,Engines,2026-02-08,Backlog,3,411567.2344835981,1234701.7034507943,Europe,Q2-2026,Position make society behavior develop reality fill ok list.
+SO-1000069,Dealer-D029,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-22,Delivered,8,151713.04901719987,1213704.392137599,Africa,Q1-2026,Gas you nearly goal law fill discover return firm sea.
+SO-1000070,Dealer-D021,PROD-380,Model 380F Excavator,Excavators,2026-02-22,Confirmed,3,341517.85069573775,1024553.5520872133,North America,Q3-2026,Course school everybody operation set others.
+SO-1000071,Dealer-D023,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-10,Confirmed,4,331152.7382552311,1324610.9530209245,South America,Q2-2026,Strategy fast guess few remain.
+SO-1000072,Dealer-D050,PROD-390,Model 390F Excavator,Excavators,2026-02-22,Delivered,10,180486.55352462406,1804865.5352462407,Asia Pacific,Q1-2026,Ever window network recently call than.
+SO-1000073,Dealer-D023,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-12,Delayed,8,121380.86503687008,971046.9202949606,South America,Q3-2026,Bill activity expect long future whole education technology box.
+SO-1000074,Dealer-D011,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-18,Delivered,12,50060.611852018395,600727.3422242207,South America,Q2-2026,Husband available picture approach chance.
+SO-1000075,Dealer-D032,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-07,Delayed,1,78210.32972983964,78210.32972983964,North America,Q2-2026,We be easy newspaper indicate other peace simply herself training.
+SO-1000076,Dealer-D005,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-05,In Production,12,212105.26346019254,2545263.16152231,Europe,Q2-2026,Team wrong figure perform participant science way.
+SO-1000077,Dealer-D044,PROD-390,Model 390F Excavator,Excavators,2026-04-10,Shipped,2,451342.4651648306,902684.9303296612,North America,Q2-2026,Personal enough ball dream necessary choose.
+SO-1000078,Dealer-D048,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-28,Confirmed,5,102210.20660667618,511051.03303338087,Africa,Q1-2026,Late order fact discuss religious reflect law reach.
+SO-1000079,Dealer-D027,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-30,In Production,8,51963.47134263909,415707.7707411127,Africa,Q3-2026,Skin person product value interesting name positive.
+SO-1000080,Dealer-D013,PROD-320,Model 320 Excavator,Excavators,2026-06-10,Backlog,10,392467.00561285234,3924670.0561285233,North America,Q2-2026,Step author coach film see notice eye.
+SO-1000081,Dealer-D009,PROD-320,Model 320 Excavator,Excavators,2026-03-25,Backlog,3,335452.88287004194,1006358.6486101258,North America,Q1-2026,Light fight I evening music just.
+SO-1000082,Dealer-D048,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-28,Confirmed,12,264185.47895524517,3170225.7474629423,Europe,Q4-2026,Always it focus economy before while structure offer week yourself.
+SO-1000083,Dealer-D041,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-13,Shipped,2,298431.2140940201,596862.4281880402,South America,Q4-2026,Office several compare million kind everything young.
+SO-1000084,Dealer-D009,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-15,In Production,6,446070.5320646683,2676423.1923880097,Africa,Q3-2026,Play man before girl four prove tax form really.
+SO-1000085,Dealer-D045,PROD-3600,Model 3600 Engine,Engines,2026-05-17,Confirmed,10,468863.2837924204,4688632.837924204,Europe,Q4-2026,Production hundred set already because education break.
+SO-1000086,Dealer-D006,PROD-320,Model 320 Excavator,Excavators,2026-01-28,Delivered,10,260669.36358546367,2606693.635854637,Africa,Q4-2026,Ten stay ability thank left approach million performance.
+SO-1000087,Dealer-D043,PROD-380,Model 380F Excavator,Excavators,2026-01-13,Delayed,12,420489.24341932306,5045870.9210318765,Africa,Q4-2026,Personal service data near until just recognize building win.
+SO-1000088,Dealer-D047,PROD-320,Model 320 Excavator,Excavators,2026-03-15,Delayed,5,459980.9162453226,2299904.581226613,North America,Q4-2026,Son report financial add impact different success box water positive.
+SO-1000089,Dealer-D014,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-12,In Production,12,381290.1912773429,4575482.295328115,Asia Pacific,Q2-2026,Marriage respond meeting event strong woman.
+SO-1000090,Dealer-D024,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-02,Shipped,6,393039.0644098724,2358234.386459234,North America,Q4-2026,Lead certain course out second carry attorney.
+SO-1000091,Dealer-D028,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-27,Delayed,6,57626.44920031145,345758.6952018687,North America,Q2-2026,Future skin environment able rise study oil process tend.
+SO-1000092,Dealer-D037,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-15,Delivered,5,203811.66747148213,1019058.3373574107,Asia Pacific,Q1-2026,Mrs generation necessary myself lay focus country recently occur.
+SO-1000093,Dealer-D012,PROD-320,Model 320 Excavator,Excavators,2026-05-15,Confirmed,4,431177.3721427548,1724709.4885710191,Europe,Q4-2026,Task improve fish list tree high write.
+SO-1000094,Dealer-D033,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-14,Delayed,6,118547.50354820545,711285.0212892327,Africa,Q1-2026,Manager already maybe opportunity thank them.
+SO-1000095,Dealer-D029,PROD-3600,Model 3600 Engine,Engines,2026-06-05,Delivered,8,352239.0266957134,2817912.213565707,North America,Q3-2026,Between treat address century that wide avoid sit enter.
+SO-1000096,Dealer-D005,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-06,Backlog,4,295017.04976011836,1180068.1990404734,Asia Pacific,Q2-2026,Realize power system system teacher here first responsibility service their along.
+SO-1000097,Dealer-D041,PROD-3500,Model 3500 Engine,Engines,2026-02-28,Delivered,8,113361.32700170424,906890.6160136339,South America,Q3-2026,Doctor range explain dinner bed.
+SO-1000098,Dealer-D045,PROD-380,Model 380F Excavator,Excavators,2026-01-11,Backlog,5,287269.3314118654,1436346.6570593272,Asia Pacific,Q3-2026,Set region beyond coach federal.
+SO-1000099,Dealer-D043,PROD-3500,Model 3500 Engine,Engines,2026-02-18,Delivered,4,201803.06345766055,807212.2538306422,North America,Q3-2026,Animal someone fall hear certainly.
+SO-1000100,Dealer-D031,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-23,Backlog,2,360543.4512070296,721086.9024140592,Asia Pacific,Q4-2026,Include radio conference company participant him raise marriage on discussion.
+SO-1000101,Dealer-D041,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-23,Delivered,1,481070.3544755467,481070.3544755467,Africa,Q2-2026,Least project together let explain national available.
+SO-1000102,Dealer-D021,PROD-320,Model 320 Excavator,Excavators,2026-05-14,Delayed,6,467897.1291566973,2807382.774940184,South America,Q2-2026,Write federal while real lead few yourself table.
+SO-1000103,Dealer-D013,PROD-380,Model 380F Excavator,Excavators,2026-01-06,Confirmed,10,144133.45943356754,1441334.5943356752,North America,Q1-2026,Down occur offer yeah far.
+SO-1000104,Dealer-D048,PROD-3600,Model 3600 Engine,Engines,2026-01-11,Delivered,6,99001.99129146758,594011.9477488055,Asia Pacific,Q4-2026,Ever not rate seat any paper market tough.
+SO-1000105,Dealer-D026,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-17,Delivered,5,246648.14854952937,1233240.7427476468,South America,Q2-2026,Simply discover soon despite couple economy sense.
+SO-1000106,Dealer-D006,PROD-390,Model 390F Excavator,Excavators,2026-04-18,Shipped,3,379455.1730793301,1138365.5192379905,North America,Q3-2026,Pick tough position final kid often.
+SO-1000107,Dealer-D043,PROD-320,Model 320 Excavator,Excavators,2026-03-21,Shipped,2,485173.70664171566,970347.4132834313,South America,Q4-2026,Bed far section compare car much.
+SO-1000108,Dealer-D030,PROD-390,Model 390F Excavator,Excavators,2026-04-04,Delayed,1,256205.59267677524,256205.59267677524,Asia Pacific,Q4-2026,Most tree store either station loss southern second.
+SO-1000109,Dealer-D050,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-03,Delayed,6,321378.93777673243,1928273.6266603945,Asia Pacific,Q1-2026,Sound life away senior difficult put purpose however.
+SO-1000110,Dealer-D028,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-20,In Production,5,149934.14181199425,749670.7090599713,South America,Q3-2026,Hand so add Mr lawyer pull public once state wait.
+SO-1000111,Dealer-D008,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-11,Delayed,12,231243.97930801334,2774927.75169616,Africa,Q2-2026,Push likely people wall foreign.
+SO-1000112,Dealer-D036,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-04,Confirmed,2,496964.7569403338,993929.5138806676,Africa,Q3-2026,Determine as statement travel few impact cause watch fight manage best.
+SO-1000113,Dealer-D049,PROD-380,Model 380F Excavator,Excavators,2026-05-28,Confirmed,5,64678.076753704925,323390.3837685246,Europe,Q2-2026,Career law provide sea watch industry score choice increase between.
+SO-1000114,Dealer-D014,PROD-3500,Model 3500 Engine,Engines,2026-01-18,Delivered,4,223845.42788440967,895381.7115376387,South America,Q4-2026,Past voice evidence real describe know door guy wonder.
+SO-1000115,Dealer-D001,PROD-3600,Model 3600 Engine,Engines,2026-01-01,Delivered,4,95811.65732729161,383246.62930916646,Europe,Q1-2026,Name within grow huge couple business summer lawyer.
+SO-1000116,Dealer-D041,PROD-320,Model 320 Excavator,Excavators,2026-05-02,Delayed,1,128849.7974476223,128849.7974476223,Africa,Q1-2026,Politics others again skill during call.
+SO-1000117,Dealer-D029,PROD-390,Model 390F Excavator,Excavators,2026-05-19,Delivered,10,311039.9756012546,3110399.756012546,South America,Q3-2026,Day stop never only spend do similar small other everyone.
+SO-1000118,Dealer-D019,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-16,Delayed,8,475905.4309176825,3807243.44734146,Africa,Q2-2026,Would music sometimes body term capital.
+SO-1000119,Dealer-D004,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-16,In Production,4,273892.933465746,1095571.733862984,Africa,Q4-2026,So draw food company appear score moment second.
+SO-1000120,Dealer-D041,PROD-380,Model 380F Excavator,Excavators,2026-04-22,Delivered,8,64764.3308578738,518114.6468629904,Europe,Q4-2026,Large gun order later develop past road training probably.
+SO-1000121,Dealer-D015,PROD-380,Model 380F Excavator,Excavators,2026-06-14,Delayed,1,234235.43231765824,234235.43231765824,Africa,Q4-2026,Leader who article look husband rather make.
+SO-1000122,Dealer-D034,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-24,Delayed,4,118217.78366004472,472871.1346401789,Africa,Q4-2026,Available ball part assume every plan nature foot yes.
+SO-1000123,Dealer-D023,PROD-320,Model 320 Excavator,Excavators,2026-04-05,Confirmed,5,394496.03773213737,1972480.1886606868,North America,Q4-2026,Far measure involve soldier boy pressure there necessary tend involve.
+SO-1000124,Dealer-D006,PROD-320,Model 320 Excavator,Excavators,2026-02-26,In Production,10,151756.39906235237,1517563.9906235237,Africa,Q4-2026,Including still human role fine fine effort.
+SO-1000125,Dealer-D003,PROD-380,Model 380F Excavator,Excavators,2026-03-27,In Production,4,485080.4749096784,1940321.8996387136,Asia Pacific,Q3-2026,Rather listen before be it season.
+SO-1000126,Dealer-D041,PROD-320,Model 320 Excavator,Excavators,2026-05-21,Delayed,8,324333.95524560584,2594671.6419648468,Africa,Q1-2026,Speech news only no form business government program.
+SO-1000127,Dealer-D048,PROD-380,Model 380F Excavator,Excavators,2026-05-06,In Production,6,232588.02587677745,1395528.1552606646,Africa,Q2-2026,Test return why outside goal official defense prevent difference.
+SO-1000128,Dealer-D021,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-16,Delivered,8,295023.6315967393,2360189.0527739143,Europe,Q2-2026,Glass news boy everything difficult.
+SO-1000129,Dealer-D009,PROD-3500,Model 3500 Engine,Engines,2026-05-19,Delivered,6,169396.76189996014,1016380.5713997609,Asia Pacific,Q3-2026,Suddenly window stand party poor ago upon stop environment.
+SO-1000130,Dealer-D025,PROD-320,Model 320 Excavator,Excavators,2026-04-11,Delivered,6,401329.33394040546,2407976.003642433,Europe,Q4-2026,Event several TV go consider century.
+SO-1000131,Dealer-D017,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-07,In Production,10,121561.25168311759,1215612.516831176,Europe,Q2-2026,Attorney scientist will begin most heavy law church.
+SO-1000132,Dealer-D001,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-02,In Production,8,432712.2266423769,3461697.8131390153,South America,Q3-2026,Return since nothing be apply church pay.
+SO-1000133,Dealer-D041,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-21,Backlog,6,201024.70442142923,1206148.2265285754,Europe,Q1-2026,Evening product magazine kind event.
+SO-1000134,Dealer-D049,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-06,In Production,1,221232.96944145253,221232.96944145253,Asia Pacific,Q2-2026,Box involve exist question main project animal house out account.
+SO-1000135,Dealer-D049,PROD-380,Model 380F Excavator,Excavators,2026-02-12,Delayed,4,105972.27405859594,423889.09623438376,North America,Q2-2026,War should share face build market issue.
+SO-1000136,Dealer-D034,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-12,Delayed,10,367191.9545195218,3671919.545195218,North America,Q1-2026,Herself region matter street south author.
+SO-1000137,Dealer-D049,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-24,Delivered,5,277158.01923703763,1385790.0961851883,Africa,Q4-2026,Job least back fine investment.
+SO-1000138,Dealer-D035,PROD-380,Model 380F Excavator,Excavators,2026-03-21,In Production,12,120772.9436808719,1449275.3241704628,South America,Q4-2026,Remember individual boy again foot soon peace story.
+SO-1000139,Dealer-D022,PROD-380,Model 380F Excavator,Excavators,2026-02-26,In Production,5,81901.20915107841,409506.04575539206,Europe,Q2-2026,Because such during open model how financial fund.
+SO-1000140,Dealer-D016,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-24,Delivered,3,55470.547164824064,166411.6414944722,Asia Pacific,Q1-2026,Single baby plan most create simply go when.
+SO-1000141,Dealer-D049,PROD-320,Model 320 Excavator,Excavators,2026-03-16,Delivered,5,208831.32655356047,1044156.6327678023,North America,Q1-2026,Door chair culture own set pretty.
+SO-1000142,Dealer-D028,PROD-320,Model 320 Excavator,Excavators,2026-04-28,In Production,10,402691.9291178483,4026919.2911784826,North America,Q3-2026,Week physical less nor often race.
+SO-1000143,Dealer-D022,PROD-320,Model 320 Excavator,Excavators,2026-05-03,Shipped,2,142430.63381511322,284861.26763022644,North America,Q1-2026,Poor worry follow wife firm key light place someone option.
+SO-1000144,Dealer-D020,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-15,Shipped,8,139546.46253174654,1116371.7002539723,Africa,Q4-2026,Medical financial later arm story baby ten talk.
+SO-1000145,Dealer-D020,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-23,Confirmed,12,491165.9334239833,5893991.201087799,Africa,Q2-2026,Order his oil west school American training occur could painting may.
+SO-1000146,Dealer-D017,PROD-3600,Model 3600 Engine,Engines,2026-01-06,Delivered,5,490530.8781684968,2452654.3908424843,South America,Q2-2026,Late specific study word base.
+SO-1000147,Dealer-D020,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-26,In Production,1,228925.57034879175,228925.57034879175,South America,Q2-2026,Always remain yard model particular hair.
+SO-1000148,Dealer-D025,PROD-380,Model 380F Excavator,Excavators,2026-01-02,Backlog,10,345540.2285635507,3455402.2856355067,Europe,Q3-2026,Hold simple quickly appear piece free form.
+SO-1000149,Dealer-D039,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-20,Delivered,12,91430.14373711395,1097161.7248453675,Asia Pacific,Q3-2026,Question exist rich prevent trade their four old center glass.
+SO-1000150,Dealer-D047,PROD-3600,Model 3600 Engine,Engines,2026-06-07,Backlog,5,56799.80789651377,283999.03948256886,Europe,Q2-2026,Can remember be next poor foreign campaign reflect.
+SO-1000151,Dealer-D009,PROD-3500,Model 3500 Engine,Engines,2026-04-06,In Production,6,190808.32739614169,1144849.96437685,Asia Pacific,Q2-2026,Behavior provide meet adult final week game she court yourself.
+SO-1000152,Dealer-D029,PROD-390,Model 390F Excavator,Excavators,2026-03-06,In Production,3,97657.61198169093,292972.8359450728,Europe,Q2-2026,Baby such big side strong this.
+SO-1000153,Dealer-D048,PROD-320,Model 320 Excavator,Excavators,2026-05-03,Delivered,10,314413.64199923084,3144136.419992308,North America,Q1-2026,Product then peace others child.
+SO-1000154,Dealer-D028,PROD-3500,Model 3500 Engine,Engines,2026-04-23,Delivered,4,471320.2127359486,1885280.8509437945,Europe,Q1-2026,Story side speak close join improve.
+SO-1000155,Dealer-D010,PROD-390,Model 390F Excavator,Excavators,2026-03-14,Confirmed,6,489653.1294975246,2937918.7769851475,South America,Q3-2026,Wide particular sell six doctor dream whole.
+SO-1000156,Dealer-D050,PROD-380,Model 380F Excavator,Excavators,2026-03-26,In Production,12,245309.43771894148,2943713.252627298,Africa,Q3-2026,Tough create question now key show sing me industry.
+SO-1000157,Dealer-D009,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-27,Delivered,10,153127.37804637296,1531273.7804637295,North America,Q2-2026,Stage soon catch economic political them.
+SO-1000158,Dealer-D050,PROD-390,Model 390F Excavator,Excavators,2026-06-17,Delayed,8,139671.65141006035,1117373.2112804828,Asia Pacific,Q3-2026,Various represent middle by base civil last message store begin.
+SO-1000159,Dealer-D033,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-20,Backlog,5,84715.32584281184,423576.6292140592,Europe,Q1-2026,Stage this us increase how hear history.
+SO-1000160,Dealer-D050,PROD-380,Model 380F Excavator,Excavators,2026-03-03,Confirmed,1,352792.2508691359,352792.2508691359,South America,Q2-2026,Heart agreement us stuff practice.
+SO-1000161,Dealer-D038,PROD-380,Model 380F Excavator,Excavators,2026-06-13,Delivered,10,140126.90804043165,1401269.0804043165,North America,Q3-2026,Case expert stop receive catch relationship.
+SO-1000162,Dealer-D027,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-28,Delivered,1,464344.9738085108,464344.9738085108,North America,Q3-2026,Past town affect democratic change vote participant institution simply.
+SO-1000163,Dealer-D049,PROD-3500,Model 3500 Engine,Engines,2026-02-06,Delayed,12,65753.56166306254,789042.7399567505,South America,Q1-2026,Feeling answer information soldier lead book toward.
+SO-1000164,Dealer-D043,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-17,Confirmed,4,290761.4770695198,1163045.9082780792,Asia Pacific,Q2-2026,Movie place offer responsibility fact ability good number cost property.
+SO-1000165,Dealer-D034,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-19,Delivered,12,140494.42734920036,1685933.1281904043,Africa,Q3-2026,Window attack moment medical write never hospital like player wonder.
+SO-1000166,Dealer-D024,PROD-390,Model 390F Excavator,Excavators,2026-05-09,Confirmed,8,370832.0035364626,2966656.028291701,North America,Q1-2026,Section ground attack drop price billion old.
+SO-1000167,Dealer-D038,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-26,Backlog,5,403935.0720758812,2019675.3603794058,South America,Q3-2026,Card good full poor store range wonder long.
+SO-1000168,Dealer-D003,PROD-390,Model 390F Excavator,Excavators,2026-03-24,Confirmed,3,412630.0396780249,1237890.1190340747,Asia Pacific,Q4-2026,Specific as simply leader fall analysis.
+SO-1000169,Dealer-D027,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-23,Shipped,12,210598.6888269996,2527184.265923995,Asia Pacific,Q4-2026,Though firm financial huge spring list.
+SO-1000170,Dealer-D025,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-15,In Production,8,478766.7576511277,3830134.0612090216,South America,Q1-2026,Send course ground sit tend.
+SO-1000171,Dealer-D042,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-08,Backlog,1,193374.03324362324,193374.03324362324,Europe,Q1-2026,Event son join hundred keep what fund cost.
+SO-1000172,Dealer-D035,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-30,Delivered,12,436467.5470256696,5237610.564308035,North America,Q4-2026,Happen something entire bar interesting issue yet Congress family.
+SO-1000173,Dealer-D023,PROD-380,Model 380F Excavator,Excavators,2026-06-07,In Production,12,55962.96507675975,671555.580921117,Africa,Q3-2026,Bag produce fill owner international.
+SO-1000174,Dealer-D013,PROD-390,Model 390F Excavator,Excavators,2026-04-22,Delivered,8,243323.86645956352,1946590.9316765082,Africa,Q2-2026,Goal amount thank good your ever woman way avoid.
+SO-1000175,Dealer-D037,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-18,Delivered,2,183554.00690893276,367108.0138178655,North America,Q2-2026,Guy song quickly well central parent sit alone.
+SO-1000176,Dealer-D043,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-02,Delivered,3,150062.58713667662,450187.76141002984,Asia Pacific,Q3-2026,Door population gun we allow.
+SO-1000177,Dealer-D014,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-16,In Production,6,170420.35948776838,1022522.1569266103,Asia Pacific,Q4-2026,Quickly we head several off morning.
+SO-1000178,Dealer-D008,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-24,Delivered,1,243024.95004356492,243024.95004356492,South America,Q4-2026,Fire everything whether ago control military trial brother.
+SO-1000179,Dealer-D047,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-06,Delivered,2,197398.47433105958,394796.94866211916,North America,Q2-2026,Region Democrat partner really your customer career.
+SO-1000180,Dealer-D029,PROD-3500,Model 3500 Engine,Engines,2026-03-05,Delivered,8,114278.88416644934,914231.0733315947,Africa,Q1-2026,Later together knowledge because radio.
+SO-1000181,Dealer-D026,PROD-3500,Model 3500 Engine,Engines,2026-01-07,Delayed,1,478148.9129265565,478148.9129265565,North America,Q3-2026,Property remember nearly face feel church remember record.
+SO-1000182,Dealer-D025,PROD-380,Model 380F Excavator,Excavators,2026-01-29,Delivered,5,149855.2073529678,749276.036764839,North America,Q2-2026,Soldier meeting building cut catch so.
+SO-1000183,Dealer-D028,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-30,Delayed,10,426252.96644326195,4262529.66443262,North America,Q3-2026,Guess occur level work candidate.
+SO-1000184,Dealer-D044,PROD-380,Model 380F Excavator,Excavators,2026-04-28,Delivered,12,289209.8285487469,3470517.9425849626,Europe,Q2-2026,Assume huge response long improve.
+SO-1000185,Dealer-D041,PROD-380,Model 380F Excavator,Excavators,2026-05-19,Delivered,5,234382.6563993226,1171913.281996613,South America,Q3-2026,Statement available win politics last quite general there.
+SO-1000186,Dealer-D048,PROD-3600,Model 3600 Engine,Engines,2026-05-16,In Production,6,265667.04046154185,1594002.242769251,Asia Pacific,Q3-2026,Policy consider whom item treat area buy check clearly follow.
+SO-1000187,Dealer-D028,PROD-390,Model 390F Excavator,Excavators,2026-02-26,Shipped,1,83347.44015869018,83347.44015869018,Africa,Q2-2026,Generation wait thus suffer economy play nearly.
+SO-1000188,Dealer-D015,PROD-390,Model 390F Excavator,Excavators,2026-05-03,Shipped,3,149050.0966571389,447150.2899714167,Europe,Q3-2026,Person pass behavior political option oil.
+SO-1000189,Dealer-D004,PROD-390,Model 390F Excavator,Excavators,2026-03-16,Shipped,2,347757.9297799354,695515.8595598708,Asia Pacific,Q3-2026,Probably result painting successful nor stay.
+SO-1000190,Dealer-D034,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-17,Shipped,12,311456.7920187992,3737481.5042255907,South America,Q1-2026,Ball we side enough decision.
+SO-1000191,Dealer-D048,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-27,Delivered,4,113146.03318708175,452584.132748327,Asia Pacific,Q1-2026,Indicate police marriage phone face what lot source rate father.
+SO-1000192,Dealer-D007,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-07,Backlog,6,387490.00930343184,2324940.055820591,Europe,Q1-2026,Read citizen indeed less future.
+SO-1000193,Dealer-D026,PROD-390,Model 390F Excavator,Excavators,2026-03-03,Delivered,6,223795.3967676638,1342772.3806059828,North America,Q4-2026,Fine responsibility safe team wish candidate.
+SO-1000194,Dealer-D045,PROD-3600,Model 3600 Engine,Engines,2026-04-04,Confirmed,1,313100.64057462115,313100.64057462115,Europe,Q2-2026,Middle blood drop business last cell anything war.
+SO-1000195,Dealer-D023,PROD-3600,Model 3600 Engine,Engines,2026-03-03,Delivered,1,172375.71773830193,172375.71773830193,Europe,Q2-2026,Industry while total spend value return couple city you level these.
+SO-1000196,Dealer-D003,PROD-3500,Model 3500 Engine,Engines,2026-06-22,In Production,5,362588.4315021775,1812942.1575108874,Asia Pacific,Q3-2026,Age war measure whom Democrat good anything manager think.
+SO-1000197,Dealer-D022,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-12,Delayed,8,492487.5455683103,3939900.3645464825,South America,Q1-2026,Experience account blue care enough hand idea and anything.
+SO-1000198,Dealer-D020,PROD-3500,Model 3500 Engine,Engines,2026-01-28,In Production,10,64017.09175702598,640170.9175702598,Africa,Q1-2026,Crime network available mean share evidence writer quite budget window.
+SO-1000199,Dealer-D032,PROD-380,Model 380F Excavator,Excavators,2026-03-20,Delayed,5,333517.945315992,1667589.72657996,North America,Q4-2026,Health would newspaper hand certain own husband American.
+SO-1000200,Dealer-D046,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-06,Delayed,8,498270.9530744505,3986167.624595604,South America,Q4-2026,Case four listen lead paper.
+SO-1000201,Dealer-D011,PROD-3500,Model 3500 Engine,Engines,2026-05-05,Backlog,6,92713.07156975137,556278.4294185082,Europe,Q1-2026,Cause use five hotel pattern successful order medical meeting majority.
+SO-1000202,Dealer-D031,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-19,In Production,3,307023.0343800625,921069.1031401874,Africa,Q1-2026,Feel staff happy purpose woman on someone rise read ago.
+SO-1000203,Dealer-D035,PROD-390,Model 390F Excavator,Excavators,2026-05-29,Confirmed,3,232705.3107677498,698115.9323032494,Asia Pacific,Q4-2026,Enter pretty will official dinner anything lose modern return.
+SO-1000204,Dealer-D035,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-15,Delayed,10,330684.3881888041,3306843.881888041,Europe,Q2-2026,Challenge quite all way body affect finish charge.
+SO-1000205,Dealer-D035,PROD-380,Model 380F Excavator,Excavators,2026-03-26,Backlog,3,311427.67094968073,934283.0128490422,Europe,Q3-2026,Improve simple turn their save artist.
+SO-1000206,Dealer-D002,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-02,Delivered,12,152993.95811757454,1835927.4974108944,Europe,Q2-2026,Million night your long heavy what.
+SO-1000207,Dealer-D034,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-28,Shipped,5,334882.69407478085,1674413.4703739043,Africa,Q4-2026,Treatment garden great sign return poor really particular court.
+SO-1000208,Dealer-D050,PROD-390,Model 390F Excavator,Excavators,2026-04-23,Delivered,4,472969.3063864201,1891877.2255456804,Europe,Q1-2026,Everything fear walk word side relate real.
+SO-1000209,Dealer-D018,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-30,Delivered,8,466271.22890435654,3730169.8312348523,North America,Q3-2026,First give value somebody event business quality here woman.
+SO-1000210,Dealer-D025,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-30,Delayed,3,386507.4573917176,1159522.3721751529,North America,Q3-2026,West source fact explain research get kind either.
+SO-1000211,Dealer-D040,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-24,In Production,1,426815.1858965678,426815.1858965678,Asia Pacific,Q2-2026,Degree still even no even body scientist dream anything.
+SO-1000212,Dealer-D048,PROD-3500,Model 3500 Engine,Engines,2026-04-29,Backlog,10,411264.92067102523,4112649.2067102524,Europe,Q4-2026,Difficult do beyond form line race case who within citizen.
+SO-1000213,Dealer-D026,PROD-3600,Model 3600 Engine,Engines,2026-02-06,Backlog,1,174655.63594669045,174655.63594669045,South America,Q3-2026,Local current white fly position traditional become off movement.
+SO-1000214,Dealer-D008,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-12,Confirmed,6,366188.092636203,2197128.555817218,South America,Q2-2026,Tree company think compare try.
+SO-1000215,Dealer-D017,PROD-390,Model 390F Excavator,Excavators,2026-04-26,Delivered,8,447311.66743342497,3578493.3394673998,Africa,Q3-2026,Small control see the face also fear owner.
+SO-1000216,Dealer-D047,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-25,Delayed,5,410033.0444345906,2050165.2221729532,North America,Q3-2026,Expect writer myself management voice surface life cover.
+SO-1000217,Dealer-D020,PROD-320,Model 320 Excavator,Excavators,2026-04-29,Delayed,12,259254.2828868924,3111051.394642709,Asia Pacific,Q4-2026,Former room possible responsibility add.
+SO-1000218,Dealer-D039,PROD-320,Model 320 Excavator,Excavators,2026-04-29,Delayed,1,351188.87412284565,351188.87412284565,Africa,Q3-2026,So nothing serious compare task today still middle.
+SO-1000219,Dealer-D046,PROD-3600,Model 3600 Engine,Engines,2026-06-27,In Production,8,144856.8956975129,1158855.1655801032,Asia Pacific,Q2-2026,Husband believe word local very.
+SO-1000220,Dealer-D038,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-18,Delivered,4,247305.5218627602,989222.0874510407,Africa,Q2-2026,End dog send west.
+SO-1000221,Dealer-D040,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-09,In Production,10,120007.14659118604,1200071.4659118603,Africa,Q2-2026,Old of end growth door property let.
+SO-1000222,Dealer-D010,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-28,In Production,1,209163.50896133028,209163.50896133028,Asia Pacific,Q1-2026,If maybe time region financial brother.
+SO-1000223,Dealer-D026,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-04,Delayed,2,204190.31593513468,408380.63187026937,South America,Q3-2026,Happen determine whatever long lawyer writer health.
+SO-1000224,Dealer-D011,PROD-320,Model 320 Excavator,Excavators,2026-01-10,In Production,10,186630.7721647281,1866307.7216472812,Asia Pacific,Q4-2026,Tree serious soon stay seven quite other skin moment month.
+SO-1000225,Dealer-D023,PROD-3500,Model 3500 Engine,Engines,2026-03-06,Shipped,8,492905.5246554953,3943244.1972439624,South America,Q1-2026,Back nor article natural measure of change foreign.
+SO-1000226,Dealer-D034,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-22,Delivered,12,308429.40879059496,3701152.9054871397,North America,Q3-2026,Kind quite response major together knowledge argue car indeed nor.
+SO-1000227,Dealer-D042,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-16,Backlog,1,394322.14796754485,394322.14796754485,South America,Q3-2026,Left southern rich how staff second official and general as.
+SO-1000228,Dealer-D021,PROD-3600,Model 3600 Engine,Engines,2026-03-18,Shipped,12,271656.0818389839,3259872.982067807,Europe,Q4-2026,Various attorney value all important.
+SO-1000229,Dealer-D007,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-17,Delivered,2,105454.65907234617,210909.31814469234,Europe,Q1-2026,She within position inside year him.
+SO-1000230,Dealer-D032,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-21,Delivered,1,418035.3375447633,418035.3375447633,Africa,Q1-2026,Heart radio product much president girl condition Mr.
+SO-1000231,Dealer-D026,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-12,Delivered,8,469545.2412029949,3756361.929623959,Europe,Q2-2026,Camera without strong series without leg rest interest here discover.
+SO-1000232,Dealer-D038,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-22,In Production,3,148419.41014561243,445258.2304368373,South America,Q4-2026,Get every visit right both special information she this.
+SO-1000233,Dealer-D022,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-13,In Production,12,403539.3965881073,4842472.759057287,South America,Q3-2026,Drive attack order land.
+SO-1000234,Dealer-D012,PROD-3500,Model 3500 Engine,Engines,2026-02-28,Delivered,5,128805.41305865896,644027.0652932948,North America,Q3-2026,Each analysis keep music senior.
+SO-1000235,Dealer-D021,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-25,Delayed,8,315019.88372550387,2520159.069804031,Africa,Q3-2026,Cell year doctor trouble office.
+SO-1000236,Dealer-D042,PROD-3600,Model 3600 Engine,Engines,2026-06-26,In Production,4,219438.62950518425,877754.518020737,Asia Pacific,Q1-2026,Our pull fly few century produce determine feel article we.
+SO-1000237,Dealer-D001,PROD-3500,Model 3500 Engine,Engines,2026-06-01,Confirmed,10,464332.84265418595,4643328.426541859,Europe,Q2-2026,Personal interview many win walk provide.
+SO-1000238,Dealer-D047,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-05,Delivered,12,366119.753714811,4393437.044577732,South America,Q3-2026,Five indicate chance heavy senior list support feeling remain south.
+SO-1000239,Dealer-D017,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-13,Delayed,2,229039.56635784224,458079.1327156845,Africa,Q3-2026,None whose newspaper care drug.
+SO-1000240,Dealer-D021,PROD-320,Model 320 Excavator,Excavators,2026-04-22,In Production,8,340970.19977689785,2727761.598215183,North America,Q4-2026,Form bad last he movie stop.
+SO-1000241,Dealer-D010,PROD-320,Model 320 Excavator,Excavators,2026-05-08,Delayed,4,175311.82801739854,701247.3120695942,North America,Q2-2026,Environmental purpose owner them could.
+SO-1000242,Dealer-D047,PROD-3500,Model 3500 Engine,Engines,2026-02-13,In Production,3,389180.3316926021,1167540.9950778063,Asia Pacific,Q1-2026,Right next look thank four whatever address view while bring.
+SO-1000243,Dealer-D045,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-16,Delivered,10,465065.3681015463,4650653.681015464,Europe,Q4-2026,Trial receive region however dream focus executive letter possible.
+SO-1000244,Dealer-D042,PROD-380,Model 380F Excavator,Excavators,2026-05-19,Delayed,8,106468.83355961781,851750.6684769425,South America,Q1-2026,End mention market better wonder light style.
+SO-1000245,Dealer-D021,PROD-320,Model 320 Excavator,Excavators,2026-06-17,Shipped,8,467309.83126383374,3738478.65011067,Africa,Q1-2026,Have including none determine certainly end.
+SO-1000246,Dealer-D008,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-26,In Production,3,238362.0284891701,715086.0854675103,Africa,Q3-2026,Often individual charge form here street material pressure range either.
+SO-1000247,Dealer-D002,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-24,Delivered,8,169473.38334308256,1355787.0667446605,Europe,Q4-2026,Whom politics make collection some college result major true.
+SO-1000248,Dealer-D038,PROD-3600,Model 3600 Engine,Engines,2026-02-07,Delivered,8,319832.4058069646,2558659.246455717,South America,Q1-2026,Wrong whatever model stuff avoid stand any according case piece.
+SO-1000249,Dealer-D043,PROD-390,Model 390F Excavator,Excavators,2026-02-27,Delivered,4,355151.2239293939,1420604.8957175757,Asia Pacific,Q3-2026,Religious across media health pay.
+SO-1000250,Dealer-D046,PROD-380,Model 380F Excavator,Excavators,2026-04-09,Delayed,10,190923.4408233997,1909234.408233997,South America,Q2-2026,Tree process administration mother in admit reveal movie expert maybe recently.
+SO-1000251,Dealer-D048,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-07,Shipped,10,472548.3899386899,4725483.899386899,Asia Pacific,Q3-2026,South travel blood benefit chance court money spring environment.
+SO-1000252,Dealer-D009,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-17,Shipped,10,203641.37132193425,2036413.7132193425,South America,Q3-2026,Bad where learn during recently feel stock ball.
+SO-1000253,Dealer-D024,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-14,Delivered,4,389240.63721946086,1556962.5488778434,Europe,Q4-2026,Behavior here need argue act.
+SO-1000254,Dealer-D005,PROD-380,Model 380F Excavator,Excavators,2026-01-27,In Production,1,53095.08299884219,53095.08299884219,Africa,Q4-2026,Bar suddenly population former with wind.
+SO-1000255,Dealer-D026,PROD-3600,Model 3600 Engine,Engines,2026-04-05,Backlog,2,453003.28165932745,906006.5633186549,North America,Q2-2026,Try discover top realize note even under range exactly myself.
+SO-1000256,Dealer-D025,PROD-3600,Model 3600 Engine,Engines,2026-06-07,Shipped,3,203948.4293886173,611845.288165852,North America,Q4-2026,Conference sure administration debate certain.
+SO-1000257,Dealer-D022,PROD-320,Model 320 Excavator,Excavators,2026-04-26,Backlog,6,356968.92270273576,2141813.5362164145,Asia Pacific,Q3-2026,Up federal nor note support quality music himself.
+SO-1000258,Dealer-D046,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-21,Delivered,10,102462.38355006353,1024623.8355006353,North America,Q3-2026,So ready bad seat generation best.
+SO-1000259,Dealer-D048,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-01,Delayed,2,97633.95614505898,195267.91229011797,Europe,Q4-2026,Stuff future shoulder western however similar ahead.
+SO-1000260,Dealer-D050,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-30,Delayed,4,54864.987635838355,219459.95054335342,Africa,Q4-2026,Situation late direction need heart control one.
+SO-1000261,Dealer-D005,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-24,Backlog,5,103419.09297910015,517095.4648955008,Africa,Q1-2026,Beat peace something require bank child Republican plant.
+SO-1000262,Dealer-D009,PROD-3600,Model 3600 Engine,Engines,2026-04-14,Delivered,3,346422.93742716,1039268.81228148,Asia Pacific,Q3-2026,First blood accept final growth especially car cost.
+SO-1000263,Dealer-D026,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-05,Delayed,6,240596.56219635336,1443579.3731781202,South America,Q1-2026,News mention billion bed never others six tell activity.
+SO-1000264,Dealer-D047,PROD-3600,Model 3600 Engine,Engines,2026-01-31,Delivered,4,62262.5053778668,249050.0215114672,Africa,Q3-2026,Hold be top toward within occur college herself.
+SO-1000265,Dealer-D001,PROD-3500,Model 3500 Engine,Engines,2026-06-19,Confirmed,5,385330.7729163265,1926653.8645816324,Europe,Q1-2026,Especially environmental certainly cold every feel.
+SO-1000266,Dealer-D016,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-24,In Production,1,197680.7672589254,197680.7672589254,North America,Q2-2026,Guess want result many pattern.
+SO-1000267,Dealer-D017,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-12,Delayed,10,413782.5825021609,4137825.825021609,Europe,Q1-2026,Blood fight we forward per sound forget friend spring.
+SO-1000268,Dealer-D049,PROD-320,Model 320 Excavator,Excavators,2026-06-12,Confirmed,6,355639.6180405262,2133837.7082431572,North America,Q2-2026,Carry fly water cut fire who why fact reason make.
+SO-1000269,Dealer-D026,PROD-320,Model 320 Excavator,Excavators,2026-01-20,Delivered,6,122548.46538880515,735290.792332831,South America,Q4-2026,Site for exactly skill half usually customer young conference should.
+SO-1000270,Dealer-D017,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-14,Confirmed,8,237950.14811764762,1903601.184941181,Europe,Q3-2026,Well left remain just fact.
+SO-1000271,Dealer-D043,PROD-380,Model 380F Excavator,Excavators,2026-03-22,Delivered,3,209599.7922432873,628799.3767298618,South America,Q4-2026,Standard somebody important material plan.
+SO-1000272,Dealer-D044,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-01,Backlog,1,454667.1615161103,454667.1615161103,Europe,Q4-2026,Education child institution help last our old.
+SO-1000273,Dealer-D036,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-27,Shipped,5,81548.66283856562,407743.31419282814,Asia Pacific,Q4-2026,Media turn reality myself so growth time Mr point be.
+SO-1000274,Dealer-D016,PROD-390,Model 390F Excavator,Excavators,2026-06-22,In Production,2,300668.23097376584,601336.4619475317,Europe,Q3-2026,Price great positive and worker quality hundred.
+SO-1000275,Dealer-D009,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-14,Backlog,2,448781.7974582053,897563.5949164106,Europe,Q3-2026,Whole involve action else member million oil offer.
+SO-1000276,Dealer-D042,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-30,Delivered,6,289082.3082579194,1734493.8495475163,Africa,Q3-2026,Hear leg quickly real character young lot far turn.
+SO-1000277,Dealer-D034,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-04,In Production,6,474428.67033257824,2846572.0219954695,Asia Pacific,Q4-2026,Break wait center find lay.
+SO-1000278,Dealer-D029,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-06,Delivered,2,162276.38585723378,324552.77171446756,North America,Q1-2026,Miss give best reveal laugh attack.
+SO-1000279,Dealer-D010,PROD-390,Model 390F Excavator,Excavators,2026-01-06,In Production,10,67671.23640874354,676712.3640874354,Europe,Q3-2026,Special boy support possible quality.
+SO-1000280,Dealer-D017,PROD-390,Model 390F Excavator,Excavators,2026-03-22,Delayed,12,144898.80245635466,1738785.629476256,Europe,Q2-2026,Upon scientist might necessary former interview.
+SO-1000281,Dealer-D001,PROD-390,Model 390F Excavator,Excavators,2026-05-30,Backlog,8,169667.80278445344,1357342.4222756275,Europe,Q1-2026,Discussion if continue policy it ahead pass culture or.
+SO-1000282,Dealer-D012,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-14,In Production,1,243942.75586436992,243942.75586436992,North America,Q3-2026,Above Democrat everything region somebody officer son Mr.
+SO-1000283,Dealer-D010,PROD-380,Model 380F Excavator,Excavators,2026-05-05,Delivered,5,188247.3876595719,941236.9382978594,North America,Q4-2026,For leader energy television month police others particularly.
+SO-1000284,Dealer-D034,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-22,Delivered,12,408744.98266044323,4904939.791925319,South America,Q2-2026,Box goal leader common purpose song try opportunity public finish.
+SO-1000285,Dealer-D041,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-19,In Production,3,321102.2488849645,963306.7466548935,Europe,Q3-2026,Figure consumer really memory industry case himself.
+SO-1000286,Dealer-D011,PROD-320,Model 320 Excavator,Excavators,2026-05-29,Confirmed,6,488610.7682218482,2931664.609331089,South America,Q4-2026,Main Mr try us community cold.
+SO-1000287,Dealer-D042,PROD-3600,Model 3600 Engine,Engines,2026-02-23,Delayed,1,54359.09723343548,54359.09723343548,Europe,Q2-2026,Cell fire late approach grow act carry.
+SO-1000288,Dealer-D016,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-18,Delivered,4,488210.1860107173,1952840.7440428692,Europe,Q3-2026,White measure manager range indeed style major bar.
+SO-1000289,Dealer-D027,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-07,Confirmed,8,297440.85324929236,2379526.825994339,Asia Pacific,Q1-2026,Somebody determine allow different eye.
+SO-1000290,Dealer-D043,PROD-3500,Model 3500 Engine,Engines,2026-03-04,Delayed,1,151735.5819547532,151735.5819547532,Africa,Q2-2026,Not significant manager member of environmental myself yard my.
+SO-1000291,Dealer-D016,PROD-390,Model 390F Excavator,Excavators,2026-01-28,Delayed,6,201854.42553390304,1211126.5532034182,South America,Q3-2026,Service kid despite interesting save.
+SO-1000292,Dealer-D045,PROD-390,Model 390F Excavator,Excavators,2026-05-04,Shipped,5,377388.15360129275,1886940.7680064638,Asia Pacific,Q3-2026,Fear yourself last give stage keep yes.
+SO-1000293,Dealer-D013,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-21,In Production,5,392072.41840557155,1960362.0920278577,Asia Pacific,Q1-2026,Decide scene ready technology particular into pattern.
+SO-1000294,Dealer-D006,PROD-390,Model 390F Excavator,Excavators,2026-05-10,In Production,6,106504.51038676311,639027.0623205786,Asia Pacific,Q2-2026,Spend south now mother others collection.
+SO-1000295,Dealer-D045,PROD-380,Model 380F Excavator,Excavators,2026-02-03,Delayed,6,166922.66207313476,1001535.9724388085,Asia Pacific,Q3-2026,Eye environment teach world quickly believe while.
+SO-1000296,Dealer-D036,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-27,Delivered,6,158239.21333106695,949435.2799864017,North America,Q4-2026,Try yeah term camera tend economic represent stock.
+SO-1000297,Dealer-D009,PROD-390,Model 390F Excavator,Excavators,2026-02-19,Delivered,2,70382.58962588485,140765.1792517697,Europe,Q1-2026,Majority officer environmental increase later plant they behavior.
+SO-1000298,Dealer-D022,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-09,Shipped,2,63509.59946708234,127019.19893416468,Asia Pacific,Q3-2026,Seek reason theory lawyer maintain old than suggest behavior will.
+SO-1000299,Dealer-D042,PROD-380,Model 380F Excavator,Excavators,2026-03-26,Delayed,3,493328.54979080363,1479985.649372411,Europe,Q4-2026,Sure somebody huge why station manager follow exist.
+SO-1000300,Dealer-D010,PROD-3600,Model 3600 Engine,Engines,2026-03-01,Delayed,10,303904.3175080412,3039043.175080412,Africa,Q3-2026,Official not magazine gas radio any between six least buy.
+SO-1000301,Dealer-D043,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-09,Delivered,8,94795.93076394881,758367.4461115905,South America,Q4-2026,Kid a when dark read car.
+SO-1000302,Dealer-D031,PROD-3500,Model 3500 Engine,Engines,2026-04-02,Delayed,1,343441.8778467428,343441.8778467428,South America,Q2-2026,City usually ever pressure economy head tough.
+SO-1000303,Dealer-D024,PROD-390,Model 390F Excavator,Excavators,2026-04-18,Backlog,3,106679.83837071122,320039.5151121337,Europe,Q3-2026,Appear personal rise sense investment before.
+SO-1000304,Dealer-D045,PROD-380,Model 380F Excavator,Excavators,2026-01-12,Delivered,3,354417.687284272,1063253.061852816,South America,Q1-2026,Ability live car difficult quite.
+SO-1000305,Dealer-D016,PROD-3600,Model 3600 Engine,Engines,2026-03-01,In Production,6,243078.06618619966,1458468.397117198,North America,Q4-2026,Account gas building team.
+SO-1000306,Dealer-D010,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-09,Delivered,1,331398.57647950423,331398.57647950423,South America,Q3-2026,Local director become south billion happen.
+SO-1000307,Dealer-D037,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-22,Confirmed,12,432250.882801581,5187010.593618972,North America,Q4-2026,Case similar send card year central most.
+SO-1000308,Dealer-D034,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-30,Confirmed,2,235118.5571356652,470237.1142713304,South America,Q1-2026,Particular clearly goal defense.
+SO-1000309,Dealer-D010,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-25,Delayed,4,267221.0628846205,1068884.251538482,Europe,Q4-2026,Turn pattern kind describe to cause.
+SO-1000310,Dealer-D036,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-04,Backlog,2,348721.0136837263,697442.0273674526,Africa,Q3-2026,Operation himself white fire cause everybody.
+SO-1000311,Dealer-D012,PROD-320,Model 320 Excavator,Excavators,2026-06-05,Delivered,4,303763.8050400307,1215055.2201601227,South America,Q2-2026,Easy over return expect wait.
+SO-1000312,Dealer-D014,PROD-320,Model 320 Excavator,Excavators,2026-05-26,Backlog,10,203431.35714600125,2034313.5714600123,Asia Pacific,Q2-2026,Summer probably feeling military meeting.
+SO-1000313,Dealer-D006,PROD-390,Model 390F Excavator,Excavators,2026-06-22,Delayed,4,377077.4739717069,1508309.8958868275,Africa,Q4-2026,Far approach today west manager both matter order.
+SO-1000314,Dealer-D025,PROD-3500,Model 3500 Engine,Engines,2026-06-22,Delivered,4,326518.59988023405,1306074.3995209362,Africa,Q3-2026,Thousand activity guess first hit stuff inside national common likely.
+SO-1000315,Dealer-D016,PROD-320,Model 320 Excavator,Excavators,2026-05-29,Shipped,10,107498.5937554957,1074985.937554957,Asia Pacific,Q4-2026,Admit attack energy always art.
+SO-1000316,Dealer-D017,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-22,Delayed,8,106822.01169847933,854576.0935878346,North America,Q1-2026,Media pick may indeed reduce bar Mr pattern.
+SO-1000317,Dealer-D047,PROD-3600,Model 3600 Engine,Engines,2026-01-05,In Production,4,340206.30738156015,1360825.2295262406,Europe,Q1-2026,Base bad TV window choice force only.
+SO-1000318,Dealer-D031,PROD-380,Model 380F Excavator,Excavators,2026-01-17,Confirmed,3,116697.85794469608,350093.5738340882,Africa,Q3-2026,Financial join well draw each.
+SO-1000319,Dealer-D020,PROD-380,Model 380F Excavator,Excavators,2026-05-13,Delayed,12,298900.3869762672,3586804.6437152065,South America,Q1-2026,Break partner area program price compare actually case activity.
+SO-1000320,Dealer-D005,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-13,Confirmed,8,266021.3197895385,2128170.558316308,Europe,Q3-2026,Well mission situation result cold camera sit environmental though.
+SO-1000321,Dealer-D047,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-29,Backlog,6,443128.3379317469,2658770.0275904816,Europe,Q1-2026,Friend investment model enjoy window.
+SO-1000322,Dealer-D047,PROD-3500,Model 3500 Engine,Engines,2026-03-22,Delivered,2,352628.2682031421,705256.5364062842,Africa,Q4-2026,Baby lawyer growth matter note happy effort bill off reveal direction.
+SO-1000323,Dealer-D033,PROD-380,Model 380F Excavator,Excavators,2026-06-12,Delivered,5,310321.6287031985,1551608.1435159924,Africa,Q4-2026,Able teach activity animal hair turn condition whether along sort.
+SO-1000324,Dealer-D009,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-04,Delivered,3,274981.5463841548,824944.6391524645,Africa,Q3-2026,Different eat trouble floor step number budget pull apply.
+SO-1000325,Dealer-D013,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-27,Delayed,4,271424.5202220803,1085698.0808883212,Europe,Q3-2026,Source wonder west attention let executive suddenly.
+SO-1000326,Dealer-D008,PROD-390,Model 390F Excavator,Excavators,2026-02-11,Delivered,3,265320.9815482351,795962.9446447054,Asia Pacific,Q1-2026,Beat lead hard factor six science drug happy.
+SO-1000327,Dealer-D020,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-08,Delivered,3,313514.4577426756,940543.3732280268,Europe,Q2-2026,Young simply run national somebody character usually agency must.
+SO-1000328,Dealer-D042,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-08,In Production,3,360189.6854462106,1080569.0563386318,North America,Q2-2026,Week ability price support.
+SO-1000329,Dealer-D028,PROD-3500,Model 3500 Engine,Engines,2026-04-09,Confirmed,10,295147.50214225496,2951475.0214225496,Europe,Q3-2026,Billion morning draw man art young Republican.
+SO-1000330,Dealer-D004,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-20,Shipped,6,300409.0868069699,1802454.5208418192,Africa,Q1-2026,Analysis discuss suddenly including time.
+SO-1000331,Dealer-D046,PROD-320,Model 320 Excavator,Excavators,2026-03-29,Delayed,12,488830.98918897874,5865971.870267745,North America,Q4-2026,Window be believe card star avoid nothing itself who.
+SO-1000332,Dealer-D004,PROD-3500,Model 3500 Engine,Engines,2026-01-07,Delayed,6,297712.2996963232,1786273.7981779394,South America,Q4-2026,Factor surface unit hotel story for laugh.
+SO-1000333,Dealer-D043,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-26,In Production,12,77916.54363295168,934998.5235954202,Asia Pacific,Q2-2026,Avoid dark sister once choice clearly letter.
+SO-1000334,Dealer-D014,PROD-380,Model 380F Excavator,Excavators,2026-01-30,Confirmed,1,97851.78380670222,97851.78380670222,Asia Pacific,Q1-2026,Building group show later leg system bed space.
+SO-1000335,Dealer-D045,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-28,Delivered,6,224273.4851411786,1345640.9108470716,Asia Pacific,Q2-2026,Step recent American structure foreign before eat.
+SO-1000336,Dealer-D038,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-07,In Production,6,110909.94573797783,665459.6744278669,South America,Q2-2026,How any federal star community weight take new.
+SO-1000337,Dealer-D007,PROD-3600,Model 3600 Engine,Engines,2026-02-21,Shipped,1,107070.81014768846,107070.81014768846,South America,Q4-2026,Economic left sound cause activity store work candidate statement head.
+SO-1000338,Dealer-D017,PROD-390,Model 390F Excavator,Excavators,2026-06-20,Delivered,6,76354.38737804024,458126.3242682414,South America,Q1-2026,Visit base only true avoid young cup position speak begin suggest.
+SO-1000339,Dealer-D035,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-01,Delivered,3,182960.56608204168,548881.698246125,Europe,Q3-2026,Business walk anything under item right many him.
+SO-1000340,Dealer-D032,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-26,Shipped,3,118150.48487091079,354451.4546127324,Asia Pacific,Q1-2026,Common Democrat cost evidence third alone people early far.
+SO-1000341,Dealer-D017,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-17,In Production,8,276120.89457211946,2208967.1565769557,Europe,Q2-2026,Third look because him information poor something eat.
+SO-1000342,Dealer-D044,PROD-390,Model 390F Excavator,Excavators,2026-01-18,Delivered,5,137838.72405734714,689193.6202867357,South America,Q2-2026,Some writer site grow name machine tree maybe home conference.
+SO-1000343,Dealer-D023,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-14,Delayed,6,321500.3882954157,1929002.329772494,Europe,Q1-2026,Others ahead specific exactly speak line group once.
+SO-1000344,Dealer-D018,PROD-320,Model 320 Excavator,Excavators,2026-01-30,Confirmed,12,452779.3799830606,5433352.559796727,Asia Pacific,Q2-2026,Wind beyond prevent entire staff true argue.
+SO-1000345,Dealer-D030,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-17,Delayed,6,88759.46257865615,532556.7754719369,North America,Q3-2026,Offer work home very yard community door.
+SO-1000346,Dealer-D015,PROD-3600,Model 3600 Engine,Engines,2026-06-29,Confirmed,8,221428.33026056376,1771426.64208451,Europe,Q3-2026,South recently trial agreement red way nor none.
+SO-1000347,Dealer-D043,PROD-3600,Model 3600 Engine,Engines,2026-06-15,Delayed,5,457492.4770680055,2287462.3853400275,South America,Q3-2026,Student special wife my compare also.
+SO-1000348,Dealer-D004,PROD-3600,Model 3600 Engine,Engines,2026-04-23,Delivered,2,409902.51400060253,819805.0280012051,Asia Pacific,Q3-2026,Discussion despite money a truth.
+SO-1000349,Dealer-D006,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-25,Shipped,8,319353.346947992,2554826.775583936,Asia Pacific,Q4-2026,Southern future concern sort than arrive.
+SO-1000350,Dealer-D028,PROD-380,Model 380F Excavator,Excavators,2026-04-29,In Production,1,307223.4422673247,307223.4422673247,Africa,Q3-2026,Only true similar suffer team whether.
+SO-1000351,Dealer-D005,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-22,Delivered,8,218213.6489901511,1745709.1919212088,Europe,Q3-2026,Relate product only from follow wish run join.
+SO-1000352,Dealer-D003,PROD-380,Model 380F Excavator,Excavators,2026-01-10,Shipped,3,73017.59252917893,219052.77758753678,Africa,Q1-2026,Power company why really up skin development open compare.
+SO-1000353,Dealer-D019,PROD-380,Model 380F Excavator,Excavators,2026-05-16,Confirmed,10,427615.9736318386,4276159.736318386,Asia Pacific,Q3-2026,Safe family concern ability reduce of surface.
+SO-1000354,Dealer-D021,PROD-380,Model 380F Excavator,Excavators,2026-02-14,Delivered,10,308239.63235469337,3082396.323546934,North America,Q4-2026,Allow own TV whose determine not view cell seat draw.
+SO-1000355,Dealer-D014,PROD-320,Model 320 Excavator,Excavators,2026-03-12,In Production,8,69829.63770667162,558637.101653373,North America,Q1-2026,Collection those become remember police though land enter.
+SO-1000356,Dealer-D044,PROD-3500,Model 3500 Engine,Engines,2026-01-10,Confirmed,10,183475.61697069192,1834756.1697069192,Asia Pacific,Q1-2026,Really go skin result answer just information.
+SO-1000357,Dealer-D017,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-22,Confirmed,12,124733.68355008117,1496804.2026009741,Africa,Q3-2026,This manage her national big look.
+SO-1000358,Dealer-D025,PROD-3600,Model 3600 Engine,Engines,2026-05-21,In Production,2,352575.415759417,705150.831518834,Asia Pacific,Q3-2026,Prepare reach class available suffer far five weight avoid color.
+SO-1000359,Dealer-D027,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-09,Backlog,12,94290.88509561593,1131490.6211473912,Africa,Q1-2026,Claim avoid walk within full world throw relate.
+SO-1000360,Dealer-D005,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-28,In Production,6,327888.1017780402,1967328.610668241,South America,Q3-2026,Wall close threat church big day couple recent reveal.
+SO-1000361,Dealer-D045,PROD-3600,Model 3600 Engine,Engines,2026-06-24,Delivered,2,332485.4367038014,664970.8734076028,Europe,Q3-2026,Enter example down anyone occur style child guess into far.
+SO-1000362,Dealer-D039,PROD-320,Model 320 Excavator,Excavators,2026-01-26,Shipped,6,378609.5004610406,2271657.0027662436,North America,Q3-2026,Outside current agent color factor bank such final however major produce.
+SO-1000363,Dealer-D043,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-31,In Production,10,409621.0869971519,4096210.869971519,Asia Pacific,Q4-2026,Politics hold he high cost.
+SO-1000364,Dealer-D033,PROD-380,Model 380F Excavator,Excavators,2026-01-28,Confirmed,4,439890.4325928651,1759561.7303714603,South America,Q3-2026,Enjoy let difficult environmental article.
+SO-1000365,Dealer-D034,PROD-380,Model 380F Excavator,Excavators,2026-06-17,Delivered,6,231232.76813607384,1387396.608816443,Asia Pacific,Q4-2026,Beat gas must wife operation.
+SO-1000366,Dealer-D035,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-26,Shipped,10,107406.5785571169,1074065.7855711689,Europe,Q4-2026,Article hit mission whole reach view of dog federal house.
+SO-1000367,Dealer-D023,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-06,In Production,2,309017.0428880369,618034.0857760739,North America,Q3-2026,Maybe too song quality per.
+SO-1000368,Dealer-D023,PROD-3600,Model 3600 Engine,Engines,2026-03-29,In Production,3,422374.433736053,1267123.301208159,South America,Q4-2026,We last we cold deep cover.
+SO-1000369,Dealer-D020,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-01,Shipped,12,385131.5275231445,4621578.3302777335,Africa,Q2-2026,Interest write itself young physical.
+SO-1000370,Dealer-D040,PROD-3500,Model 3500 Engine,Engines,2026-03-28,Shipped,4,167599.8580484227,670399.4321936908,North America,Q4-2026,Election treat trial attack hold however for everybody leader them.
+SO-1000371,Dealer-D041,PROD-3600,Model 3600 Engine,Engines,2026-01-25,Backlog,2,236981.3283779297,473962.6567558594,Africa,Q2-2026,Onto site both change note old who beyond black single size.
+SO-1000372,Dealer-D006,PROD-3600,Model 3600 Engine,Engines,2026-06-17,Shipped,3,128484.17020017478,385452.5106005243,Europe,Q2-2026,They there enough pressure occur list common idea peace race.
+SO-1000373,Dealer-D049,PROD-390,Model 390F Excavator,Excavators,2026-05-05,Delayed,10,284619.65966318356,2846196.5966318357,Asia Pacific,Q1-2026,Although threat former down second TV today after.
+SO-1000374,Dealer-D045,PROD-3500,Model 3500 Engine,Engines,2026-05-06,Delivered,2,450796.30495782907,901592.6099156581,Europe,Q3-2026,Financial successful teach range win direction feel.
+SO-1000375,Dealer-D019,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-16,Delivered,6,460868.6601004352,2765211.9606026113,Europe,Q1-2026,Similar fly rock painting become kid tree imagine machine.
+SO-1000376,Dealer-D034,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-26,Delivered,2,246197.83125676363,492395.66251352726,Africa,Q2-2026,Test start middle city find medical career surface these ahead.
+SO-1000377,Dealer-D006,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-17,Delayed,8,375382.23622235097,3003057.8897788078,North America,Q4-2026,Themselves customer arm almost anything growth.
+SO-1000378,Dealer-D018,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-05,Shipped,12,322177.74321316154,3866132.918557938,North America,Q1-2026,Ever statement measure play buy air.
+SO-1000379,Dealer-D009,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-12,In Production,1,59062.03202718042,59062.03202718042,Asia Pacific,Q1-2026,Major land whether listen necessary general study else.
+SO-1000380,Dealer-D005,PROD-390,Model 390F Excavator,Excavators,2026-03-20,Delayed,2,448661.2979738412,897322.5959476824,Asia Pacific,Q2-2026,Expect hit clear occur who.
+SO-1000381,Dealer-D045,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-05,Confirmed,12,445888.5810324546,5350662.972389456,North America,Q2-2026,Positive question especially important after sister should.
+SO-1000382,Dealer-D011,PROD-380,Model 380F Excavator,Excavators,2026-02-11,Delivered,4,275026.216635989,1100104.866543956,South America,Q4-2026,Listen car community song.
+SO-1000383,Dealer-D009,PROD-390,Model 390F Excavator,Excavators,2026-05-10,In Production,6,234807.1848546273,1408843.1091277637,Africa,Q3-2026,Education source figure whom poor interest heavy.
+SO-1000384,Dealer-D029,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-28,Delivered,5,394636.3897481339,1973181.9487406695,South America,Q4-2026,Learn design few minute perhaps once account yourself.
+SO-1000385,Dealer-D044,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-10,Delivered,12,378189.41021474276,4538272.922576914,South America,Q3-2026,No order executive range loss from everybody foot.
+SO-1000386,Dealer-D006,PROD-380,Model 380F Excavator,Excavators,2026-04-09,In Production,2,142961.45729980138,285922.91459960275,Africa,Q3-2026,End represent throughout federal change she tonight.
+SO-1000387,Dealer-D022,PROD-380,Model 380F Excavator,Excavators,2026-05-06,Delayed,10,421345.117066834,4213451.17066834,Asia Pacific,Q3-2026,Identify floor cause agent market fast trade identify say on.
+SO-1000388,Dealer-D035,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-14,Delivered,1,345972.2662741791,345972.2662741791,Europe,Q1-2026,Staff gas require rather point little wait grow feel color.
+SO-1000389,Dealer-D025,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-28,Delivered,10,87082.68733787669,870826.8733787669,Europe,Q2-2026,Congress best campaign else space several consumer quite friend become.
+SO-1000390,Dealer-D017,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-04,Backlog,2,173164.30595526693,346328.61191053386,South America,Q3-2026,Development the inside thought he one less brother.
+SO-1000391,Dealer-D006,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-22,In Production,10,154075.96774217996,1540759.6774217996,South America,Q4-2026,Term on want author threat.
+SO-1000392,Dealer-D003,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-19,In Production,3,478574.03857942607,1435722.1157382783,Europe,Q4-2026,Build quite morning including that character yeah garden would.
+SO-1000393,Dealer-D020,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-28,Delivered,8,109259.10654629316,874072.8523703453,Asia Pacific,Q3-2026,Century television Congress ball forward would finish around later.
+SO-1000394,Dealer-D003,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-14,Shipped,8,372859.2457753605,2982873.966202884,Asia Pacific,Q3-2026,Seven collection share majority shake because.
+SO-1000395,Dealer-D041,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-27,Delivered,1,135138.1065756597,135138.1065756597,North America,Q3-2026,Its investment investment local above move room wear throughout series most.
+SO-1000396,Dealer-D017,PROD-380,Model 380F Excavator,Excavators,2026-06-25,Backlog,5,491558.71885495796,2457793.59427479,Europe,Q4-2026,Quality phone eat really.
+SO-1000397,Dealer-D014,PROD-3500,Model 3500 Engine,Engines,2026-05-04,Delivered,10,112661.08006734928,1126610.8006734927,South America,Q3-2026,Fine bill me fill assume animal way lay.
+SO-1000398,Dealer-D015,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-27,In Production,2,334119.18993951945,668238.3798790389,Europe,Q2-2026,Others full thousand yet garden top grow could way truth.
+SO-1000399,Dealer-D047,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-08,Delivered,10,489915.4821552694,4899154.821552694,Asia Pacific,Q1-2026,Affect difference world deep against mean but represent.
+SO-1000400,Dealer-D013,PROD-3500,Model 3500 Engine,Engines,2026-02-03,In Production,12,127218.3651793355,1526620.382152026,Africa,Q3-2026,Heart policy side perhaps order.
+SO-1000401,Dealer-D031,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-07,Shipped,10,228539.7754049882,2285397.7540498823,Africa,Q2-2026,Product president after ready indicate.
+SO-1000402,Dealer-D025,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-04,Delayed,4,239986.50524630514,959946.0209852206,Europe,Q1-2026,Buy education reduce day rate act inside big.
+SO-1000403,Dealer-D016,PROD-3600,Model 3600 Engine,Engines,2026-05-02,In Production,1,111812.78568590341,111812.78568590341,South America,Q4-2026,Establish paper case store bit responsibility brother box blood cup.
+SO-1000404,Dealer-D021,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-04,Delayed,6,190207.28281200302,1141243.696872018,Africa,Q4-2026,Sing story win group important civil.
+SO-1000405,Dealer-D016,PROD-380,Model 380F Excavator,Excavators,2026-04-15,Shipped,5,141908.94786579302,709544.7393289651,North America,Q2-2026,Many debate value former able public trade structure protect chance.
+SO-1000406,Dealer-D009,PROD-390,Model 390F Excavator,Excavators,2026-03-27,In Production,6,384031.5041691262,2304189.025014757,Europe,Q2-2026,Single avoid rich toward popular.
+SO-1000407,Dealer-D033,PROD-3600,Model 3600 Engine,Engines,2026-03-12,Delivered,1,154328.5812716269,154328.5812716269,Asia Pacific,Q4-2026,Write fast less between company always fact soon fine.
+SO-1000408,Dealer-D018,PROD-3500,Model 3500 Engine,Engines,2026-01-28,Backlog,12,387220.55752587016,4646646.690310442,South America,Q3-2026,Believe serve animal system professional.
+SO-1000409,Dealer-D050,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-25,Delayed,1,226314.90257772725,226314.90257772725,Africa,Q1-2026,Forget thus western environmental run head.
+SO-1000410,Dealer-D037,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-19,Delayed,1,437650.5587095959,437650.5587095959,Europe,Q2-2026,Consumer husband while even history surface son power.
+SO-1000411,Dealer-D034,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-08,Backlog,8,267454.4341439458,2139635.4731515665,South America,Q1-2026,Both receive around wall city indeed.
+SO-1000412,Dealer-D004,PROD-3500,Model 3500 Engine,Engines,2026-02-21,Delivered,2,93815.10220604949,187630.20441209897,North America,Q3-2026,Lot notice just particularly single particularly television they road through.
+SO-1000413,Dealer-D047,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-28,In Production,10,418491.1717342122,4184911.717342122,Europe,Q2-2026,Turn both in animal energy fire relate question should.
+SO-1000414,Dealer-D008,PROD-3500,Model 3500 Engine,Engines,2026-04-23,In Production,10,291913.08156165463,2919130.815616546,North America,Q3-2026,Rich difference what their mind read peace item risk loss.
+SO-1000415,Dealer-D035,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-06,Confirmed,3,198570.177642022,595710.532926066,South America,Q3-2026,Chance step throughout party activity various measure light.
+SO-1000416,Dealer-D017,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-22,Delayed,8,123929.07947258417,991432.6357806734,Europe,Q4-2026,Thank avoid man drive wife anyone development poor idea.
+SO-1000417,Dealer-D019,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-21,In Production,2,459243.27665864443,918486.5533172889,Asia Pacific,Q1-2026,Bad know of because material firm wonder.
+SO-1000418,Dealer-D029,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-14,In Production,1,479951.6861471304,479951.6861471304,Africa,Q4-2026,Bill include news a.
+SO-1000419,Dealer-D044,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-17,Delivered,1,426389.4153435378,426389.4153435378,North America,Q1-2026,Social white point three none.
+SO-1000420,Dealer-D023,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-21,In Production,5,177882.93307027794,889414.6653513897,Africa,Q4-2026,Wear guy approach development lawyer nice people list price.
+SO-1000421,Dealer-D014,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-06,In Production,3,365420.9142580997,1096262.742774299,North America,Q1-2026,Box service develop game stop who factor miss reduce.
+SO-1000422,Dealer-D012,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-30,In Production,12,340490.460384735,4085885.5246168203,Africa,Q2-2026,To manage state score important.
+SO-1000423,Dealer-D006,PROD-380,Model 380F Excavator,Excavators,2026-05-26,Confirmed,6,236082.43863048163,1416494.6317828898,South America,Q1-2026,Particularly could us hotel lead sit response.
+SO-1000424,Dealer-D007,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-07,Shipped,4,130592.72269768169,522370.89079072676,North America,Q1-2026,Serious another plan public but.
+SO-1000425,Dealer-D002,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-02,Delivered,1,278663.7733993374,278663.7733993374,Africa,Q2-2026,Leader operation mean white above save network item one.
+SO-1000426,Dealer-D035,PROD-380,Model 380F Excavator,Excavators,2026-03-28,Delivered,2,252627.11772418662,505254.23544837325,Europe,Q2-2026,Sit travel reality community spring billion price paper focus thing.
+SO-1000427,Dealer-D032,PROD-3600,Model 3600 Engine,Engines,2026-02-12,Delivered,8,419145.83966624044,3353166.7173299235,Asia Pacific,Q4-2026,Woman trouble several event white wife laugh card include.
+SO-1000428,Dealer-D006,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-10,Delivered,8,421163.1265909238,3369305.0127273905,Africa,Q2-2026,Federal reduce team Republican very plan cut person fact generation.
+SO-1000429,Dealer-D017,PROD-3500,Model 3500 Engine,Engines,2026-03-15,In Production,3,156867.4873262228,470602.46197866835,Asia Pacific,Q4-2026,Wonder practice when mean reason follow.
+SO-1000430,Dealer-D016,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-01,Shipped,1,136922.00378379473,136922.00378379473,South America,Q2-2026,Set no old wall report.
+SO-1000431,Dealer-D036,PROD-3600,Model 3600 Engine,Engines,2026-01-13,Confirmed,12,357741.5562090644,4292898.674508773,South America,Q1-2026,Experience suggest space mission agent certainly prove customer seek claim.
+SO-1000432,Dealer-D011,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-25,Confirmed,5,212177.31802435007,1060886.5901217503,North America,Q1-2026,Raise chair artist six daughter must grow.
+SO-1000433,Dealer-D024,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-20,In Production,10,294787.90007823537,2947879.000782354,North America,Q2-2026,Bill test science ten score night down six sometimes.
+SO-1000434,Dealer-D032,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-03,Backlog,10,188455.59026507684,1884555.9026507684,Africa,Q2-2026,Realize another high indicate small rate whole.
+SO-1000435,Dealer-D048,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-26,In Production,5,249697.10259151028,1248485.5129575515,South America,Q1-2026,Actually edge per sit thank.
+SO-1000436,Dealer-D017,PROD-3600,Model 3600 Engine,Engines,2026-02-11,In Production,4,462420.1180019814,1849680.4720079256,North America,Q2-2026,Treatment relate positive sense national owner simply.
+SO-1000437,Dealer-D049,PROD-390,Model 390F Excavator,Excavators,2026-03-23,Delivered,4,312407.5205537912,1249630.0822151648,Asia Pacific,Q1-2026,Family concern radio cost community message.
+SO-1000438,Dealer-D013,PROD-320,Model 320 Excavator,Excavators,2026-01-19,Delivered,4,269322.99875241925,1077291.995009677,Asia Pacific,Q1-2026,American evidence enough claim suffer accept letter visit.
+SO-1000439,Dealer-D018,PROD-320,Model 320 Excavator,Excavators,2026-05-11,Delivered,2,462749.26632118825,925498.5326423765,Asia Pacific,Q1-2026,Child follow anything usually past.
+SO-1000440,Dealer-D012,PROD-3500,Model 3500 Engine,Engines,2026-03-04,Delayed,3,245162.44909417102,735487.347282513,Europe,Q4-2026,Make of group six fish detail contain.
+SO-1000441,Dealer-D036,PROD-320,Model 320 Excavator,Excavators,2026-04-28,Delivered,8,202649.1342763027,1621193.0742104216,Africa,Q2-2026,Skill city myself idea glass.
+SO-1000442,Dealer-D001,PROD-3500,Model 3500 Engine,Engines,2026-01-25,Shipped,6,353190.3034028404,2119141.8204170424,Africa,Q3-2026,Professional former family wear peace little.
+SO-1000443,Dealer-D028,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-24,Delivered,4,133888.91218428855,535555.6487371542,Europe,Q2-2026,Statement wonder across protect knowledge toward party perform where radio.
+SO-1000444,Dealer-D026,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-10,In Production,12,267170.5560476843,3206046.6725722114,Asia Pacific,Q4-2026,High someone box either rich agency might side.
+SO-1000445,Dealer-D026,PROD-3600,Model 3600 Engine,Engines,2026-05-22,Delivered,1,454079.8472832586,454079.8472832586,Africa,Q2-2026,Sort knowledge analysis together court message way cold what Mrs.
+SO-1000446,Dealer-D024,PROD-3600,Model 3600 Engine,Engines,2026-01-26,Confirmed,5,142691.01614463277,713455.0807231639,South America,Q2-2026,Phone decision picture defense.
+SO-1000447,Dealer-D009,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-20,Confirmed,8,224462.81967755302,1795702.5574204242,South America,Q4-2026,Structure day stock these scientist itself stage authority rather.
+SO-1000448,Dealer-D020,PROD-380,Model 380F Excavator,Excavators,2026-01-12,Backlog,10,396385.98028568923,3963859.8028568923,Europe,Q2-2026,Learn forward beautiful approach some.
+SO-1000449,Dealer-D044,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-10,Delayed,6,98669.75655801053,592018.5393480632,Africa,Q3-2026,Audience start treat imagine later identify first hope brother accept.
+SO-1000450,Dealer-D040,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-17,Delayed,3,203001.97372695146,609005.9211808543,Europe,Q1-2026,As second animal summer group me face rate paper example unit.
+SO-1000451,Dealer-D048,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-10,Delivered,3,124474.89859864503,373424.6957959351,Africa,Q1-2026,House produce listen mouth carry hospital something nation.
+SO-1000452,Dealer-D015,PROD-380,Model 380F Excavator,Excavators,2026-04-03,Confirmed,6,145285.6379235888,871713.8275415328,Africa,Q1-2026,Fear thought whole term possible whatever.
+SO-1000453,Dealer-D011,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-13,In Production,10,382434.57932716864,3824345.7932716864,South America,Q4-2026,Network never but above.
+SO-1000454,Dealer-D038,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-03,Confirmed,12,419738.7064005299,5036864.476806358,Europe,Q2-2026,Hour natural be decide scientist rise deep town surface central.
+SO-1000455,Dealer-D031,PROD-380,Model 380F Excavator,Excavators,2026-01-01,In Production,8,320262.4386442112,2562099.5091536897,South America,Q1-2026,Determine strong create consider son system.
+SO-1000456,Dealer-D022,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-12,Backlog,2,377434.0119648599,754868.0239297198,North America,Q2-2026,Leave near fact attack better rise maintain former campaign pretty.
+SO-1000457,Dealer-D034,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-16,Confirmed,3,269245.4031148612,807736.2093445837,Asia Pacific,Q1-2026,Expect attorney cover magazine foreign.
+SO-1000458,Dealer-D002,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-19,Delayed,5,377605.51600828883,1888027.5800414442,Asia Pacific,Q1-2026,Really charge note space when collection finish.
+SO-1000459,Dealer-D042,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-27,Confirmed,5,111580.32496386056,557901.6248193028,Asia Pacific,Q4-2026,Republican political everybody growth quickly former lose.
+SO-1000460,Dealer-D023,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-17,Delayed,1,376113.314417821,376113.314417821,Africa,Q4-2026,Grow figure necessary compare parent success teach cause Mrs.
+SO-1000461,Dealer-D022,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-29,Delivered,6,298766.6940732571,1792600.1644395427,Europe,Q2-2026,Safe phone road throughout support place spend.
+SO-1000462,Dealer-D008,PROD-320,Model 320 Excavator,Excavators,2026-03-11,Shipped,5,176607.77983422874,883038.8991711438,North America,Q3-2026,If operation trade necessary myself your line simple hand development.
+SO-1000463,Dealer-D018,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-26,In Production,4,426862.63382844854,1707450.5353137942,Europe,Q2-2026,Run fact let member however maybe production summer southern pass.
+SO-1000464,Dealer-D046,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-29,Confirmed,12,103644.69927825802,1243736.3913390962,Asia Pacific,Q4-2026,Serious cell city not not the.
+SO-1000465,Dealer-D023,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-02,Confirmed,5,162900.64244034715,814503.2122017357,Africa,Q2-2026,Save low grow despite maintain as.
+SO-1000466,Dealer-D020,PROD-380,Model 380F Excavator,Excavators,2026-06-28,Delivered,2,205788.59900614744,411577.1980122949,Africa,Q2-2026,Doctor protect military social hold truth thing always.
+SO-1000467,Dealer-D044,PROD-320,Model 320 Excavator,Excavators,2026-05-18,Backlog,8,394968.1751204232,3159745.4009633856,South America,Q2-2026,Billion why plant event score official now heavy.
+SO-1000468,Dealer-D036,PROD-3500,Model 3500 Engine,Engines,2026-06-24,Delayed,10,282744.24246208824,2827442.4246208826,South America,Q1-2026,Half president structure might heavy trade might good.
+SO-1000469,Dealer-D030,PROD-380,Model 380F Excavator,Excavators,2026-01-23,Confirmed,6,126391.64062677193,758349.8437606315,South America,Q1-2026,Main lot page maybe catch close baby poor.
+SO-1000470,Dealer-D008,PROD-3600,Model 3600 Engine,Engines,2026-02-26,Confirmed,5,124069.67316480863,620348.3658240432,Europe,Q1-2026,Change church own stage produce increase.
+SO-1000471,Dealer-D003,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-14,Backlog,2,57212.6704048054,114425.3408096108,Africa,Q1-2026,Result loss long decision claim street against amount.
+SO-1000472,Dealer-D022,PROD-3600,Model 3600 Engine,Engines,2026-05-07,Delayed,5,227340.5687485264,1136702.8437426318,Asia Pacific,Q4-2026,Or care mention three chair coach two might if wide.
+SO-1000473,Dealer-D023,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-14,In Production,5,291803.22357943153,1459016.1178971576,Asia Pacific,Q1-2026,These road start water.
+SO-1000474,Dealer-D041,PROD-320,Model 320 Excavator,Excavators,2026-04-20,Shipped,2,430236.8841380456,860473.7682760912,Asia Pacific,Q4-2026,Last yeah test color store over.
+SO-1000475,Dealer-D035,PROD-390,Model 390F Excavator,Excavators,2026-03-26,In Production,6,263371.0756455859,1580226.4538735154,South America,Q1-2026,Star consider process enough right garden law opportunity discover history.
+SO-1000476,Dealer-D037,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-26,In Production,1,493094.5149158778,493094.5149158778,Europe,Q4-2026,Admit mission training range step.
+SO-1000477,Dealer-D030,PROD-390,Model 390F Excavator,Excavators,2026-04-14,Confirmed,5,193057.10319797762,965285.5159898881,South America,Q1-2026,Benefit live pass although six me brother lot candidate owner.
+SO-1000478,Dealer-D048,PROD-3500,Model 3500 Engine,Engines,2026-01-09,Shipped,5,460953.3588256717,2304766.7941283584,Europe,Q1-2026,To simple power miss.
+SO-1000479,Dealer-D034,PROD-3600,Model 3600 Engine,Engines,2026-03-18,Delivered,8,473600.47675410577,3788803.814032846,Europe,Q2-2026,Themselves recently investment voice lot shoulder go source.
+SO-1000480,Dealer-D038,PROD-390,Model 390F Excavator,Excavators,2026-02-02,Delayed,8,365363.78810078313,2922910.304806265,Europe,Q2-2026,Best care local discussion teacher exist theory impact country remember.
+SO-1000481,Dealer-D043,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-23,Shipped,6,189638.20210626387,1137829.2126375833,Europe,Q2-2026,Official brother according pressure.
+SO-1000482,Dealer-D012,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-04,In Production,2,71146.62545140286,142293.2509028057,Asia Pacific,Q2-2026,Impact blood international one end movie north partner.
+SO-1000483,Dealer-D036,PROD-320,Model 320 Excavator,Excavators,2026-01-09,Backlog,5,131295.89359008643,656479.4679504321,North America,Q3-2026,Sense including six lot have never effect fill.
+SO-1000484,Dealer-D034,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-04,In Production,12,110005.01029236667,1320060.1235084,Asia Pacific,Q2-2026,Similar huge catch tell budget discover situation we.
+SO-1000485,Dealer-D016,PROD-390,Model 390F Excavator,Excavators,2026-03-10,In Production,2,263438.8991907936,526877.7983815873,South America,Q1-2026,Democrat hundred full nearly recent.
+SO-1000486,Dealer-D048,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-12,Delivered,6,118284.3108288736,709705.8649732416,Asia Pacific,Q1-2026,Claim who accept before certainly.
+SO-1000487,Dealer-D009,PROD-390,Model 390F Excavator,Excavators,2026-05-10,Delivered,1,361274.05136060994,361274.05136060994,Europe,Q3-2026,Itself ask develop bag also his worker pass minute represent.
+SO-1000488,Dealer-D034,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-26,Delayed,12,409012.1066034826,4908145.279241791,Asia Pacific,Q4-2026,Arm similar compare manager action sure us million crime six.
+SO-1000489,Dealer-D030,PROD-390,Model 390F Excavator,Excavators,2026-04-23,Backlog,6,438638.47358772025,2631830.8415263216,Asia Pacific,Q1-2026,Middle discuss college already dream a church you sister good.
+SO-1000490,Dealer-D012,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-25,In Production,4,444987.2321881812,1779948.9287527248,Africa,Q4-2026,If customer address region try near risk next.
+SO-1000491,Dealer-D015,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-05,Delivered,5,230763.60174189942,1153818.008709497,Africa,Q1-2026,Give white everybody paper create upon offer end imagine blood.
+SO-1000492,Dealer-D019,PROD-3600,Model 3600 Engine,Engines,2026-03-03,Delayed,4,184036.72927559508,736146.9171023803,Africa,Q4-2026,Me future bring message election.
+SO-1000493,Dealer-D007,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-21,Backlog,5,199728.26442967058,998641.3221483529,Africa,Q3-2026,Spend offer reason whom none show serious which learn leave.
+SO-1000494,Dealer-D010,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-10,Shipped,8,451013.0413070792,3608104.3304566336,Europe,Q4-2026,Television loss election him small detail red son include good.
+SO-1000495,Dealer-D021,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-02,In Production,1,176821.2514829624,176821.2514829624,Africa,Q1-2026,Act strategy eat behavior purpose start away use live government.
+SO-1000496,Dealer-D009,PROD-3500,Model 3500 Engine,Engines,2026-03-10,Shipped,12,134957.31249804999,1619487.7499765998,Europe,Q3-2026,Especially water raise travel material current save their deal dark.
+SO-1000497,Dealer-D019,PROD-390,Model 390F Excavator,Excavators,2026-02-19,Delivered,1,100370.56016065515,100370.56016065515,Africa,Q3-2026,Student green single build bad what manage.
+SO-1000498,Dealer-D049,PROD-390,Model 390F Excavator,Excavators,2026-05-02,Delayed,6,458989.4328435516,2753936.59706131,Europe,Q1-2026,Share must amount lot.
+SO-1000499,Dealer-D028,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-26,Delayed,4,296287.13485160796,1185148.5394064318,Africa,Q4-2026,Firm together thing off ever consumer share memory huge seek campaign.
+SO-1000500,Dealer-D021,PROD-3600,Model 3600 Engine,Engines,2026-06-24,Delayed,6,478464.7626843581,2870788.576106149,North America,Q1-2026,Son long must maybe hour rather company with recently least.
+SO-1000501,Dealer-D045,PROD-380,Model 380F Excavator,Excavators,2026-06-19,Shipped,5,226520.16868559617,1132600.8434279808,North America,Q3-2026,Activity decision ok foot.
+SO-1000502,Dealer-D045,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-24,Confirmed,4,192405.7088934873,769622.8355739492,Africa,Q4-2026,Technology cost enjoy especially when gas contain interest industry sell half.
+SO-1000503,Dealer-D048,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-25,Backlog,5,306884.2713254427,1534421.3566272135,North America,Q1-2026,Evidence conference capital office direction between establish dog.
+SO-1000504,Dealer-D002,PROD-380,Model 380F Excavator,Excavators,2026-05-15,Backlog,6,122651.45871481446,735908.7522888868,Asia Pacific,Q1-2026,Task cultural son school list act instead care throw.
+SO-1000505,Dealer-D017,PROD-3600,Model 3600 Engine,Engines,2026-03-04,In Production,4,386914.3152976198,1547657.2611904792,South America,Q1-2026,Military result size feel no nothing huge real art sport live.
+SO-1000506,Dealer-D007,PROD-3500,Model 3500 Engine,Engines,2026-02-08,Confirmed,4,93640.44313224292,374561.77252897166,North America,Q1-2026,Benefit seat employee growth newspaper special general in go quickly paper.
+SO-1000507,Dealer-D030,PROD-390,Model 390F Excavator,Excavators,2026-01-29,Confirmed,12,172248.88611364499,2066986.6333637398,Africa,Q2-2026,Office power company sister great pull maintain say threat high.
+SO-1000508,Dealer-D042,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-12,Delayed,2,216938.17066647607,433876.34133295214,Europe,Q3-2026,Less what than political up instead partner.
+SO-1000509,Dealer-D017,PROD-3500,Model 3500 Engine,Engines,2026-03-20,Shipped,12,401800.9216679268,4821611.0600151215,Africa,Q3-2026,Support author class direction first fact environment popular.
+SO-1000510,Dealer-D022,PROD-380,Model 380F Excavator,Excavators,2026-04-19,In Production,4,157230.35174889123,628921.4069955649,North America,Q2-2026,Thought sit voice security minute late cold.
+SO-1000511,Dealer-D047,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-04,Backlog,6,250483.01652192255,1502898.0991315353,Europe,Q4-2026,By doctor edge season.
+SO-1000512,Dealer-D018,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-26,Delivered,2,440590.8320289063,881181.6640578127,South America,Q3-2026,Decision however believe view list.
+SO-1000513,Dealer-D036,PROD-3600,Model 3600 Engine,Engines,2026-02-07,In Production,12,440177.0820705263,5282124.984846316,Europe,Q3-2026,Ago however share bar energy.
+SO-1000514,Dealer-D018,PROD-320,Model 320 Excavator,Excavators,2026-05-22,In Production,4,426852.31778755784,1707409.2711502314,Asia Pacific,Q4-2026,Base use hope director scene kitchen.
+SO-1000515,Dealer-D002,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-08,In Production,8,103788.89129618501,830311.1303694801,Asia Pacific,Q3-2026,Capital stuff agreement professional team foot.
+SO-1000516,Dealer-D024,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-01,Shipped,8,192034.94691521852,1536279.5753217482,Africa,Q4-2026,Level that various nature career way much opportunity lead.
+SO-1000517,Dealer-D050,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-12,Shipped,8,235001.03764768186,1880008.301181455,Asia Pacific,Q2-2026,Itself policy move training loss dinner become film include choose.
+SO-1000518,Dealer-D017,PROD-390,Model 390F Excavator,Excavators,2026-03-12,Delivered,12,372193.1120937758,4466317.34512531,South America,Q2-2026,A spring summer gas.
+SO-1000519,Dealer-D050,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-14,Delayed,3,144936.45077897768,434809.352336933,South America,Q1-2026,Movement reach man sense federal she something others someone.
+SO-1000520,Dealer-D050,PROD-380,Model 380F Excavator,Excavators,2026-01-03,Confirmed,6,354715.23500225117,2128291.410013507,Africa,Q4-2026,Health in night house clear say hope her enjoy instead.
+SO-1000521,Dealer-D029,PROD-3500,Model 3500 Engine,Engines,2026-01-07,Confirmed,10,444961.4804725317,4449614.804725317,North America,Q4-2026,Might son party really even possible mother.
+SO-1000522,Dealer-D006,PROD-380,Model 380F Excavator,Excavators,2026-03-10,Shipped,12,147853.8194977562,1774245.8339730743,Asia Pacific,Q4-2026,Include table consumer face PM pay evening.
+SO-1000523,Dealer-D035,PROD-380,Model 380F Excavator,Excavators,2026-03-09,Delivered,12,186477.3227320372,2237727.8727844465,Europe,Q3-2026,Man fly charge wide against win example by just account bed.
+SO-1000524,Dealer-D044,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-09,Confirmed,4,385971.4420898917,1543885.7683595668,North America,Q4-2026,Management game find son.
+SO-1000525,Dealer-D040,PROD-3500,Model 3500 Engine,Engines,2026-04-09,Confirmed,1,365704.36952132406,365704.36952132406,Asia Pacific,Q2-2026,Less social form such weight argue simply author.
+SO-1000526,Dealer-D028,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-22,Delayed,8,437995.1404948722,3503961.1239589774,Asia Pacific,Q4-2026,Consider time economic high actually window research his window.
+SO-1000527,Dealer-D005,PROD-390,Model 390F Excavator,Excavators,2026-04-13,Confirmed,8,73658.47901495142,589267.8321196113,Africa,Q4-2026,Scene almost leave side miss word list.
+SO-1000528,Dealer-D013,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-07,Delivered,12,388309.1736141198,4659710.083369438,Africa,Q3-2026,View city rock seat near business loss.
+SO-1000529,Dealer-D003,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-05,Delivered,8,128370.51157792835,1026964.0926234268,Asia Pacific,Q2-2026,Cup thought tell design both plan foot.
+SO-1000530,Dealer-D003,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-31,Backlog,8,183400.1994848689,1467201.5958789513,Asia Pacific,Q1-2026,Some once how during why ok.
+SO-1000531,Dealer-D034,PROD-3600,Model 3600 Engine,Engines,2026-06-02,Shipped,8,184079.71909258945,1472637.7527407156,Africa,Q3-2026,Read choice side eat matter rather full wide service.
+SO-1000532,Dealer-D027,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-15,Delivered,2,454884.3852839923,909768.7705679846,Asia Pacific,Q1-2026,Art popular red social call.
+SO-1000533,Dealer-D029,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-14,Shipped,1,340883.31885264005,340883.31885264005,Africa,Q3-2026,First next popular girl through run again.
+SO-1000534,Dealer-D018,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-28,Shipped,5,439782.66899106326,2198913.3449553163,South America,Q3-2026,Group care together magazine join far recent couple.
+SO-1000535,Dealer-D042,PROD-3600,Model 3600 Engine,Engines,2026-03-28,Delivered,1,96447.49199554982,96447.49199554982,South America,Q4-2026,Myself food life test out team.
+SO-1000536,Dealer-D002,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-28,Delayed,5,342300.2030406328,1711501.0152031642,Africa,Q4-2026,Attention choice fast enjoy happen a.
+SO-1000537,Dealer-D024,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-04,In Production,8,111047.66022216999,888381.2817773599,Africa,Q3-2026,Here control affect task simply draw return probably much.
+SO-1000538,Dealer-D028,PROD-3600,Model 3600 Engine,Engines,2026-02-22,In Production,3,381164.18286827696,1143492.5486048309,Africa,Q2-2026,Couple raise she child executive important focus benefit.
+SO-1000539,Dealer-D039,PROD-390,Model 390F Excavator,Excavators,2026-05-06,Delivered,3,405093.2502419405,1215279.7507258216,Europe,Q1-2026,Analysis visit condition all blood.
+SO-1000540,Dealer-D038,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-04,Backlog,1,426370.3598346797,426370.3598346797,South America,Q3-2026,Better number student price moment red.
+SO-1000541,Dealer-D036,PROD-3600,Model 3600 Engine,Engines,2026-05-03,Delivered,1,281402.1550696899,281402.1550696899,Asia Pacific,Q3-2026,Any determine responsibility actually TV pretty up.
+SO-1000542,Dealer-D001,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-12,In Production,6,314764.5601479455,1888587.3608876728,South America,Q2-2026,Life police guess sea three.
+SO-1000543,Dealer-D044,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-10,Shipped,12,242102.6275204862,2905231.530245834,Africa,Q3-2026,Some around pay more same strong back democratic.
+SO-1000544,Dealer-D010,PROD-3600,Model 3600 Engine,Engines,2026-03-17,Confirmed,4,286393.2190028246,1145572.8760112985,North America,Q3-2026,Best rise mother country moment eat personal condition see indeed.
+SO-1000545,Dealer-D010,PROD-320,Model 320 Excavator,Excavators,2026-03-31,Confirmed,6,188118.98284155465,1128713.8970493278,Africa,Q2-2026,Short office purpose reflect interview.
+SO-1000546,Dealer-D015,PROD-3500,Model 3500 Engine,Engines,2026-05-24,Delivered,5,112861.5676713224,564307.838356612,Africa,Q4-2026,Coach Congress husband front citizen.
+SO-1000547,Dealer-D016,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-29,Delayed,2,351844.26144936605,703688.5228987321,South America,Q2-2026,Kitchen good firm yard foot he share issue rise part.
+SO-1000548,Dealer-D038,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-19,Delivered,10,159430.99111890167,1594309.9111890167,Africa,Q4-2026,Nation heart nearly season growth laugh where a alone expect.
+SO-1000549,Dealer-D021,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-20,Shipped,10,429677.95671961585,4296779.567196159,North America,Q1-2026,Military year few feel.
+SO-1000550,Dealer-D048,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-15,In Production,6,133965.5435929254,803793.2615575523,Africa,Q2-2026,Democrat fire sign wall state try memory.
+SO-1000551,Dealer-D007,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-18,Delivered,10,106191.5346076652,1061915.346076652,Africa,Q1-2026,Unit choice also green catch happen old do specific begin.
+SO-1000552,Dealer-D009,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-01,Shipped,10,484951.51334981446,4849515.133498144,North America,Q3-2026,Notice design baby foot lot major together reflect.
+SO-1000553,Dealer-D028,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-13,In Production,8,360237.7102420961,2881901.681936769,South America,Q2-2026,Organization feel room office bad.
+SO-1000554,Dealer-D002,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-14,Confirmed,5,328886.5345212047,1644432.6726060235,South America,Q4-2026,Two free they its us.
+SO-1000555,Dealer-D025,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-05,In Production,3,321015.33606976573,963046.0082092972,Africa,Q2-2026,Thank dinner present own activity since.
+SO-1000556,Dealer-D018,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-02,Delayed,6,386384.28653592715,2318305.719215563,Asia Pacific,Q1-2026,Approach modern floor north force recently check purpose.
+SO-1000557,Dealer-D001,PROD-3500,Model 3500 Engine,Engines,2026-05-09,Delivered,5,65040.60759597669,325203.03797988343,Europe,Q2-2026,Wife send offer bed it skill challenge from.
+SO-1000558,Dealer-D011,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-14,Backlog,1,56591.20727261903,56591.20727261903,Asia Pacific,Q4-2026,Number any human be maybe similar candidate care nice.
+SO-1000559,Dealer-D016,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-16,Delayed,1,164020.7294732005,164020.7294732005,North America,Q2-2026,House number night young modern drug entire involve range.
+SO-1000560,Dealer-D011,PROD-3500,Model 3500 Engine,Engines,2026-03-20,Backlog,3,460234.811168814,1380704.433506442,Africa,Q2-2026,Become public interest give fly order agency fight write pattern.
+SO-1000561,Dealer-D011,PROD-3600,Model 3600 Engine,Engines,2026-04-13,Delivered,12,209546.69397287333,2514560.32767448,Europe,Q3-2026,Perhaps key under do rate choose rock beat science.
+SO-1000562,Dealer-D003,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-18,Delivered,1,96563.7786409631,96563.7786409631,North America,Q3-2026,We unit than star add really born.
+SO-1000563,Dealer-D007,PROD-390,Model 390F Excavator,Excavators,2026-01-20,In Production,2,357788.8084618136,715577.6169236272,Africa,Q1-2026,Likely forward science deep national seek nature performance yeah.
+SO-1000564,Dealer-D035,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-05,Delivered,12,308561.9888983458,3702743.8667801498,Europe,Q1-2026,Heavy town money eight.
+SO-1000565,Dealer-D005,PROD-380,Model 380F Excavator,Excavators,2026-01-22,In Production,10,339543.02728279884,3395430.2728279885,Africa,Q4-2026,Exist smile peace apply pressure.
+SO-1000566,Dealer-D036,PROD-390,Model 390F Excavator,Excavators,2026-02-05,Shipped,4,419662.0637492859,1678648.2549971435,North America,Q2-2026,At produce production tree.
+SO-1000567,Dealer-D022,PROD-3600,Model 3600 Engine,Engines,2026-01-21,Delivered,4,357202.0186082417,1428808.0744329668,Africa,Q2-2026,Ten affect test power discuss herself with between.
+SO-1000568,Dealer-D026,PROD-320,Model 320 Excavator,Excavators,2026-01-17,Backlog,3,424575.96876585856,1273727.9062975757,Africa,Q2-2026,Machine others because current whom night Republican always.
+SO-1000569,Dealer-D048,PROD-3500,Model 3500 Engine,Engines,2026-04-09,Delayed,8,109313.07345350571,874504.5876280457,South America,Q3-2026,Figure majority season adult range green few you without every.
+SO-1000570,Dealer-D041,PROD-380,Model 380F Excavator,Excavators,2026-05-03,Shipped,5,417698.19462504255,2088490.9731252128,Africa,Q3-2026,Personal these three spring ahead.
+SO-1000571,Dealer-D014,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-12,Confirmed,3,308044.3214100475,924132.9642301424,South America,Q3-2026,We difficult game hotel case role minute question their rather.
+SO-1000572,Dealer-D017,PROD-320,Model 320 Excavator,Excavators,2026-02-14,Shipped,12,330851.0390205445,3970212.468246534,South America,Q1-2026,Drive check wife travel forget my deal catch must.
+SO-1000573,Dealer-D029,PROD-3600,Model 3600 Engine,Engines,2026-06-02,Confirmed,6,373724.67000866914,2242348.020052015,Africa,Q4-2026,Television finally relate model career yet.
+SO-1000574,Dealer-D018,PROD-3600,Model 3600 Engine,Engines,2026-06-26,Delivered,8,155764.08446536338,1246112.675722907,Europe,Q2-2026,Prevent north citizen attack mouth rest.
+SO-1000575,Dealer-D042,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-22,In Production,2,460672.2620973997,921344.5241947994,North America,Q1-2026,Fish they risk she they increase.
+SO-1000576,Dealer-D038,PROD-390,Model 390F Excavator,Excavators,2026-04-29,Backlog,1,484451.88557027956,484451.88557027956,Asia Pacific,Q2-2026,Field seat start PM scene charge could capital.
+SO-1000577,Dealer-D044,PROD-320,Model 320 Excavator,Excavators,2026-04-28,Backlog,5,489847.18289180554,2449235.914459028,North America,Q2-2026,Several partner environment note discuss.
+SO-1000578,Dealer-D003,PROD-3600,Model 3600 Engine,Engines,2026-01-29,In Production,3,141689.9686324747,425069.9058974241,North America,Q2-2026,Discuss ago bag sister care suffer light.
+SO-1000579,Dealer-D002,PROD-380,Model 380F Excavator,Excavators,2026-06-23,In Production,4,237272.425882771,949089.703531084,Asia Pacific,Q3-2026,Contain hold listen clearly difficult impact why understand.
+SO-1000580,Dealer-D023,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-10,Confirmed,6,75481.50081990112,452889.0049194067,Asia Pacific,Q3-2026,Development provide dark daughter computer western keep pay.
+SO-1000581,Dealer-D002,PROD-3600,Model 3600 Engine,Engines,2026-03-18,Delivered,5,250648.9789369135,1253244.8946845676,Europe,Q3-2026,Term thought into simply part station result hour.
+SO-1000582,Dealer-D025,PROD-3600,Model 3600 Engine,Engines,2026-01-30,Delivered,8,107515.32996217223,860122.6396973778,Europe,Q1-2026,Order modern then skin minute later still amount yet million.
+SO-1000583,Dealer-D003,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-26,Delayed,10,244430.27827997797,2444302.7827997794,South America,Q1-2026,Worker always hold share while couple keep this.
+SO-1000584,Dealer-D042,PROD-3500,Model 3500 Engine,Engines,2026-01-11,In Production,8,459597.49473499,3676779.95787992,Asia Pacific,Q4-2026,Leave institution party approach might central stop.
+SO-1000585,Dealer-D046,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-24,Backlog,10,446888.9998132734,4468889.998132734,Europe,Q4-2026,Bed may conference one thus national hotel food agent.
+SO-1000586,Dealer-D040,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-19,Confirmed,5,204520.00530855765,1022600.0265427883,Europe,Q3-2026,Opportunity Republican dark lawyer economic reality trade someone responsibility.
+SO-1000587,Dealer-D027,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-26,Confirmed,3,283106.9070088339,849320.7210265016,Asia Pacific,Q1-2026,Before relationship plant be religious risk.
+SO-1000588,Dealer-D033,PROD-380,Model 380F Excavator,Excavators,2026-04-07,In Production,8,222306.35631676062,1778450.850534085,Africa,Q2-2026,Partner civil nearly analysis color friend the television class certain.
+SO-1000589,Dealer-D028,PROD-320,Model 320 Excavator,Excavators,2026-06-26,Delayed,5,166235.1931074165,831175.9655370825,North America,Q3-2026,Information finally shoulder land phone.
+SO-1000590,Dealer-D023,PROD-3500,Model 3500 Engine,Engines,2026-01-18,Backlog,2,75077.593565443,150155.187130886,Africa,Q3-2026,Together whether about she activity marriage.
+SO-1000591,Dealer-D033,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-25,In Production,1,108802.68368596808,108802.68368596808,South America,Q2-2026,Myself accept third down open little improve bag outside.
+SO-1000592,Dealer-D042,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-26,In Production,12,271565.171915562,3258782.062986744,Africa,Q2-2026,Think everything pick star debate continue area.
+SO-1000593,Dealer-D006,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-06,Delivered,8,470701.8709495289,3765614.967596231,Europe,Q3-2026,Already take project study fear turn any indicate.
+SO-1000594,Dealer-D048,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-14,Shipped,2,468471.01733333856,936942.0346666771,South America,Q1-2026,Claim expect produce record occur no.
+SO-1000595,Dealer-D009,PROD-390,Model 390F Excavator,Excavators,2026-05-10,Delivered,12,466963.42244827154,5603561.069379259,South America,Q3-2026,See growth along shoulder follow today star serve successful.
+SO-1000596,Dealer-D038,PROD-380,Model 380F Excavator,Excavators,2026-04-30,Delivered,6,211440.0929095732,1268640.5574574391,Europe,Q3-2026,Fall care reason ever money.
+SO-1000597,Dealer-D018,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-14,Backlog,4,482995.8095521751,1931983.2382087004,North America,Q2-2026,Decide decade around number without more because right painting small.
+SO-1000598,Dealer-D004,PROD-320,Model 320 Excavator,Excavators,2026-05-09,Delivered,2,95205.8973564358,190411.7947128716,Africa,Q1-2026,Interview summer employee offer perhaps until pass.
+SO-1000599,Dealer-D016,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-09,Delivered,6,379675.71465817944,2278054.287949077,Africa,Q3-2026,Mind place manage conference participant remember without ability agency.
+SO-1000600,Dealer-D048,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-23,Delayed,12,58843.167236081514,706118.0068329782,Europe,Q2-2026,Someone scene debate past increase animal glass south defense political real.
+SO-1000601,Dealer-D024,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-07,Shipped,6,436162.51626199443,2616975.0975719667,Africa,Q3-2026,So film media food accept rate game.
+SO-1000602,Dealer-D014,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-17,Delivered,1,104722.3667066257,104722.3667066257,South America,Q1-2026,Pattern ahead compare form full public trouble something population loss.
+SO-1000603,Dealer-D038,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-29,Delayed,12,102092.0208108461,1225104.249730153,Europe,Q2-2026,Leave tend time leg sport until argue minute north question new.
+SO-1000604,Dealer-D044,PROD-390,Model 390F Excavator,Excavators,2026-01-28,Confirmed,1,458492.5596425804,458492.5596425804,Asia Pacific,Q3-2026,Decade rate son thousand.
+SO-1000605,Dealer-D012,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-15,Confirmed,6,485693.97838830744,2914163.8703298448,Africa,Q3-2026,At chance subject fund heart move coach paper.
+SO-1000606,Dealer-D005,PROD-380,Model 380F Excavator,Excavators,2026-04-01,Backlog,1,219653.47038143507,219653.47038143507,Africa,Q3-2026,Organization ten seem relate fire all.
+SO-1000607,Dealer-D028,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-01,Confirmed,2,365613.60213969863,731227.2042793973,South America,Q3-2026,Beautiful theory he stop few modern company hear.
+SO-1000608,Dealer-D037,PROD-320,Model 320 Excavator,Excavators,2026-02-27,Backlog,5,478992.3674904322,2394961.837452161,Asia Pacific,Q3-2026,Sing tree kitchen agent lot.
+SO-1000609,Dealer-D038,PROD-390,Model 390F Excavator,Excavators,2026-01-25,In Production,2,394494.5163601412,788989.0327202824,North America,Q1-2026,Child future low them financial force show better word.
+SO-1000610,Dealer-D003,PROD-3500,Model 3500 Engine,Engines,2026-01-01,In Production,3,436973.32138253417,1310919.9641476024,North America,Q1-2026,Quality car right least require mission about usually reach organization.
+SO-1000611,Dealer-D035,PROD-320,Model 320 Excavator,Excavators,2026-01-22,Delayed,8,163939.5081557646,1311516.0652461168,Europe,Q4-2026,Four threat billion she seat.
+SO-1000612,Dealer-D020,PROD-320,Model 320 Excavator,Excavators,2026-04-14,Delivered,6,439902.9784620687,2639417.870772412,Asia Pacific,Q4-2026,Officer fine throughout fly.
+SO-1000613,Dealer-D016,PROD-3600,Model 3600 Engine,Engines,2026-04-26,Backlog,8,483392.35890401114,3867138.871232089,Asia Pacific,Q1-2026,Expert mother significant provide evening church.
+SO-1000614,Dealer-D040,PROD-3600,Model 3600 Engine,Engines,2026-05-08,Shipped,2,330412.0341865214,660824.0683730429,South America,Q3-2026,Address performance method deal go.
+SO-1000615,Dealer-D036,PROD-3500,Model 3500 Engine,Engines,2026-03-04,Delivered,5,156057.14055914822,780285.7027957411,South America,Q1-2026,Even wall sound off commercial find throughout music.
+SO-1000616,Dealer-D018,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-04,Shipped,5,107199.7208901608,535998.604450804,South America,Q2-2026,Candidate likely push black approach.
+SO-1000617,Dealer-D029,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-14,In Production,1,85518.43476728554,85518.43476728554,North America,Q3-2026,Hot relate through picture real knowledge green forward cup.
+SO-1000618,Dealer-D017,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-22,Delayed,4,312978.16471525584,1251912.6588610234,Africa,Q2-2026,Bad type share nothing behavior sort recognize best financial popular.
+SO-1000619,Dealer-D023,PROD-3500,Model 3500 Engine,Engines,2026-01-18,Shipped,12,199984.93694173626,2399819.243300835,North America,Q3-2026,Like water century time election guy contain true form.
+SO-1000620,Dealer-D027,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-30,Delivered,5,287492.92940140143,1437464.6470070072,South America,Q2-2026,Law air little goal leave color should page.
+SO-1000621,Dealer-D024,PROD-320,Model 320 Excavator,Excavators,2026-01-11,In Production,1,65821.66262203737,65821.66262203737,South America,Q4-2026,Meet if research blood news audience.
+SO-1000622,Dealer-D040,PROD-380,Model 380F Excavator,Excavators,2026-01-21,In Production,2,197942.05739950246,395884.1147990049,North America,Q2-2026,Mouth husband including per nature wind himself.
+SO-1000623,Dealer-D024,PROD-390,Model 390F Excavator,Excavators,2026-06-02,Delivered,2,84480.08089649121,168960.16179298243,Europe,Q4-2026,Decade really issue woman note garden reason community.
+SO-1000624,Dealer-D006,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-24,Backlog,1,475388.1681132365,475388.1681132365,Africa,Q2-2026,School Republican student boy other.
+SO-1000625,Dealer-D014,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-15,In Production,10,135043.5469870288,1350435.469870288,North America,Q2-2026,Never state computer what attorney board sport side.
+SO-1000626,Dealer-D040,PROD-390,Model 390F Excavator,Excavators,2026-01-24,In Production,6,380641.67998222035,2283850.079893322,Asia Pacific,Q2-2026,Force population article design catch oil sense special.
+SO-1000627,Dealer-D046,PROD-3600,Model 3600 Engine,Engines,2026-02-06,Backlog,12,346505.81295868574,4158069.755504229,Asia Pacific,Q2-2026,Produce laugh factor past language day.
+SO-1000628,Dealer-D042,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-07,Shipped,5,99533.19208147573,497665.9604073787,Europe,Q3-2026,Feel some quickly truth view response trip wrong.
+SO-1000629,Dealer-D049,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-10,Delivered,8,101820.10433129166,814560.8346503333,Europe,Q1-2026,Account worry identify camera family hard nature apply reflect star.
+SO-1000630,Dealer-D037,PROD-3600,Model 3600 Engine,Engines,2026-04-17,Delivered,2,329250.58116055635,658501.1623211127,South America,Q2-2026,Body executive all it opportunity personal Republican image.
+SO-1000631,Dealer-D023,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-25,Delivered,10,491493.9310310793,4914939.310310793,Europe,Q1-2026,Nation production little could his under style child young.
+SO-1000632,Dealer-D018,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-19,Backlog,6,231631.6528714537,1389789.9172287222,Europe,Q3-2026,Care author administration return main join.
+SO-1000633,Dealer-D044,PROD-380,Model 380F Excavator,Excavators,2026-06-16,Confirmed,10,134306.056097055,1343060.56097055,Africa,Q2-2026,Be politics indeed lay smile page.
+SO-1000634,Dealer-D043,PROD-380,Model 380F Excavator,Excavators,2026-02-17,Backlog,6,272065.99913279497,1632395.9947967697,South America,Q3-2026,Perhaps lawyer interest star his difficult interesting account marriage.
+SO-1000635,Dealer-D013,PROD-320,Model 320 Excavator,Excavators,2026-01-04,Backlog,10,233333.54660960843,2333335.466096084,Africa,Q1-2026,Republican especially unit office almost also low.
+SO-1000636,Dealer-D018,PROD-3500,Model 3500 Engine,Engines,2026-03-22,Confirmed,2,448501.74961353414,897003.4992270683,Asia Pacific,Q4-2026,Both loss real center rule worker worker single.
+SO-1000637,Dealer-D012,PROD-3600,Model 3600 Engine,Engines,2026-01-02,Shipped,8,278488.46833819896,2227907.7467055917,Asia Pacific,Q2-2026,Might model particular early piece professional protect range much.
+SO-1000638,Dealer-D044,PROD-3500,Model 3500 Engine,Engines,2026-06-09,Confirmed,6,183746.3512302932,1102478.1073817592,South America,Q4-2026,Fine apply gas sing light mention light safe inside whether.
+SO-1000639,Dealer-D037,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-24,Backlog,6,402235.55341312406,2413413.3204787443,Europe,Q2-2026,Eye along type see risk nor article.
+SO-1000640,Dealer-D024,PROD-3500,Model 3500 Engine,Engines,2026-01-18,Delivered,12,479778.4342068064,5757341.210481677,Africa,Q2-2026,Official of prevent factor say agree machine camera baby.
+SO-1000641,Dealer-D011,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-12,In Production,4,476535.4552641473,1906141.8210565893,South America,Q2-2026,Edge past every either scientist page travel.
+SO-1000642,Dealer-D018,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-16,Shipped,6,105493.32098388151,632959.9259032891,Europe,Q4-2026,Process have compare site door Congress.
+SO-1000643,Dealer-D005,PROD-3500,Model 3500 Engine,Engines,2026-02-18,Shipped,2,119035.7970750896,238071.5941501792,South America,Q1-2026,Television garden base certain value child many year side draw.
+SO-1000644,Dealer-D037,PROD-3600,Model 3600 Engine,Engines,2026-01-07,Shipped,10,135671.80383366562,1356718.038336656,Asia Pacific,Q3-2026,Rise cold official success approach enough standard apply less.
+SO-1000645,Dealer-D014,PROD-320,Model 320 Excavator,Excavators,2026-05-12,Delivered,2,209719.0404356073,419438.0808712146,Asia Pacific,Q1-2026,Feeling second sell mouth here relationship listen certain that.
+SO-1000646,Dealer-D003,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-28,Delivered,3,339895.85719532805,1019687.5715859842,Europe,Q3-2026,Eye something high firm.
+SO-1000647,Dealer-D007,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-20,Delivered,2,294856.7008833954,589713.4017667908,Europe,Q2-2026,Raise American truth PM what it truth teach friend environment.
+SO-1000648,Dealer-D041,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-25,Delivered,4,91141.82098776916,364567.2839510766,Europe,Q4-2026,Effort once leave push drop.
+SO-1000649,Dealer-D010,PROD-390,Model 390F Excavator,Excavators,2026-05-27,Backlog,5,352900.1066560379,1764500.5332801896,South America,Q3-2026,Side mind question year finish action across attack in moment.
+SO-1000650,Dealer-D030,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-03,Delayed,5,488642.0366012879,2443210.1830064394,South America,Q4-2026,Goal rise edge alone people arm order thus describe.
+SO-1000651,Dealer-D006,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-03,Confirmed,2,467767.64839135634,935535.2967827127,North America,Q2-2026,Point remain build task candidate prevent tonight not whose to.
+SO-1000652,Dealer-D034,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-11,Delayed,6,214054.892383939,1284329.354303634,Asia Pacific,Q3-2026,Education level view police two everybody.
+SO-1000653,Dealer-D040,PROD-380,Model 380F Excavator,Excavators,2026-06-04,In Production,1,371123.3148185622,371123.3148185622,Africa,Q1-2026,Realize property show either sit everyone artist home you.
+SO-1000654,Dealer-D008,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-11,Delivered,2,186325.3255505378,372650.6511010756,South America,Q3-2026,Western enough key man up particular condition.
+SO-1000655,Dealer-D015,PROD-320,Model 320 Excavator,Excavators,2026-02-23,In Production,4,364252.0870757312,1457008.3483029248,South America,Q2-2026,Board music issue pass blood kid else alone audience.
+SO-1000656,Dealer-D022,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-08,Shipped,3,400059.23303684156,1200177.6991105247,Africa,Q3-2026,Since affect marriage present a also hospital.
+SO-1000657,Dealer-D028,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-03,Shipped,1,449888.95122643275,449888.95122643275,Africa,Q1-2026,Record toward off middle vote make.
+SO-1000658,Dealer-D033,PROD-3500,Model 3500 Engine,Engines,2026-05-29,Delivered,5,87966.90339732726,439834.5169866363,Europe,Q1-2026,Identify road speech audience difficult his ready sister building.
+SO-1000659,Dealer-D013,PROD-3500,Model 3500 Engine,Engines,2026-01-20,Shipped,12,241833.97283154167,2902007.6739785,North America,Q1-2026,Various grow radio hundred place where before movement which ball.
+SO-1000660,Dealer-D041,PROD-380,Model 380F Excavator,Excavators,2026-05-19,Backlog,12,156868.71906298993,1882424.6287558791,Asia Pacific,Q3-2026,Set face data never whose produce federal hope blood.
+SO-1000661,Dealer-D026,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-25,Delayed,10,236495.32113574914,2364953.2113574916,Africa,Q2-2026,Main those just country along agent you draw.
+SO-1000662,Dealer-D012,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-04,Delayed,4,342937.285348345,1371749.14139338,Asia Pacific,Q4-2026,As music film move strong last yet already.
+SO-1000663,Dealer-D016,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-22,Delivered,10,318316.35885471595,3183163.5885471595,Europe,Q3-2026,Front return if deep president.
+SO-1000664,Dealer-D012,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-08,Shipped,8,399142.530294857,3193140.242358856,South America,Q4-2026,Learn question them chance often under already center president likely.
+SO-1000665,Dealer-D009,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-08,Delayed,8,144076.1579513898,1152609.2636111183,Asia Pacific,Q1-2026,Animal red candidate common anyone film soldier lay color opportunity stand.
+SO-1000666,Dealer-D002,PROD-3600,Model 3600 Engine,Engines,2026-01-28,Delayed,10,276673.7455654803,2766737.455654803,Asia Pacific,Q1-2026,Box organization past as dark.
+SO-1000667,Dealer-D009,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-22,Delivered,12,67737.91330416335,812854.9596499602,Africa,Q4-2026,Specific word question food wish office case student.
+SO-1000668,Dealer-D043,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-13,Delayed,12,340518.14273741393,4086217.712848967,Europe,Q2-2026,Share or friend building center indeed.
+SO-1000669,Dealer-D045,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-06,Confirmed,8,304228.673443613,2433829.387548904,North America,Q4-2026,Network just understand American beyond suggest partner sing.
+SO-1000670,Dealer-D027,PROD-3500,Model 3500 Engine,Engines,2026-03-22,Delayed,10,248271.40132662863,2482714.0132662863,North America,Q4-2026,They ball account unit.
+SO-1000671,Dealer-D029,PROD-3600,Model 3600 Engine,Engines,2026-01-20,Delivered,1,347151.1237313574,347151.1237313574,Africa,Q1-2026,Thought indicate southern significant realize deal policy mission include visit.
+SO-1000672,Dealer-D041,PROD-390,Model 390F Excavator,Excavators,2026-03-31,In Production,8,228224.51484596002,1825796.1187676801,South America,Q4-2026,Reality other response partner because step feeling industry newspaper court worry.
+SO-1000673,Dealer-D012,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-13,In Production,2,408801.5625424832,817603.1250849664,Asia Pacific,Q3-2026,Peace television would medical less.
+SO-1000674,Dealer-D035,PROD-3600,Model 3600 Engine,Engines,2026-03-03,Delayed,5,476404.30684581934,2382021.534229097,South America,Q4-2026,Process everybody create someone rate why listen computer prove amount population.
+SO-1000675,Dealer-D022,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-01,Delivered,5,398593.6789068579,1992968.3945342896,Africa,Q3-2026,Decide edge pattern three law bit appear.
+SO-1000676,Dealer-D009,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-15,Delivered,6,59466.606107210886,356799.6366432653,Europe,Q2-2026,Compare size machine break time return or for cup quality.
+SO-1000677,Dealer-D039,PROD-320,Model 320 Excavator,Excavators,2026-06-27,Shipped,2,485966.610760012,971933.221520024,Europe,Q2-2026,Discover body direction down include customer through available.
+SO-1000678,Dealer-D044,PROD-3600,Model 3600 Engine,Engines,2026-05-02,Shipped,1,64785.51398317836,64785.51398317836,North America,Q1-2026,Machine three certain until lawyer hold carry rest place wish.
+SO-1000679,Dealer-D003,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-11,Delivered,1,169352.83512620357,169352.83512620357,North America,Q3-2026,From allow notice exactly book letter.
+SO-1000680,Dealer-D010,PROD-380,Model 380F Excavator,Excavators,2026-03-25,Shipped,2,433386.1641001288,866772.3282002576,Europe,Q1-2026,Commercial gas though page smile point particularly color wife.
+SO-1000681,Dealer-D036,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-09,Delivered,6,408403.29629201425,2450419.7777520856,South America,Q4-2026,Beat tax majority yet option student evidence.
+SO-1000682,Dealer-D037,PROD-3500,Model 3500 Engine,Engines,2026-04-14,Delivered,6,387326.4279744981,2323958.5678469883,Europe,Q2-2026,Save east force often through option chance off above.
+SO-1000683,Dealer-D019,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-16,Shipped,10,170827.2127637759,1708272.1276377589,Europe,Q3-2026,Always likely shoulder almost most.
+SO-1000684,Dealer-D049,PROD-3500,Model 3500 Engine,Engines,2026-05-20,In Production,8,234867.3780053425,1878939.02404274,Asia Pacific,Q1-2026,Special recent better manager bar send really image design.
+SO-1000685,Dealer-D037,PROD-390,Model 390F Excavator,Excavators,2026-01-24,In Production,8,61627.53749900503,493020.29999204027,North America,Q1-2026,Fast positive before look fight reflect teach section.
+SO-1000686,Dealer-D030,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-02,Confirmed,10,54486.15563053332,544861.5563053333,Asia Pacific,Q4-2026,With less catch reflect continue.
+SO-1000687,Dealer-D028,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-21,Backlog,8,206991.68747238067,1655933.4997790453,North America,Q4-2026,Phone region ability physical his real most fast.
+SO-1000688,Dealer-D034,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-16,Delivered,2,144237.95186983442,288475.90373966884,South America,Q3-2026,Recently partner offer debate range per friend.
+SO-1000689,Dealer-D004,PROD-3600,Model 3600 Engine,Engines,2026-01-16,Backlog,8,79996.92342048774,639975.387363902,Asia Pacific,Q4-2026,Method travel hair appear him.
+SO-1000690,Dealer-D019,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-12,Delivered,10,428726.95689101686,4287269.5689101685,Europe,Q4-2026,People half compare next attack remember daughter wonder draw.
+SO-1000691,Dealer-D006,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-12,Delivered,12,162661.42830688495,1951937.1396826194,Africa,Q3-2026,Power say sell that reflect.
+SO-1000692,Dealer-D039,PROD-3600,Model 3600 Engine,Engines,2026-01-19,Delayed,4,134824.93375800253,539299.7350320101,Africa,Q1-2026,Fly today me institution approach health laugh.
+SO-1000693,Dealer-D028,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-02,Delivered,1,301611.4954083358,301611.4954083358,South America,Q2-2026,Money but report question mouth factor per son war.
+SO-1000694,Dealer-D028,PROD-3500,Model 3500 Engine,Engines,2026-03-18,Confirmed,5,313544.45094295964,1567722.2547147982,South America,Q1-2026,Could this beautiful hospital condition.
+SO-1000695,Dealer-D014,PROD-3500,Model 3500 Engine,Engines,2026-04-20,In Production,4,479828.8222151596,1919315.2888606384,Africa,Q1-2026,Body every recent many themselves.
+SO-1000696,Dealer-D002,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-27,Delayed,5,135469.7448036616,677348.724018308,Africa,Q1-2026,Weight age indicate radio use listen information scene again country.
+SO-1000697,Dealer-D037,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-30,Shipped,8,297394.048069709,2379152.384557672,Asia Pacific,Q1-2026,The discussion water popular.
+SO-1000698,Dealer-D021,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-25,Delayed,10,306014.63263012236,3060146.3263012236,North America,Q2-2026,Official pretty skin main program morning nature leader.
+SO-1000699,Dealer-D015,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-04,In Production,2,246940.83619592094,493881.6723918419,Africa,Q1-2026,Car smile commercial employee machine wife show another good lay.
+SO-1000700,Dealer-D005,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-18,In Production,12,254281.4748715369,3051377.6984584425,Europe,Q3-2026,Peace claim movement consider compare remain.
+SO-1000701,Dealer-D049,PROD-380,Model 380F Excavator,Excavators,2026-02-17,Delivered,1,250859.5607434667,250859.5607434667,Asia Pacific,Q4-2026,Claim bring year off kid hard.
+SO-1000702,Dealer-D011,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-01,Confirmed,2,102536.556245958,205073.112491916,Asia Pacific,Q4-2026,None alone first gas health music.
+SO-1000703,Dealer-D012,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-23,Confirmed,12,161515.5993081081,1938187.1916972972,South America,Q2-2026,Move building agent use shoulder way.
+SO-1000704,Dealer-D041,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-02,Confirmed,10,376460.67580257327,3764606.758025733,Africa,Q2-2026,Choose wife national medical positive far time wide.
+SO-1000705,Dealer-D035,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-01,Confirmed,4,178628.65189853424,714514.607594137,Asia Pacific,Q2-2026,Project son rock two full both look always question bring.
+SO-1000706,Dealer-D050,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-19,Delivered,4,112278.91368565607,449115.65474262426,South America,Q1-2026,Husband subject land begin area.
+SO-1000707,Dealer-D024,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-08,Shipped,8,165142.64336549575,1321141.146923966,South America,Q2-2026,On develop very everyone against Mrs.
+SO-1000708,Dealer-D015,PROD-380,Model 380F Excavator,Excavators,2026-02-12,In Production,6,452636.4068740855,2715818.441244513,Africa,Q4-2026,Quality whatever wish hour make owner memory argue project.
+SO-1000709,Dealer-D028,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-15,Confirmed,12,436541.2462049991,5238494.954459989,South America,Q2-2026,Challenge take hard health expect goal within them.
+SO-1000710,Dealer-D041,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-02,Delivered,10,313502.5820738511,3135025.8207385107,South America,Q1-2026,Democratic thousand score indeed kind.
+SO-1000711,Dealer-D011,PROD-3500,Model 3500 Engine,Engines,2026-02-03,In Production,10,248834.16864097878,2488341.6864097877,Asia Pacific,Q1-2026,South wife interest to cause onto.
+SO-1000712,Dealer-D023,PROD-320,Model 320 Excavator,Excavators,2026-03-29,Delivered,4,199400.31595295563,797601.2638118225,South America,Q1-2026,Century field write moment friend.
+SO-1000713,Dealer-D030,PROD-3500,Model 3500 Engine,Engines,2026-01-24,Confirmed,4,160856.71125903586,643426.8450361434,Africa,Q4-2026,Series because important trial increase new report sense carry control.
+SO-1000714,Dealer-D024,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-26,Delivered,2,287410.83009140764,574821.6601828153,North America,Q3-2026,Face make state few one management science different.
+SO-1000715,Dealer-D035,PROD-320,Model 320 Excavator,Excavators,2026-03-22,Shipped,6,217695.70845236626,1306174.2507141975,Europe,Q3-2026,Child feel policy PM.
+SO-1000716,Dealer-D010,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-22,Delivered,3,211490.91094723644,634472.7328417093,South America,Q2-2026,President throughout individual man reach each.
+SO-1000717,Dealer-D017,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-21,Delayed,12,232882.82906044796,2794593.9487253753,North America,Q1-2026,Share manage wife out gun lose.
+SO-1000718,Dealer-D020,PROD-320,Model 320 Excavator,Excavators,2026-04-10,Shipped,10,202656.80323799016,2026568.0323799015,South America,Q4-2026,Than physical live reason build mention offer suddenly clear.
+SO-1000719,Dealer-D042,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-14,In Production,3,367410.36658735323,1102231.0997620597,Africa,Q4-2026,Certainly leave really group apply.
+SO-1000720,Dealer-D001,PROD-380,Model 380F Excavator,Excavators,2026-02-06,Shipped,8,422411.54786631593,3379292.3829305274,North America,Q4-2026,Information treatment green face morning view message short.
+SO-1000721,Dealer-D026,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-03,Backlog,10,90365.4135566806,903654.1355668061,Asia Pacific,Q4-2026,Share out cold follow first suddenly.
+SO-1000722,Dealer-D018,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-01,Delivered,10,122442.99425931864,1224429.9425931864,North America,Q1-2026,Even recently guy move goal century carry.
+SO-1000723,Dealer-D018,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-25,Delayed,1,393913.21913122793,393913.21913122793,Europe,Q1-2026,Health machine future treat bill choice determine.
+SO-1000724,Dealer-D039,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-06,Delivered,5,245249.62181846576,1226248.1090923287,Europe,Q1-2026,Somebody next ready weight suffer Republican.
+SO-1000725,Dealer-D005,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-30,In Production,12,314306.50605936255,3771678.0727123506,Asia Pacific,Q1-2026,Individual trouble bring capital admit.
+SO-1000726,Dealer-D027,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-14,Shipped,8,461825.21208854974,3694601.696708398,Africa,Q1-2026,Find guy stage threat our shake garden report.
+SO-1000727,Dealer-D033,PROD-380,Model 380F Excavator,Excavators,2026-03-11,Delayed,5,178333.96820452152,891669.8410226076,Africa,Q2-2026,Season budget campaign reason read.
+SO-1000728,Dealer-D014,PROD-390,Model 390F Excavator,Excavators,2026-06-13,In Production,5,446583.8955263413,2232919.4776317063,Africa,Q4-2026,By candidate bad real six back simple.
+SO-1000729,Dealer-D004,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-20,Confirmed,10,120612.77241675222,1206127.7241675223,South America,Q2-2026,Amount blue soldier message arrive budget education at property.
+SO-1000730,Dealer-D042,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-01,Delivered,8,298544.67381842504,2388357.3905474003,Asia Pacific,Q1-2026,Site turn day top continue.
+SO-1000731,Dealer-D020,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-28,Delayed,12,473546.6123543085,5682559.348251702,North America,Q2-2026,Ahead certainly second everyone often goal talk sit.
+SO-1000732,Dealer-D039,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-25,Delivered,1,97948.06124725084,97948.06124725084,North America,Q4-2026,Drop now between official add describe course example top Mr wind.
+SO-1000733,Dealer-D031,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-19,Confirmed,1,287067.724722686,287067.724722686,Europe,Q4-2026,Under turn surface listen recently.
+SO-1000734,Dealer-D042,PROD-380,Model 380F Excavator,Excavators,2026-03-02,Shipped,1,382763.594247851,382763.594247851,Africa,Q1-2026,Keep whatever Congress great here Democrat.
+SO-1000735,Dealer-D050,PROD-320,Model 320 Excavator,Excavators,2026-01-30,Delayed,1,349936.6243034227,349936.6243034227,South America,Q1-2026,Imagine seven fire letter mind many guess.
+SO-1000736,Dealer-D001,PROD-390,Model 390F Excavator,Excavators,2026-04-10,Delivered,6,471087.1676860477,2826523.006116286,Asia Pacific,Q2-2026,News American foreign break exist outside find.
+SO-1000737,Dealer-D034,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-04,Delayed,6,146871.07060362544,881226.4236217526,South America,Q4-2026,Difficult imagine world into task thus sort voice happen.
+SO-1000738,Dealer-D042,PROD-3500,Model 3500 Engine,Engines,2026-03-13,Delivered,2,90054.38070320398,180108.76140640795,South America,Q2-2026,Your man black just.
+SO-1000739,Dealer-D005,PROD-3600,Model 3600 Engine,Engines,2026-05-27,In Production,6,328604.6300210133,1971627.78012608,Asia Pacific,Q4-2026,Budget house reason within scientist.
+SO-1000740,Dealer-D021,PROD-3600,Model 3600 Engine,Engines,2026-02-26,Confirmed,2,104519.95756744343,209039.91513488686,North America,Q2-2026,Ask window full organization wrong but.
+SO-1000741,Dealer-D031,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-09,In Production,6,82280.90468634124,493685.4281180474,North America,Q3-2026,Rise everything require old event smile popular hundred live.
+SO-1000742,Dealer-D049,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-04,Delivered,12,459314.0127741998,5511768.1532903975,South America,Q4-2026,Wear would memory challenge lawyer business majority discuss wall ahead.
+SO-1000743,Dealer-D022,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-19,Delivered,12,140284.44056595804,1683413.2867914964,North America,Q2-2026,Store marriage ago condition painting.
+SO-1000744,Dealer-D002,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-05,Delivered,3,242378.4009166923,727135.2027500769,South America,Q4-2026,Check perform benefit baby seem should society dark.
+SO-1000745,Dealer-D041,PROD-3600,Model 3600 Engine,Engines,2026-04-06,In Production,6,395943.88132452214,2375663.2879471327,North America,Q1-2026,Make energy gas teacher national weight all involve trip.
+SO-1000746,Dealer-D041,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-12,Confirmed,3,434504.78743343154,1303514.3623002947,Asia Pacific,Q1-2026,Late table kind along computer process single those.
+SO-1000747,Dealer-D017,PROD-380,Model 380F Excavator,Excavators,2026-03-16,Backlog,12,455342.07310282957,5464104.877233955,South America,Q1-2026,Man care resource maintain body push.
+SO-1000748,Dealer-D031,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-14,In Production,2,239798.40887125666,479596.8177425133,Europe,Q4-2026,Rate occur live take media hot manager wife pay good.
+SO-1000749,Dealer-D028,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-03,Shipped,3,394371.73585263063,1183115.207557892,Asia Pacific,Q1-2026,Fly agreement and student give score agree.
+SO-1000750,Dealer-D014,PROD-380,Model 380F Excavator,Excavators,2026-01-09,Confirmed,5,81360.81352855383,406804.06764276914,Asia Pacific,Q3-2026,Game best generation group goal product easy possible or travel assume.
+SO-1000751,Dealer-D047,PROD-390,Model 390F Excavator,Excavators,2026-05-16,Delivered,4,459875.40214538923,1839501.608581557,Asia Pacific,Q4-2026,Boy college Mrs also price institution method.
+SO-1000752,Dealer-D048,PROD-320,Model 320 Excavator,Excavators,2026-06-29,Delivered,4,445031.2899574539,1780125.1598298156,Africa,Q1-2026,Entire receive onto worry help hope occur space beyond.
+SO-1000753,Dealer-D004,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-18,Delivered,6,344334.8988300864,2066009.3929805183,South America,Q3-2026,From me share fund pass guy.
+SO-1000754,Dealer-D024,PROD-380,Model 380F Excavator,Excavators,2026-04-23,Delayed,5,222228.13609299707,1111140.6804649853,Africa,Q2-2026,Cut player wind away sure degree enter father of.
+SO-1000755,Dealer-D009,PROD-3500,Model 3500 Engine,Engines,2026-05-22,In Production,4,82575.22921893965,330300.9168757586,Africa,Q2-2026,Person when response official option event note.
+SO-1000756,Dealer-D047,PROD-3600,Model 3600 Engine,Engines,2026-02-12,Shipped,10,91898.22042877553,918982.2042877553,Asia Pacific,Q4-2026,Little decide somebody prepare few sound item music customer I.
+SO-1000757,Dealer-D014,PROD-320,Model 320 Excavator,Excavators,2026-06-26,Shipped,1,289102.9789564741,289102.9789564741,Europe,Q4-2026,Middle public natural thing physical might cost material produce station visit.
+SO-1000758,Dealer-D015,PROD-3600,Model 3600 Engine,Engines,2026-04-02,Shipped,8,429149.5256593316,3433196.2052746527,Asia Pacific,Q2-2026,View mouth pass shoulder its not phone.
+SO-1000759,Dealer-D046,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-23,In Production,10,432429.17206866085,4324291.720686609,Africa,Q3-2026,Customer leg drive second she such improve team treat plant.
+SO-1000760,Dealer-D025,PROD-390,Model 390F Excavator,Excavators,2026-03-29,Delivered,12,352527.19363091845,4230326.323571022,North America,Q4-2026,Environment expert civil rather door draw change agree.
+SO-1000761,Dealer-D025,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-08,Shipped,12,186443.6871918537,2237324.2463022443,North America,Q4-2026,Less nice job positive already city carry.
+SO-1000762,Dealer-D016,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-25,In Production,4,410991.35397613543,1643965.4159045417,Europe,Q2-2026,Smile everyone nearly popular amount reveal site.
+SO-1000763,Dealer-D014,PROD-390,Model 390F Excavator,Excavators,2026-04-15,In Production,2,460209.5992683736,920419.1985367473,North America,Q3-2026,Teacher base own test too.
+SO-1000764,Dealer-D027,PROD-3500,Model 3500 Engine,Engines,2026-05-13,Shipped,8,360511.6207732946,2884092.9661863567,Europe,Q3-2026,To public though however style successful door number.
+SO-1000765,Dealer-D037,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-17,Confirmed,4,161926.4272057811,647705.7088231244,North America,Q3-2026,Usually miss stock wear use edge this draw business.
+SO-1000766,Dealer-D026,PROD-3600,Model 3600 Engine,Engines,2026-01-23,Confirmed,8,59476.00260034402,475808.0208027522,Africa,Q4-2026,Forget once hope security door institution certain compare.
+SO-1000767,Dealer-D027,PROD-380,Model 380F Excavator,Excavators,2026-03-05,Delivered,4,152674.66118790762,610698.6447516305,South America,Q3-2026,Keep effect operation make hear we first.
+SO-1000768,Dealer-D009,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-24,In Production,4,222566.50515876914,890266.0206350766,North America,Q2-2026,Little east everyone six certain little happy final population.
+SO-1000769,Dealer-D036,PROD-390,Model 390F Excavator,Excavators,2026-04-19,In Production,2,498563.47070548433,997126.9414109687,Asia Pacific,Q1-2026,Alone science sometimes area true public education his police red.
+SO-1000770,Dealer-D012,PROD-320,Model 320 Excavator,Excavators,2026-01-25,Backlog,12,117774.92888083361,1413299.1465700034,North America,Q3-2026,Movement door kind account whether until.
+SO-1000771,Dealer-D032,PROD-3500,Model 3500 Engine,Engines,2026-01-14,Shipped,1,110972.53351798016,110972.53351798016,Africa,Q1-2026,Feeling view series father teacher civil keep.
+SO-1000772,Dealer-D041,PROD-380,Model 380F Excavator,Excavators,2026-05-27,Shipped,8,172757.25171493058,1382058.0137194446,North America,Q2-2026,These short image almost term statement wait likely.
+SO-1000773,Dealer-D014,PROD-3500,Model 3500 Engine,Engines,2026-03-31,Delivered,12,474489.5503433674,5693874.604120409,Asia Pacific,Q4-2026,Unit four institution truth beyond civil end at.
+SO-1000774,Dealer-D014,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-21,Shipped,8,202017.66949470382,1616141.3559576306,South America,Q3-2026,Own spend scene law agree appear political picture social.
+SO-1000775,Dealer-D010,PROD-380,Model 380F Excavator,Excavators,2026-03-13,Confirmed,8,330427.59103948425,2643420.728315874,South America,Q1-2026,Able customer figure office book economic.
+SO-1000776,Dealer-D001,PROD-390,Model 390F Excavator,Excavators,2026-05-08,Delivered,1,300519.16544878425,300519.16544878425,Asia Pacific,Q3-2026,Suggest rate society floor long same.
+SO-1000777,Dealer-D013,PROD-3600,Model 3600 Engine,Engines,2026-05-04,Delivered,3,58261.27279965078,174783.81839895234,Europe,Q2-2026,Community or foreign example base happen hour.
+SO-1000778,Dealer-D015,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-10,Delivered,12,465450.6861433529,5585408.233720235,North America,Q3-2026,War this difference way type positive phone trade.
+SO-1000779,Dealer-D044,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-04,Confirmed,5,426007.2672907919,2130036.3364539593,North America,Q2-2026,Cup red collection husband investment employee become happy water.
+SO-1000780,Dealer-D040,PROD-320,Model 320 Excavator,Excavators,2026-06-21,In Production,8,326030.830934977,2608246.647479816,South America,Q1-2026,Add moment significant up still management.
+SO-1000781,Dealer-D010,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-08,Shipped,5,463228.265920981,2316141.329604905,Africa,Q4-2026,Require course technology site explain management candidate.
+SO-1000782,Dealer-D037,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-17,Confirmed,4,197101.96837502293,788407.8735000917,Africa,Q4-2026,Outside yet executive quality industry impact.
+SO-1000783,Dealer-D023,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-13,Shipped,6,445758.21208035154,2674549.2724821093,North America,Q4-2026,Agreement wish dog late eat old.
+SO-1000784,Dealer-D022,PROD-3500,Model 3500 Engine,Engines,2026-02-26,In Production,2,475305.1019351991,950610.2038703982,South America,Q4-2026,Beat light the window huge defense himself interest others.
+SO-1000785,Dealer-D006,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-31,Delayed,6,382342.5677641584,2294055.4065849506,North America,Q3-2026,Believe arrive four dog traditional.
+SO-1000786,Dealer-D007,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-13,Shipped,3,345291.34116812295,1035874.0235043688,Asia Pacific,Q2-2026,Vote whose our security animal effect people few house he.
+SO-1000787,Dealer-D032,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-12,Delivered,10,451040.35883081425,4510403.5883081425,Africa,Q1-2026,American conference college manage fund life bed report item employee.
+SO-1000788,Dealer-D032,PROD-390,Model 390F Excavator,Excavators,2026-03-24,In Production,1,157666.48823815875,157666.48823815875,South America,Q4-2026,Analysis campaign the strong security unit executive theory.
+SO-1000789,Dealer-D015,PROD-380,Model 380F Excavator,Excavators,2026-04-17,Delivered,6,191495.34761513243,1148972.0856907945,South America,Q2-2026,Stop unit might job close say man wear new type PM.
+SO-1000790,Dealer-D026,PROD-3600,Model 3600 Engine,Engines,2026-04-02,Delivered,8,247328.6075145365,1978628.860116292,Africa,Q4-2026,Apply chance discover along employee relationship job yet until.
+SO-1000791,Dealer-D006,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-29,Delivered,3,220256.41175719112,660769.2352715733,Europe,Q4-2026,Kid writer night leader both.
+SO-1000792,Dealer-D026,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-23,In Production,4,275648.6631640598,1102594.6526562392,Asia Pacific,Q1-2026,Buy behavior test Congress collection meet.
+SO-1000793,Dealer-D029,PROD-390,Model 390F Excavator,Excavators,2026-03-15,Delivered,12,465000.49316968705,5580005.918036245,North America,Q1-2026,None production defense your above short Congress.
+SO-1000794,Dealer-D049,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-26,Shipped,10,301950.7393306034,3019507.3933060337,North America,Q1-2026,East marriage behind forget expect.
+SO-1000795,Dealer-D048,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-11,In Production,8,168366.27989251862,1346930.239140149,South America,Q3-2026,Hour opportunity week student child ball.
+SO-1000796,Dealer-D047,PROD-D6,Model D6 Bulldozer,Dozers,2026-04-13,Backlog,6,100674.1532071493,604044.9192428958,Africa,Q3-2026,Law western order accept wide prevent week foot rule.
+SO-1000797,Dealer-D031,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-31,Shipped,4,407598.3015790501,1630393.2063162003,North America,Q3-2026,Can tell soon executive sometimes season natural own begin effort.
+SO-1000798,Dealer-D048,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-06,Confirmed,6,401735.9504494447,2410415.702696668,Africa,Q1-2026,Whole tend become system clear single expect.
+SO-1000799,Dealer-D017,PROD-390,Model 390F Excavator,Excavators,2026-03-12,Shipped,12,488027.4311462195,5856329.173754634,Asia Pacific,Q1-2026,Building make it south financial rate.
+SO-1000800,Dealer-D026,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-02,Delivered,10,436311.6136692183,4363116.136692183,North America,Q2-2026,Grow benefit happen customer knowledge hold.
+SO-1000801,Dealer-D018,PROD-3500,Model 3500 Engine,Engines,2026-04-03,Delivered,8,70731.12635396041,565849.0108316833,Asia Pacific,Q4-2026,None institution series specific pass its international.
+SO-1000802,Dealer-D003,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-14,Delayed,12,245321.9908151813,2943863.889782176,Asia Pacific,Q2-2026,Message wind put positive require.
+SO-1000803,Dealer-D024,PROD-320,Model 320 Excavator,Excavators,2026-04-01,In Production,8,438246.8498566515,3505974.798853212,Asia Pacific,Q1-2026,Money positive base life bad soon feel worker range.
+SO-1000804,Dealer-D001,PROD-3600,Model 3600 Engine,Engines,2026-04-20,Shipped,6,332790.2730129528,1996741.6380777168,North America,Q4-2026,Success mission far answer baby and blue.
+SO-1000805,Dealer-D047,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-21,In Production,12,165331.56891614792,1983978.826993775,Africa,Q2-2026,Including let result spend green one shoulder administration scientist.
+SO-1000806,Dealer-D031,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-06,Shipped,2,251579.1637315335,503158.327463067,South America,Q1-2026,Conference consider hotel bar theory fear onto lawyer prove.
+SO-1000807,Dealer-D036,PROD-3600,Model 3600 Engine,Engines,2026-03-05,Confirmed,8,63381.31758257117,507050.5406605694,North America,Q2-2026,Space game truth special decision back word else pull its adult.
+SO-1000808,Dealer-D021,PROD-3500,Model 3500 Engine,Engines,2026-03-06,Confirmed,1,306640.62852192676,306640.62852192676,Europe,Q4-2026,Bring commercial local reality than whole own main.
+SO-1000809,Dealer-D033,PROD-320,Model 320 Excavator,Excavators,2026-05-07,Delivered,12,276831.53588679095,3321978.4306414914,North America,Q3-2026,Spend pattern real white push source because career course staff receive.
+SO-1000810,Dealer-D001,PROD-320,Model 320 Excavator,Excavators,2026-05-14,Delivered,12,78913.72532957497,946964.7039548997,South America,Q2-2026,Teacher decide possible power job personal.
+SO-1000811,Dealer-D003,PROD-3500,Model 3500 Engine,Engines,2026-05-27,Confirmed,2,337723.88965434406,675447.7793086881,Asia Pacific,Q2-2026,Course feeling leg listen against coach check reflect white likely.
+SO-1000812,Dealer-D036,PROD-3500,Model 3500 Engine,Engines,2026-02-18,Delivered,4,165506.26624261856,662025.0649704742,South America,Q4-2026,One cut notice street anything account piece require woman.
+SO-1000813,Dealer-D017,PROD-3600,Model 3600 Engine,Engines,2026-02-06,Shipped,1,186476.46172945038,186476.46172945038,Africa,Q4-2026,Say other never fact maintain main opportunity particularly question.
+SO-1000814,Dealer-D016,PROD-3600,Model 3600 Engine,Engines,2026-03-06,In Production,10,477012.2981849218,4770122.981849218,North America,Q2-2026,Discussion art affect office network environmental possible threat bring.
+SO-1000815,Dealer-D025,PROD-380,Model 380F Excavator,Excavators,2026-01-27,Delivered,6,146554.16904178244,879325.0142506947,Europe,Q4-2026,Voice get recently again explain court gas discussion detail training fund.
+SO-1000816,Dealer-D046,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-02,Confirmed,5,155325.9987578746,776629.993789373,Europe,Q4-2026,Table resource life third rich hospital indicate wait present growth.
+SO-1000817,Dealer-D025,PROD-390,Model 390F Excavator,Excavators,2026-02-05,Shipped,6,362238.50404777756,2173431.0242866655,Africa,Q3-2026,Son suddenly perform executive see project can current paper.
+SO-1000818,Dealer-D030,PROD-380,Model 380F Excavator,Excavators,2026-04-15,Delivered,6,261853.24865571826,1571119.4919343095,Europe,Q3-2026,Soldier wall management doctor news.
+SO-1000819,Dealer-D037,PROD-3500,Model 3500 Engine,Engines,2026-02-04,Backlog,4,122976.82721173462,491907.3088469385,North America,Q4-2026,Grow end quality company.
+SO-1000820,Dealer-D019,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-22,In Production,6,367695.68133289705,2206174.0879973825,Asia Pacific,Q1-2026,Allow as issue pay building difference election future great.
+SO-1000821,Dealer-D044,PROD-390,Model 390F Excavator,Excavators,2026-06-20,Delivered,5,137546.58636496007,687732.9318248003,Africa,Q1-2026,Show news to table them.
+SO-1000822,Dealer-D009,PROD-3600,Model 3600 Engine,Engines,2026-04-16,Delivered,10,94773.30178128715,947733.0178128716,North America,Q1-2026,Prove relationship unit just lead success book black particular site.
+SO-1000823,Dealer-D039,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-07,Delivered,4,162944.24284223182,651776.9713689273,Europe,Q1-2026,Statement among black picture that.
+SO-1000824,Dealer-D040,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-23,Delivered,8,310894.9058454229,2487159.246763383,North America,Q2-2026,Church factor kid media run between positive free.
+SO-1000825,Dealer-D016,PROD-3500,Model 3500 Engine,Engines,2026-05-08,Confirmed,8,342438.76476615877,2739510.11812927,Asia Pacific,Q1-2026,But dark wide shoulder according strong.
+SO-1000826,Dealer-D043,PROD-380,Model 380F Excavator,Excavators,2026-03-22,In Production,6,360337.33384650777,2162024.0030790465,North America,Q3-2026,Game measure be head senior guess professor charge send.
+SO-1000827,Dealer-D012,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-23,Delivered,6,276991.1357285466,1661946.8143712794,Europe,Q4-2026,Skin case investment truth together weight might radio want.
+SO-1000828,Dealer-D003,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-26,Shipped,1,90284.08855857904,90284.08855857904,Africa,Q4-2026,Certainly act south want be fire word clearly article.
+SO-1000829,Dealer-D001,PROD-320,Model 320 Excavator,Excavators,2026-01-21,In Production,4,294532.63348921883,1178130.5339568753,Africa,Q1-2026,Produce political total around place.
+SO-1000830,Dealer-D044,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-05,In Production,10,249735.19601325624,2497351.9601325626,Asia Pacific,Q1-2026,Win information though red them return finish general still too.
+SO-1000831,Dealer-D004,PROD-3500,Model 3500 Engine,Engines,2026-04-18,Delayed,3,74799.33797330005,224398.01391990014,South America,Q1-2026,Turn record land day name small present recently thought sit identify.
+SO-1000832,Dealer-D035,PROD-320,Model 320 Excavator,Excavators,2026-02-28,In Production,1,453535.9474584851,453535.9474584851,Africa,Q1-2026,Thing base Mr hope rest they.
+SO-1000833,Dealer-D033,PROD-390,Model 390F Excavator,Excavators,2026-05-02,Delayed,4,252817.72621267356,1011270.9048506942,North America,Q2-2026,Yeah exist behavior necessary miss serious civil agreement someone or.
+SO-1000834,Dealer-D048,PROD-380,Model 380F Excavator,Excavators,2026-03-26,Delivered,12,165209.5278776809,1982514.3345321708,Europe,Q3-2026,Strategy fight institution measure rule success employee.
+SO-1000835,Dealer-D021,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-10,Shipped,3,354639.53853996284,1063918.6156198885,Africa,Q3-2026,Great answer prepare by fear say law work south.
+SO-1000836,Dealer-D003,PROD-3500,Model 3500 Engine,Engines,2026-03-02,Shipped,6,165693.24022780027,994159.4413668016,North America,Q1-2026,Not thus physical mouth other go expect size resource public.
+SO-1000837,Dealer-D014,PROD-3500,Model 3500 Engine,Engines,2026-03-18,Delivered,6,426479.09466544614,2558874.567992677,North America,Q1-2026,Mind easy foreign old state guess better Republican.
+SO-1000838,Dealer-D029,PROD-320,Model 320 Excavator,Excavators,2026-06-08,Delivered,12,312156.00914666505,3745872.109759981,Asia Pacific,Q2-2026,Bank artist thousand live land hard moment open.
+SO-1000839,Dealer-D024,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-10,Confirmed,3,92792.14146982826,278376.4244094848,North America,Q4-2026,Single the once PM you ready way rule indicate clear.
+SO-1000840,Dealer-D019,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-19,Delayed,1,444970.83231362276,444970.83231362276,Europe,Q1-2026,Camera represent can relate tell brother defense list second.
+SO-1000841,Dealer-D007,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-31,Delivered,2,145727.1347586229,291454.2695172458,North America,Q1-2026,Hard weight own impact building occur American check he yard.
+SO-1000842,Dealer-D049,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-29,Confirmed,4,424802.11769925326,1699208.470797013,Africa,Q2-2026,Family agreement central six instead view figure.
+SO-1000843,Dealer-D034,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-26,In Production,1,236748.9912668394,236748.9912668394,South America,Q1-2026,Democratic standard major business give that individual.
+SO-1000844,Dealer-D033,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-20,Backlog,5,272232.13806864514,1361160.6903432258,South America,Q3-2026,Finally laugh full help strong street car catch PM seven.
+SO-1000845,Dealer-D018,PROD-390,Model 390F Excavator,Excavators,2026-02-11,Confirmed,1,404139.1097215404,404139.1097215404,Europe,Q2-2026,Chance road become person perhaps hold too fund animal.
+SO-1000846,Dealer-D009,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-28,Delayed,10,468990.63072860666,4689906.307286067,South America,Q1-2026,Save position tend religious occur someone religious night buy.
+SO-1000847,Dealer-D050,PROD-D10,Model D10 Bulldozer,Dozers,2026-05-21,Confirmed,2,166752.12698063435,333504.2539612687,Europe,Q1-2026,Be western my serious whatever miss seek me affect probably.
+SO-1000848,Dealer-D047,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-10,Shipped,5,405068.2718909212,2025341.3594546062,South America,Q1-2026,Conference affect skill early relationship thought know southern parent I.
+SO-1000849,Dealer-D009,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-02,Backlog,3,315912.2417722521,947736.7253167562,South America,Q1-2026,Man value future Congress agency.
+SO-1000850,Dealer-D006,PROD-3500,Model 3500 Engine,Engines,2026-05-04,Delayed,12,163663.70300812589,1963964.4360975106,Europe,Q3-2026,Fish either boy between collection century eight bed fill imagine.
+SO-1000851,Dealer-D018,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-08,Shipped,1,333764.9137888446,333764.9137888446,North America,Q3-2026,Arrive which consider require fear better.
+SO-1000852,Dealer-D045,PROD-390,Model 390F Excavator,Excavators,2026-03-27,Delivered,10,62856.9129758047,628569.1297580469,North America,Q3-2026,Include food heart still building dark.
+SO-1000853,Dealer-D012,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-13,Confirmed,12,419288.70215951547,5031464.425914185,Europe,Q4-2026,Only manage sell his boy art let imagine machine imagine.
+SO-1000854,Dealer-D020,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-14,Confirmed,1,385841.2156560846,385841.2156560846,Asia Pacific,Q3-2026,Trial affect never only big several prepare.
+SO-1000855,Dealer-D028,PROD-390,Model 390F Excavator,Excavators,2026-04-07,Confirmed,3,227453.51585779895,682360.5475733968,North America,Q3-2026,Fight image base player data whose.
+SO-1000856,Dealer-D017,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-14,Delayed,10,149936.98469404544,1499369.8469404546,North America,Q1-2026,Music collection early weight which new among spend.
+SO-1000857,Dealer-D012,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-10,Delayed,8,71527.46562816747,572219.7250253398,North America,Q2-2026,Eye will a value lot our style herself goal place one.
+SO-1000858,Dealer-D001,PROD-380,Model 380F Excavator,Excavators,2026-05-16,Delivered,3,154091.38201803208,462274.1460540962,Europe,Q2-2026,Example claim move attorney bed recognize store rise your there.
+SO-1000859,Dealer-D050,PROD-320,Model 320 Excavator,Excavators,2026-04-05,Delayed,1,461498.7782693023,461498.7782693023,North America,Q3-2026,Particular whatever five radio garden end.
+SO-1000860,Dealer-D014,PROD-320,Model 320 Excavator,Excavators,2026-03-04,Shipped,12,428271.63024793635,5139259.562975236,Asia Pacific,Q1-2026,Event production focus decision where foreign trial card two.
+SO-1000861,Dealer-D016,PROD-3500,Model 3500 Engine,Engines,2026-03-05,Delivered,12,135270.5656548219,1623246.7878578627,Asia Pacific,Q1-2026,Live top pull including time reflect several Mrs skin power.
+SO-1000862,Dealer-D003,PROD-380,Model 380F Excavator,Excavators,2026-02-02,Shipped,12,356472.55027870036,4277670.603344404,North America,Q1-2026,Much throughout staff knowledge but.
+SO-1000863,Dealer-D018,PROD-3600,Model 3600 Engine,Engines,2026-01-29,Confirmed,8,309597.47373962565,2476779.789917005,South America,Q2-2026,Still group concern should recent across leg view.
+SO-1000864,Dealer-D003,PROD-320,Model 320 Excavator,Excavators,2026-05-22,In Production,3,69731.08362348346,209193.25087045037,Africa,Q1-2026,Act sea serve quite remember course staff personal space.
+SO-1000865,Dealer-D023,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-18,Confirmed,12,488457.2554358138,5861487.065229766,Africa,Q1-2026,Doctor management guy exactly toward religious decide.
+SO-1000866,Dealer-D022,PROD-3500,Model 3500 Engine,Engines,2026-04-28,Delivered,4,267584.93031423714,1070339.7212569485,South America,Q1-2026,Worker point book everyone matter color.
+SO-1000867,Dealer-D022,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-28,Delivered,1,388990.8193456657,388990.8193456657,Africa,Q3-2026,Process not radio north assume campaign.
+SO-1000868,Dealer-D041,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-10,Shipped,5,275161.2621729756,1375806.310864878,North America,Q3-2026,Camera value talk thing rock.
+SO-1000869,Dealer-D016,PROD-320,Model 320 Excavator,Excavators,2026-03-07,Delayed,5,204050.33710744584,1020251.6855372292,Africa,Q3-2026,Court question yeah realize mouth education nice.
+SO-1000870,Dealer-D046,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-20,Delivered,2,282933.42277908523,565866.8455581705,North America,Q1-2026,Ability interview pull practice take follow such imagine business.
+SO-1000871,Dealer-D005,PROD-3500,Model 3500 Engine,Engines,2026-05-11,Delivered,3,288444.03148319275,865332.0944495783,Europe,Q1-2026,Level guess service this different everyone information large accept create.
+SO-1000872,Dealer-D030,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-23,Delivered,1,329368.4615776513,329368.4615776513,Africa,Q2-2026,They space wrong difficult ready.
+SO-1000873,Dealer-D028,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-27,Backlog,3,316843.13648997224,950529.4094699167,North America,Q3-2026,True culture forget as personal.
+SO-1000874,Dealer-D045,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-13,Backlog,1,174766.28735713375,174766.28735713375,Africa,Q2-2026,Lose space or phone free.
+SO-1000875,Dealer-D027,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-14,Confirmed,10,72122.37311977167,721223.7311977167,Asia Pacific,Q2-2026,East list when strategy start mind door.
+SO-1000876,Dealer-D019,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-22,Shipped,8,156681.6760283801,1253453.408227041,Africa,Q3-2026,Simply people shake personal often.
+SO-1000877,Dealer-D027,PROD-950,Model 950 Wheel Loader,Loaders,2026-04-19,Backlog,3,299326.2725570948,897978.8176712844,Africa,Q2-2026,Window true help three really.
+SO-1000878,Dealer-D040,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-17,Backlog,8,241057.67323368002,1928461.3858694402,Europe,Q4-2026,Artist sort area particularly it big.
+SO-1000879,Dealer-D008,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-09,In Production,10,223323.18249764323,2233231.824976432,Africa,Q1-2026,Nice far high benefit sell.
+SO-1000880,Dealer-D026,PROD-380,Model 380F Excavator,Excavators,2026-01-28,Delivered,10,85414.35951837926,854143.5951837926,Africa,Q4-2026,Ten skin perhaps law less into per.
+SO-1000881,Dealer-D026,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-28,In Production,2,319743.7439124298,639487.4878248596,Asia Pacific,Q1-2026,Fund visit situation law foreign.
+SO-1000882,Dealer-D002,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-13,Delayed,12,250600.43640176166,3007205.23682114,Asia Pacific,Q2-2026,Blue activity require or subject toward.
+SO-1000883,Dealer-D033,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-02,Delivered,6,482622.11156467185,2895732.669388031,South America,Q4-2026,Pm eight inside right know during.
+SO-1000884,Dealer-D016,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-13,Delayed,8,471308.17451324145,3770465.3961059316,North America,Q2-2026,Art find job where senior.
+SO-1000885,Dealer-D032,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-24,Delivered,3,96325.76511512877,288977.2953453863,Africa,Q2-2026,On must certainly light owner fact wife.
+SO-1000886,Dealer-D001,PROD-320,Model 320 Excavator,Excavators,2026-06-12,Delivered,8,387282.3868205513,3098259.0945644104,Europe,Q1-2026,Only question arm medical strong teach instead crime customer training.
+SO-1000887,Dealer-D013,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-07,Delayed,6,63871.07841471661,383226.4704882997,Asia Pacific,Q3-2026,Game property reason word outside.
+SO-1000888,Dealer-D040,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-23,Backlog,8,203870.52210862696,1630964.1768690157,Africa,Q1-2026,System not friend federal forget bit then treat.
+SO-1000889,Dealer-D001,PROD-380,Model 380F Excavator,Excavators,2026-05-05,Delivered,1,242999.34410759475,242999.34410759475,Asia Pacific,Q1-2026,Detail about development discover perhaps dream same weight former.
+SO-1000890,Dealer-D035,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-26,Confirmed,8,168563.05056223169,1348504.4044978535,Africa,Q1-2026,Day contain wrong guy available air boy fact.
+SO-1000891,Dealer-D042,PROD-320,Model 320 Excavator,Excavators,2026-04-11,Confirmed,2,165628.53477881144,331257.0695576229,North America,Q3-2026,Place tree growth wish current exist.
+SO-1000892,Dealer-D049,PROD-380,Model 380F Excavator,Excavators,2026-03-01,In Production,2,244178.65393143907,488357.30786287814,Africa,Q3-2026,Those responsibility fund never condition again successful.
+SO-1000893,Dealer-D002,PROD-3500,Model 3500 Engine,Engines,2026-06-16,Shipped,2,221516.096915631,443032.193831262,South America,Q2-2026,Again quality her skin book.
+SO-1000894,Dealer-D035,PROD-380,Model 380F Excavator,Excavators,2026-01-11,Shipped,12,226571.9454197246,2718863.3450366952,Asia Pacific,Q2-2026,Figure drive special produce wait with.
+SO-1000895,Dealer-D031,PROD-390,Model 390F Excavator,Excavators,2026-06-15,Shipped,5,121228.81522659413,606144.0761329706,Africa,Q2-2026,Think there assume certain under some court her hear outside with.
+SO-1000896,Dealer-D017,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-03,Confirmed,3,247778.5012013983,743335.5036041948,South America,Q4-2026,Tv several onto take family chance easy.
+SO-1000897,Dealer-D047,PROD-380,Model 380F Excavator,Excavators,2026-05-24,Confirmed,2,103307.76729251683,206615.53458503366,South America,Q1-2026,Somebody their surface why though decide bank likely professional ask meet.
+SO-1000898,Dealer-D007,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-14,Shipped,2,306946.2070966903,613892.4141933806,North America,Q3-2026,Hear million condition Republican moment low what listen ok point.
+SO-1000899,Dealer-D043,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-02,In Production,10,332266.2802861902,3322662.802861902,Asia Pacific,Q2-2026,Power debate thus later doctor despite interesting help church successful.
+SO-1000900,Dealer-D050,PROD-3600,Model 3600 Engine,Engines,2026-03-09,Delayed,12,53803.17322810724,645638.0787372869,Europe,Q3-2026,Nearly care base know goal once let.
+SO-1000901,Dealer-D041,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-03,Delivered,1,290984.8622386836,290984.8622386836,South America,Q4-2026,From later it happen marriage event agent kid enter away top.
+SO-1000902,Dealer-D022,PROD-390,Model 390F Excavator,Excavators,2026-05-14,Confirmed,6,386001.9341539866,2316011.60492392,Asia Pacific,Q3-2026,Successful mention poor skill unit better author.
+SO-1000903,Dealer-D031,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-12,Shipped,2,192471.0956723358,384942.1913446716,North America,Q1-2026,National free push economic seat.
+SO-1000904,Dealer-D027,PROD-980,Model 980 Wheel Loader,Loaders,2026-06-12,Shipped,4,368502.7902631171,1474011.1610524685,Africa,Q2-2026,Course page case talk respond myself end.
+SO-1000905,Dealer-D009,PROD-320,Model 320 Excavator,Excavators,2026-02-21,In Production,3,309659.18076075125,928977.5422822537,Africa,Q3-2026,Example get you watch state serious activity.
+SO-1000906,Dealer-D044,PROD-3500,Model 3500 Engine,Engines,2026-04-03,Delayed,10,181536.37094967687,1815363.7094967687,Asia Pacific,Q3-2026,Writer week tend dinner rich decide do only need light.
+SO-1000907,Dealer-D016,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-07,Delivered,3,244495.93441326058,733487.8032397818,North America,Q4-2026,Future beat suffer investment walk individual just table air.
+SO-1000908,Dealer-D009,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-28,Shipped,4,98634.87214987473,394539.48859949893,Asia Pacific,Q3-2026,Officer campaign wall act special strong.
+SO-1000909,Dealer-D017,PROD-390,Model 390F Excavator,Excavators,2026-03-08,Delivered,1,97610.16174086295,97610.16174086295,North America,Q4-2026,Different international sell several real federal only nothing.
+SO-1000910,Dealer-D014,PROD-390,Model 390F Excavator,Excavators,2026-04-19,Shipped,10,66808.82139599972,668088.2139599973,Europe,Q3-2026,Two child well form picture.
+SO-1000911,Dealer-D013,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-24,Delivered,8,303465.1297215575,2427721.03777246,North America,Q1-2026,Trial off hospital high we as hit little forget while.
+SO-1000912,Dealer-D017,PROD-3500,Model 3500 Engine,Engines,2026-06-22,In Production,8,348575.9312323657,2788607.449858926,Europe,Q3-2026,Behavior bit need allow ready major cost.
+SO-1000913,Dealer-D026,PROD-D10,Model D10 Bulldozer,Dozers,2026-02-07,Backlog,3,421904.143604741,1265712.4308142231,Asia Pacific,Q3-2026,Treat history day fact modern.
+SO-1000914,Dealer-D030,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-24,Delayed,4,491857.3950291243,1967429.5801164971,Asia Pacific,Q1-2026,Arm million commercial teacher improve church book movie long.
+SO-1000915,Dealer-D029,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-03,Delivered,5,492193.58517210616,2460967.9258605307,Europe,Q3-2026,Home tough deal that finally.
+SO-1000916,Dealer-D043,PROD-980,Model 980 Wheel Loader,Loaders,2026-05-05,Delayed,1,464777.0012532476,464777.0012532476,South America,Q1-2026,City offer financial data respond learn cut yard knowledge.
+SO-1000917,Dealer-D015,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-07,Delivered,5,144953.01126838673,724765.0563419337,Asia Pacific,Q4-2026,Painting east forget notice make leg although before.
+SO-1000918,Dealer-D010,PROD-380,Model 380F Excavator,Excavators,2026-03-02,Confirmed,6,346893.6382038877,2081361.829223326,Africa,Q4-2026,Get successful society hospital statement sure indeed conference pay.
+SO-1000919,Dealer-D011,PROD-3600,Model 3600 Engine,Engines,2026-06-27,Delivered,12,482503.2206097381,5790038.647316857,Europe,Q4-2026,Leader treat contain notice hour watch dream that event.
+SO-1000920,Dealer-D023,PROD-D9,Model D9 Bulldozer,Dozers,2026-06-02,Confirmed,2,359277.3519859075,718554.703971815,South America,Q4-2026,Mrs project at risk total training in seven building hard sense.
+SO-1000921,Dealer-D023,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-29,Delivered,4,165814.45628073532,663257.8251229413,Europe,Q2-2026,Short for late education media left available reason see.
+SO-1000922,Dealer-D014,PROD-390,Model 390F Excavator,Excavators,2026-05-21,Delivered,4,149557.01891300763,598228.0756520305,South America,Q2-2026,Gas human create also economy remember carry prove.
+SO-1000923,Dealer-D031,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-18,In Production,5,142788.68566484103,713943.4283242051,Asia Pacific,Q2-2026,Machine attention nature drug wear cell star success color.
+SO-1000924,Dealer-D029,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-21,Delayed,3,232736.95965189693,698210.8789556908,Africa,Q1-2026,Parent concern buy scientist.
+SO-1000925,Dealer-D008,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-11,Delayed,2,220193.05274288508,440386.10548577015,North America,Q3-2026,Back shake quality child group describe.
+SO-1000926,Dealer-D021,PROD-380,Model 380F Excavator,Excavators,2026-03-23,In Production,10,434799.23989884806,4347992.398988481,Asia Pacific,Q3-2026,Throughout mother kind answer play.
+SO-1000927,Dealer-D017,PROD-3500,Model 3500 Engine,Engines,2026-04-24,Confirmed,3,252943.92619175467,758831.778575264,Europe,Q1-2026,Political respond to hospital final appear above significant short up.
+SO-1000928,Dealer-D008,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-24,Backlog,12,367647.1001067747,4411765.201281296,Africa,Q4-2026,Training customer administration agreement address star quite as.
+SO-1000929,Dealer-D001,PROD-380,Model 380F Excavator,Excavators,2026-03-11,Shipped,10,155517.8030524265,1555178.030524265,Asia Pacific,Q3-2026,Someone store collection cold indeed.
+SO-1000930,Dealer-D023,PROD-390,Model 390F Excavator,Excavators,2026-06-29,In Production,4,476894.33640634577,1907577.345625383,Africa,Q4-2026,Spring follow phone person various.
+SO-1000931,Dealer-D041,PROD-3600,Model 3600 Engine,Engines,2026-01-07,In Production,1,419124.58689589455,419124.58689589455,South America,Q3-2026,Voice building degree ground community I first home.
+SO-1000932,Dealer-D034,PROD-3500,Model 3500 Engine,Engines,2026-01-26,Delayed,2,358644.32378890907,717288.6475778181,South America,Q2-2026,Detail price everything perhaps analysis those in should matter.
+SO-1000933,Dealer-D015,PROD-D6,Model D6 Bulldozer,Dozers,2026-01-15,Confirmed,12,191201.96448757793,2294423.5738509353,North America,Q2-2026,Republican social two notice edge.
+SO-1000934,Dealer-D036,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-05,Delivered,3,477772.8672109428,1433318.6016328284,South America,Q4-2026,Outside wonder recent question win.
+SO-1000935,Dealer-D004,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-30,Backlog,4,313638.37273756467,1254553.4909502587,Europe,Q4-2026,Forward play this fish surface lot.
+SO-1000936,Dealer-D029,PROD-380,Model 380F Excavator,Excavators,2026-02-21,Delayed,1,161404.0286638031,161404.0286638031,Asia Pacific,Q2-2026,Adult treatment large memory score me relate actually.
+SO-1000937,Dealer-D025,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-09,Shipped,8,483035.3371005079,3864282.6968040634,Asia Pacific,Q2-2026,Pattern to final scene.
+SO-1000938,Dealer-D026,PROD-320,Model 320 Excavator,Excavators,2026-02-19,Delivered,6,488184.1619173221,2929104.9715039325,Asia Pacific,Q3-2026,People art hear father charge daughter also.
+SO-1000939,Dealer-D002,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-14,Delivered,3,127269.49503815967,381808.48511447903,South America,Q3-2026,Write kitchen theory care fish skin always social increase spend.
+SO-1000940,Dealer-D021,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-15,Confirmed,4,177483.437598966,709933.750395864,Africa,Q3-2026,Director run garden day approach.
+SO-1000941,Dealer-D026,PROD-D9,Model D9 Bulldozer,Dozers,2026-03-02,Delayed,4,155124.06441630656,620496.2576652262,South America,Q2-2026,Soon recent develop their miss contain picture.
+SO-1000942,Dealer-D005,PROD-320,Model 320 Excavator,Excavators,2026-06-29,Shipped,6,78591.07509076336,471546.4505445802,North America,Q1-2026,Thank attorney court plant center.
+SO-1000943,Dealer-D022,PROD-D6,Model D6 Bulldozer,Dozers,2026-05-05,Delivered,3,66293.26766932324,198879.8030079697,Africa,Q2-2026,By community nature somebody daughter medical.
+SO-1000944,Dealer-D006,PROD-D10,Model D10 Bulldozer,Dozers,2026-03-04,Delivered,12,158721.10791801795,1904653.2950162154,Asia Pacific,Q4-2026,Right find return each computer eat experience large player.
+SO-1000945,Dealer-D048,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-28,Delayed,4,274796.9155788688,1099187.6623154753,Europe,Q2-2026,Television loss week growth help likely institution.
+SO-1000946,Dealer-D016,PROD-320,Model 320 Excavator,Excavators,2026-01-19,Delivered,2,271133.2685447008,542266.5370894016,North America,Q3-2026,Same set standard soldier after high take serve TV organization check.
+SO-1000947,Dealer-D030,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-23,Confirmed,8,412567.15661654156,3300537.2529323325,Africa,Q3-2026,Either less law heart paper author.
+SO-1000948,Dealer-D001,PROD-390,Model 390F Excavator,Excavators,2026-01-28,In Production,2,139501.2663221078,279002.5326442156,Asia Pacific,Q1-2026,Resource cultural trouble above technology room.
+SO-1000949,Dealer-D006,PROD-3500,Model 3500 Engine,Engines,2026-01-08,Confirmed,1,378731.594311847,378731.594311847,North America,Q3-2026,Man understand wait wife health majority political open.
+SO-1000950,Dealer-D043,PROD-380,Model 380F Excavator,Excavators,2026-04-03,Backlog,5,203198.4860447383,1015992.4302236915,North America,Q1-2026,Those yeah buy usually class several whatever side.
+SO-1000951,Dealer-D010,PROD-950,Model 950 Wheel Loader,Loaders,2026-01-17,In Production,2,200753.8564809631,401507.7129619262,North America,Q2-2026,Meeting major read recent prepare unit save drug.
+SO-1000952,Dealer-D016,PROD-D10,Model D10 Bulldozer,Dozers,2026-06-06,Delivered,10,305155.5464390775,3051555.4643907747,Europe,Q3-2026,Tv guess religious agreement program.
+SO-1000953,Dealer-D033,PROD-3600,Model 3600 Engine,Engines,2026-06-14,Shipped,5,396967.2666101846,1984836.3330509232,North America,Q3-2026,End lay race effect own weight.
+SO-1000954,Dealer-D025,PROD-3600,Model 3600 Engine,Engines,2026-04-13,Backlog,4,491443.8362594074,1965775.3450376296,Africa,Q4-2026,Activity side popular true huge only.
+SO-1000955,Dealer-D012,PROD-3500,Model 3500 Engine,Engines,2026-02-17,Delivered,4,97756.4383542061,391025.7534168244,Asia Pacific,Q1-2026,Million country institution stop education.
+SO-1000956,Dealer-D042,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-03,In Production,8,162141.6967660793,1297133.5741286343,South America,Q3-2026,May mouth though only safe sell under.
+SO-1000957,Dealer-D025,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-28,Confirmed,6,240524.03708035784,1443144.2224821472,Africa,Q3-2026,Body of something sport especially.
+SO-1000958,Dealer-D029,PROD-320,Model 320 Excavator,Excavators,2026-02-28,Confirmed,5,95789.53782545708,478947.6891272854,Europe,Q1-2026,Us huge final would staff ability.
+SO-1000959,Dealer-D050,PROD-3600,Model 3600 Engine,Engines,2026-01-24,In Production,2,235286.45041560943,470572.90083121887,Africa,Q3-2026,Similar individual indicate explain issue.
+SO-1000960,Dealer-D037,PROD-320,Model 320 Excavator,Excavators,2026-05-11,Backlog,3,409011.0674938735,1227033.2024816205,Asia Pacific,Q2-2026,Hear region cup consider way late.
+SO-1000961,Dealer-D018,PROD-D6,Model D6 Bulldozer,Dozers,2026-06-13,Confirmed,1,498239.92726903054,498239.92726903054,North America,Q4-2026,Control arrive consumer service else total.
+SO-1000962,Dealer-D007,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-08,In Production,5,88519.79877024575,442598.99385122873,South America,Q4-2026,Key tree body player bag beat by ask.
+SO-1000963,Dealer-D048,PROD-380,Model 380F Excavator,Excavators,2026-03-15,Shipped,8,322160.79282978375,2577286.34263827,North America,Q3-2026,One long pull beyond article.
+SO-1000964,Dealer-D014,PROD-980,Model 980 Wheel Loader,Loaders,2026-01-29,In Production,12,342152.9507934336,4105835.409521203,North America,Q1-2026,Program smile among decision.
+SO-1000965,Dealer-D045,PROD-3500,Model 3500 Engine,Engines,2026-06-11,Delayed,10,489209.0708860224,4892090.708860224,South America,Q3-2026,Heart mind while entire.
+SO-1000966,Dealer-D011,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-11,Delivered,5,486247.7190541453,2431238.5952707264,Asia Pacific,Q4-2026,List front investment he three yourself stage wait professor.
+SO-1000967,Dealer-D005,PROD-320,Model 320 Excavator,Excavators,2026-05-20,Delivered,3,480259.78535406606,1440779.356062198,South America,Q1-2026,Particularly wish their south able that I structure.
+SO-1000968,Dealer-D045,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-16,In Production,12,281166.73953014996,3374000.8743617996,Africa,Q4-2026,Agent but most week seem eat.
+SO-1000969,Dealer-D001,PROD-950,Model 950 Wheel Loader,Loaders,2026-02-07,Shipped,3,201986.59853068125,605959.7955920438,Europe,Q3-2026,Peace probably little including could worry whatever spend admit.
+SO-1000970,Dealer-D042,PROD-3600,Model 3600 Engine,Engines,2026-06-03,Backlog,2,475603.09080843005,951206.1816168601,Europe,Q3-2026,Them wide save question do machine school soldier.
+SO-1000971,Dealer-D025,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-04,Delivered,4,108919.06345704987,435676.25382819946,North America,Q2-2026,Into use us would tax toward safe family.
+SO-1000972,Dealer-D037,PROD-320,Model 320 Excavator,Excavators,2026-03-24,Backlog,5,106673.28847137526,533366.4423568763,Asia Pacific,Q4-2026,Republican thank then size respond all.
+SO-1000973,Dealer-D039,PROD-950,Model 950 Wheel Loader,Loaders,2026-03-10,Delayed,5,244312.29535366042,1221561.476768302,Asia Pacific,Q4-2026,Someone feeling pull nature themselves collection land break production.
+SO-1000974,Dealer-D024,PROD-3500,Model 3500 Engine,Engines,2026-04-24,Delayed,5,403282.33770358074,2016411.6885179037,Asia Pacific,Q1-2026,During color want record black year ahead.
+SO-1000975,Dealer-D027,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-27,Delayed,1,388843.7868676333,388843.7868676333,Asia Pacific,Q4-2026,Total short detail election live today but career.
+SO-1000976,Dealer-D007,PROD-3600,Model 3600 Engine,Engines,2026-04-18,Confirmed,5,423514.7076326336,2117573.5381631684,North America,Q2-2026,Plant man somebody four difference office under ask gas travel.
+SO-1000977,Dealer-D017,PROD-950,Model 950 Wheel Loader,Loaders,2026-05-27,Confirmed,12,288886.5654298141,3466638.785157769,North America,Q1-2026,President size whom join do else fact born.
+SO-1000978,Dealer-D024,PROD-D9,Model D9 Bulldozer,Dozers,2026-05-24,Delivered,4,54655.51841271498,218622.0736508599,Asia Pacific,Q2-2026,Scientist visit seat break happy table west officer.
+SO-1000979,Dealer-D028,PROD-950,Model 950 Wheel Loader,Loaders,2026-06-18,Confirmed,1,328255.8381704558,328255.8381704558,North America,Q1-2026,Financial operation couple hold.
+SO-1000980,Dealer-D031,PROD-D9,Model D9 Bulldozer,Dozers,2026-04-09,In Production,2,224659.8864510122,449319.7729020244,Europe,Q4-2026,Floor half quickly someone mind own develop house Mrs.
+SO-1000981,Dealer-D035,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-13,In Production,3,281717.3789873024,845152.1369619073,Europe,Q3-2026,Firm staff father despite quite challenge exist section support.
+SO-1000982,Dealer-D012,PROD-3500,Model 3500 Engine,Engines,2026-06-08,In Production,6,488987.2980594058,2933923.788356435,North America,Q4-2026,Out final wrong but you.
+SO-1000983,Dealer-D046,PROD-980,Model 980 Wheel Loader,Loaders,2026-04-19,Delivered,6,486300.5938504334,2917803.5631026006,Europe,Q1-2026,Long stock manager region heavy wonder four still decision run.
+SO-1000984,Dealer-D048,PROD-390,Model 390F Excavator,Excavators,2026-04-12,Delayed,10,252460.75148847743,2524607.514884774,Africa,Q1-2026,Red apply tend condition maintain hot worker.
+SO-1000985,Dealer-D042,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-14,Delayed,8,424624.4154436848,3396995.3235494783,Africa,Q1-2026,Yard nature front question wrong serious.
+SO-1000986,Dealer-D018,PROD-980,Model 980 Wheel Loader,Loaders,2026-02-07,Backlog,1,204833.97201666006,204833.97201666006,Europe,Q3-2026,Author risk executive type red nature best food.
+SO-1000987,Dealer-D027,PROD-D6,Model D6 Bulldozer,Dozers,2026-02-21,Delayed,10,306807.4287823904,3068074.287823904,Europe,Q4-2026,Tend approach various fight pressure officer kind lot today decide.
+SO-1000988,Dealer-D005,PROD-390,Model 390F Excavator,Excavators,2026-05-22,In Production,6,108653.32560608236,651919.9536364942,Europe,Q3-2026,Same across rise offer question write.
+SO-1000989,Dealer-D005,PROD-3500,Model 3500 Engine,Engines,2026-01-11,Delayed,5,78819.58573915483,394097.9286957742,Asia Pacific,Q2-2026,Heavy work quickly collection argue green.
+SO-1000990,Dealer-D045,PROD-380,Model 380F Excavator,Excavators,2026-05-08,In Production,4,236266.726123665,945066.90449466,Africa,Q1-2026,Conference appear woman practice order wide phone identify alone.
+SO-1000991,Dealer-D041,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-13,Delayed,1,304282.5273665121,304282.5273665121,North America,Q4-2026,However few other common seat simply yard.
+SO-1000992,Dealer-D018,PROD-980,Model 980 Wheel Loader,Loaders,2026-03-29,Shipped,1,362669.3284422743,362669.3284422743,North America,Q4-2026,Sing ten practice every president.
+SO-1000993,Dealer-D015,PROD-D9,Model D9 Bulldozer,Dozers,2026-02-27,In Production,3,429517.9943037525,1288553.9829112575,Africa,Q3-2026,Activity bring business political training different only would.
+SO-1000994,Dealer-D045,PROD-D10,Model D10 Bulldozer,Dozers,2026-01-14,Shipped,5,163698.35097707706,818491.7548853853,Europe,Q3-2026,Event seat some Congress machine popular its number between.
+SO-1000995,Dealer-D016,PROD-380,Model 380F Excavator,Excavators,2026-05-14,In Production,8,149058.159888887,1192465.279111096,Asia Pacific,Q4-2026,Research television Mr if red.
+SO-1000996,Dealer-D045,PROD-D10,Model D10 Bulldozer,Dozers,2026-04-03,Delivered,6,342541.60301296914,2055249.6180778148,Africa,Q2-2026,New movie speech major million once research so.
+SO-1000997,Dealer-D045,PROD-D9,Model D9 Bulldozer,Dozers,2026-01-24,Delayed,4,374263.8887167868,1497055.5548671472,Africa,Q1-2026,Send debate probably bring television receive.
+SO-1000998,Dealer-D014,PROD-D6,Model D6 Bulldozer,Dozers,2026-03-17,Confirmed,4,414636.48460549966,1658545.9384219986,Africa,Q1-2026,Never song but can.
+SO-1000999,Dealer-D027,PROD-3500,Model 3500 Engine,Engines,2026-06-11,Confirmed,4,241945.56437453418,967782.2574981367,North America,Q1-2026,Present because either send be by.

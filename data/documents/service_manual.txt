@@ -1,0 +1,23 @@
+SERVICE MANUAL - Engine Systems
+
+Chapter 3: Troubleshooting Common Delays
+
+3.1 Turbocharger Issues
+Turbochargers are critical for engine performance. Common sources of
+production delays include:
+
+- Supply chain disruptions from primary suppliers
+- Quality inspection failures requiring rework
+- Integration compatibility issues with cooling systems
+- Certification delays for new turbocharger variants
+
+Delayed deliveries often correlate with turbocharger availability.
+Root cause analysis should verify component source.
+
+3.2 Cooling System Integration
+Heavy-duty cooling systems require extended integration testing.
+Quality gates may add 2-3 weeks to production schedules.
+
+3.3 Supply Chain Risk
+Monitor supplier quality scores and on-time delivery metrics.
+Suppliers scoring below 90% on on-time delivery represent risk.

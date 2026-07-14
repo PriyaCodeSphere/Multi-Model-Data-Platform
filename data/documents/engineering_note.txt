@@ -1,0 +1,24 @@
+ENGINEERING MEMO - Q4 2026 Production Planning
+
+Subject: Component Sourcing Constraints
+
+This memo outlines critical component sourcing issues affecting
+2026 production schedules.
+
+Issue 1: Turbocharger Supply Chain Disruption
+- Supplier S-123 experienced facility shutdown in July
+- Alternative suppliers have limited capacity
+- Estimated recovery: Q4 2026
+- Affected engine families: 3500, 3600
+
+Issue 2: Advanced Cooling System Availability
+- Heavy-duty cooling systems in high demand
+- Lead times extended from 6 to 12 weeks
+- Recommend customer communication on delivery dates
+
+Mitigation Strategy:
+- Activate secondary suppliers for turbocharger assemblies
+- Increase buffer stock for cooling systems
+- Implement demand smoothing across quarters
+
+Technical Contact: engineering-supply@example.com

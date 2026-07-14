@@ -1,0 +1,29 @@
+QUALITY ALERT - Q3 2026
+
+Alert ID: QA-2026-0847
+Date: July 15, 2026
+
+Subject: Turbocharger Defect Analysis
+
+A quality inspection at Supplier S-123 identified potential defects
+in turbocharger manufacturing processes affecting production batches
+from June-July 2026.
+
+Defect Type: Bearing clearance out of specification
+Severity: Medium
+Scope: Estimated 400+ units affected
+
+Products Impacted:
+- CAT 3500 engines with advanced turbocharger options
+- Some CAT 3600 heavy-duty variants
+
+Corrective Actions:
+1. Full inspection of all affected components in inventory
+2. Customer notification for affected orders
+3. Production delay of 4-6 weeks for inspection and rework
+
+Root Cause: Tooling calibration drift in manufacturing
+Preventive Measures: Enhanced incoming inspection protocols
+
+Status: IN PROGRESS
+Estimated Resolution: August 30, 2026
