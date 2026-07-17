@@ -511,6 +511,25 @@ with tabs[1]:
         }])
         st.dataframe(dim_customer, width='stretch', hide_index=True)
 
+        st.markdown("#### DIM_PRODUCT")
+        product_row = products_df[products_df["id"] == selected_order_data["product_id"]]
+        if not product_row.empty:
+            p = product_row.iloc[0]
+            dim_product = pd.DataFrame([{
+                "product_id": p["id"],
+                "product_name": p["name"],
+                "product_family": p["family"],
+                "unit_cost": f"${float(p['unit_cost']):,.0f}",
+                "lead_time_days": int(p["lead_time_days"]),
+            }])
+        else:
+            dim_product = pd.DataFrame([{
+                "product_id": selected_order_data["product_id"],
+                "product_name": selected_order_data["product_name"],
+                "product_family": selected_order_data.get("product_family", ""),
+            }])
+        st.dataframe(dim_product, width='stretch', hide_index=True)
+
         st.markdown("#### DIM_DATE")
         dim_date = pd.DataFrame([{
             "date_key": str(selected_order_data["order_date"])[:10],
@@ -554,16 +573,19 @@ with tabs[1]:
 
     st.markdown("#### Query that produced this view")
     st.code(
-        f"SELECT d.quarter, c.region,\n"
+        f"SELECT d.quarter,\n"
+        f"       c.region,\n"
+        f"       p.product_family,\n"
         f"       COUNT(*) as order_count,\n"
         f"       SUM(f.amount) as total_revenue,\n"
         f"       AVG(f.amount) as avg_order_value\n"
         f"FROM FACT_SALES_ORDER f\n"
-        f"JOIN DIM_DATE d ON f.date_key = d.date_key\n"
+        f"JOIN DIM_DATE     d ON f.date_key     = d.date_key\n"
         f"JOIN DIM_CUSTOMER c ON f.customer_key = c.customer_key\n"
+        f"JOIN DIM_PRODUCT  p ON f.product_key  = p.product_key\n"
         f"WHERE d.quarter = '{order_quarter}'\n"
-        f"  AND c.region = '{order_region}'\n"
-        f"GROUP BY d.quarter, c.region;",
+        f"  AND c.region  = '{order_region}'\n"
+        f"GROUP BY d.quarter, c.region, p.product_family;",
         language="sql",
     )
     
@@ -967,21 +989,23 @@ with tabs[5]:
     )
 
     with st.container(border=True):
-        st.markdown("#### 2. Dimensional (Star Schema) — slice by region")
+        st.markdown("#### 2. Dimensional (Star Schema) — slice by region and product family")
         st.code(
             "SELECT c.region,\n"
+            "       p.product_family,\n"
             "       COUNT(*) AS orders,\n"
             "       SUM(f.amount) AS revenue\n"
             "FROM   FACT_SALES_ORDER f\n"
-            "JOIN   DIM_DATE     d ON f.date_key    = d.date_key\n"
+            "JOIN   DIM_DATE     d ON f.date_key     = d.date_key\n"
             "JOIN   DIM_CUSTOMER c ON f.customer_key = c.customer_key\n"
+            "JOIN   DIM_PRODUCT  p ON f.product_key  = p.product_key\n"
             "WHERE  d.quarter = 'Q3-2026'\n"
             "  AND  f.status  = 'Delayed'\n"
-            "GROUP  BY c.region\n"
+            "GROUP  BY c.region, p.product_family\n"
             "ORDER  BY revenue DESC;",
             language="sql",
         )
-        st.markdown("**Result:**")
+        st.markdown("**Result — by region:**")
         region_breakdown = (
             q3_delayed.groupby("region")["amount"]
             .agg(orders="count", revenue="sum")
@@ -990,9 +1014,21 @@ with tabs[5]:
         )
         region_breakdown["revenue"] = region_breakdown["revenue"].map(lambda x: f"${x:,.0f}")
         st.dataframe(region_breakdown, width="stretch", hide_index=True)
+
+        st.markdown("**Result — by product family:**")
+        family_breakdown = (
+            q3_delayed.groupby("product_family")["amount"]
+            .agg(orders="count", revenue="sum")
+            .sort_values("revenue", ascending=False)
+            .reset_index()
+        )
+        family_breakdown["revenue"] = family_breakdown["revenue"].map(lambda x: f"${x:,.0f}")
+        st.dataframe(family_breakdown, width="stretch", hide_index=True)
+
         st.caption(
-            "**Unique angle:** decomposes the same number into region / product / quarter "
-            "dimensions the COO actually asks for. Pre-joined for BI speed."
+            "**Unique angle:** decomposes the same number into the three KPI dimensions "
+            "any BI report asks for — Customer (region), Product (family), Time (quarter). "
+            "Pre-joined for BI speed."
         )
 
     _paradigm_card(
