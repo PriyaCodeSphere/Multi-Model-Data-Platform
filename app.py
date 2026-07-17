@@ -218,7 +218,7 @@ st.markdown("""
         font-size: 0.8rem;
         font-weight: 500;
     }
-    .status-delayed { background: #FDECEA; color: #B71C1C; }
+    .status-danger  { background: #FDECEA; color: #B71C1C; }
     .status-ok      { background: #E8F5E9; color: #1B5E20; }
     .status-neutral { background: #ECEFF1; color: #37474F; }
 </style>
@@ -369,10 +369,13 @@ if question_info:
 # ---- Selected-order summary card -------------------------------------------
 _boot("UI: order summary")
 
+AT_RISK_STATUSES = ("On Hold", "Back Ordered", "Cancelled")
+DONE_STATUSES = ("Shipped", "Delivered", "Invoiced")
+
 _status = str(selected_order_data["status"])
 _status_class = (
-    "status-delayed" if _status == "Delayed"
-    else "status-ok" if _status in ("Shipped", "Delivered", "Confirmed")
+    "status-danger" if _status in AT_RISK_STATUSES
+    else "status-ok" if _status in DONE_STATUSES
     else "status-neutral"
 )
 
@@ -616,7 +619,7 @@ with tabs[2]:
     with col1:
         st.markdown("### JSON Order Payload")
         
-        is_delayed = selected_order_data["status"] == "Delayed"
+        is_at_risk = selected_order_data["status"] in AT_RISK_STATUSES
         json_payload = {
             "order_id": selected_order_data["order_id"],
             "customer_id": selected_order_data["customer_id"],
@@ -630,9 +633,9 @@ with tabs[2]:
                 "gears": 16,
             },
             "shipping": {
-                "method": "Air Freight" if is_delayed else "Sea Freight",
-                "priority": "high" if is_delayed else "standard",
-                "expedited": is_delayed,
+                "method": "Air Freight" if is_at_risk else "Sea Freight",
+                "priority": "high" if is_at_risk else "standard",
+                "expedited": is_at_risk,
                 "insurance": True,
             },
             "metadata": {
@@ -744,8 +747,9 @@ with tabs[3]:
         )
         
         st.metric(
-            "Delayed Orders",
-            impact_analytics["delayed_orders"]
+            "At-Risk Orders",
+            impact_analytics["delayed_orders"],
+            help="Orders in an exception state (On Hold / Back Ordered / Cancelled).",
         )
         
         if len(impacted_orders) > 0:
@@ -845,11 +849,11 @@ with tabs[4]:
                 supplier_id=demo_supplier,
             )
 
-            if selected_order_data["status"] != "Delayed":
+            if selected_order_data["status"] not in AT_RISK_STATUSES:
                 st.warning(
                     f"Order {selected_order_data['order_id']} is currently "
-                    f"'{selected_order_data['status']}', not Delayed. The explanation "
-                    f"below is illustrative of the retrieval pattern."
+                    f"'{selected_order_data['status']}' — not in an exception state. "
+                    f"The explanation below is illustrative of the retrieval pattern."
                 )
 
             st.markdown("### AI-Generated Explanation")
@@ -936,17 +940,18 @@ with tabs[5]:
     )
 
     st.info(
-        "**Business question:** *What is the exposure from Q3-2026 order delays, "
-        "and which vendor slips are driving it?*"
+        "**Business question:** *What is the Q3-2026 exposure from orders in exception states "
+        "(On Hold / Back Ordered), and which vendor slips are driving it?*"
     )
 
     # Shared computation used by every paradigm's card ------------------------
-    q3_delayed = orders_df[
+    q3_at_risk = orders_df[
         (orders_df["forecast_quarter"] == "Q3-2026")
-        & (orders_df["status"] == "Delayed")
+        & (orders_df["status"].isin(list(AT_RISK_STATUSES)))
     ]
-    delayed_count = len(q3_delayed)
-    delayed_amount = float(q3_delayed["amount"].sum())
+    q3_delayed = q3_at_risk  # keep alias for downstream code
+    delayed_count = len(q3_at_risk)
+    delayed_amount = float(q3_at_risk["amount"].sum())
 
     at_risk_suppliers = suppliers_df[
         suppliers_df["status"].isin(["At Risk", "Probation"])
@@ -977,15 +982,15 @@ with tabs[5]:
     _paradigm_card(
         "1. Relational (3NF) — count them by hand",
         "sql",
-        "SELECT COUNT(*) AS delayed_orders,\n"
-        "       SUM(amount) AS delayed_revenue\n"
+        "SELECT COUNT(*) AS at_risk_orders,\n"
+        "       SUM(amount) AS at_risk_revenue\n"
         "FROM   SALES_ORDER_HDR\n"
         "WHERE  forecast_quarter = 'Q3-2026'\n"
-        "  AND  status = 'Delayed';",
-        f"**Result:** {delayed_count} delayed orders totalling **${delayed_amount:,.0f}**.",
-        "fast and exact for the orders you already know are delayed — "
-        "but nothing about *why*, and no visibility into orders that are still "
-        "'Confirmed' but sitting behind a failing supplier.",
+        "  AND  status IN ('On Hold', 'Back Ordered');",
+        f"**Result:** {delayed_count} at-risk orders totalling **${delayed_amount:,.0f}**.",
+        "fast and exact for the orders already flagged in exception states — "
+        "but nothing about *why*, and no visibility into orders still showing "
+        "'Booked' or 'In Production' but sitting behind a failing supplier.",
     )
 
     with st.container(border=True):
@@ -1000,7 +1005,7 @@ with tabs[5]:
             "JOIN   DIM_CUSTOMER c ON f.customer_key = c.customer_key\n"
             "JOIN   DIM_PRODUCT  p ON f.product_key  = p.product_key\n"
             "WHERE  d.quarter = 'Q3-2026'\n"
-            "  AND  f.status  = 'Delayed'\n"
+            "  AND  f.status  IN ('On Hold', 'Back Ordered')\n"
             "GROUP  BY c.region, p.product_family\n"
             "ORDER  BY revenue DESC;",
             language="sql",
@@ -1036,7 +1041,7 @@ with tabs[5]:
         "json",
         "// MongoDB-style aggregation\n"
         "db.orders.aggregate([\n"
-        "  { $match: { forecast_quarter: 'Q3-2026', status: 'Delayed' } },\n"
+        "  { $match: { forecast_quarter: 'Q3-2026', status: { $in: ['On Hold', 'Back Ordered'] } } },\n"
         "  { $project: { order_id: 1,\n"
         "                shipping: 1,\n"
         "                engine_options: 1,\n"
@@ -1060,8 +1065,8 @@ with tabs[5]:
         "       SUM(o.amount)     AS exposure;",
         f"**Result:** {graph_count} orders totalling **${graph_amount:,.0f}** are "
         f"downstream of the {len(at_risk_suppliers)} suppliers currently flagged "
-        f"At Risk / Probation — even the ones still showing 'Confirmed' or 'In Production'.",
-        "surfaces *latent* risk. The relational answer stops at status='Delayed'; "
+        f"At Risk / Probation — even the ones still showing 'Booked' or 'In Production'.",
+        "surfaces *latent* risk. The relational answer stops at explicit exception statuses; "
         "the graph answer walks the dependency chain and finds orders that will slip.",
     )
 

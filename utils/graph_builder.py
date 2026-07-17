@@ -125,7 +125,7 @@ class SupplierImpactGraph:
             "impacted_products": impacted_order_details['product_id'].unique().tolist(),
             "impacted_customers": impacted_order_details['customer_id'].unique().tolist(),
             "delayed_orders": len(impacted_order_details[
-                impacted_order_details['status'] == 'Delayed'
+                impacted_order_details['status'].isin(['On Hold', 'Back Ordered', 'Cancelled'])
             ]),
             "orders_by_status": impacted_order_details['status'].value_counts().to_dict(),
         }

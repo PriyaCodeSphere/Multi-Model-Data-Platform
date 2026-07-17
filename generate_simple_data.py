@@ -31,7 +31,10 @@ class SimpleDataGenerator:
             ("PROD-D6", "Model D6 Bulldozer", "Dozers"),
         ]
         self.components = [f"COMP-{i:04d}" for i in range(1, 101)]
-        self.statuses = ["Confirmed", "In Production", "Shipped", "Delivered", "Delayed", "Backlog"]
+        self.statuses = [
+            "Draft", "Submitted", "Booked", "Scheduled", "In Production",
+            "Shipped", "Delivered", "Invoiced", "On Hold", "Back Ordered",
+        ]
         self.quarters = ["Q1-2026", "Q2-2026", "Q3-2026", "Q4-2026"]
         
         # Supplier-Component mapping
@@ -70,7 +73,7 @@ class SimpleDataGenerator:
             amount = quantity * unit_price
             
             # Status distribution
-            status_weights = [0.15, 0.20, 0.15, 0.25, 0.15, 0.10]
+            status_weights = [0.05, 0.08, 0.10, 0.10, 0.15, 0.15, 0.20, 0.07, 0.05, 0.05]
             status = random.choices(self.statuses, weights=status_weights)[0]
             
             orders.append({

@@ -38,7 +38,18 @@ class SyntheticDataGenerator:
             {"id": f"PROD-D6", "name": "Model D6 Bulldozer", "family": "Dozers"},
         ]
         self.components = [f"COMP-{i:04d}" for i in range(1, 101)]
-        self.statuses = ["Confirmed", "In Production", "Shipped", "Delivered", "Delayed", "Backlog"]
+        # Industry-standard ERP order-lifecycle statuses spanning every stage:
+        #   Order Capture:   Draft, Submitted
+        #   Order Mgmt:      Booked
+        #   Manufacturing:   Scheduled, In Production
+        #   Logistics:       Shipped
+        #   Fulfillment:     Delivered
+        #   Finance:         Invoiced
+        #   Exception:       On Hold (pending issue), Back Ordered (inventory)
+        self.statuses = [
+            "Draft", "Submitted", "Booked", "Scheduled", "In Production",
+            "Shipped", "Delivered", "Invoiced", "On Hold", "Back Ordered",
+        ]
         self.quarters = ["Q1-2026", "Q2-2026", "Q3-2026", "Q4-2026"]
         
         # Supplier-Component mapping
@@ -77,7 +88,20 @@ class SyntheticDataGenerator:
             amount = quantity * unit_price
             
             # Status distribution
-            status_weights = [0.15, 0.20, 0.15, 0.25, 0.15, 0.10]  # Delayed included
+            # Realistic ERP lifecycle distribution — most orders end up delivered / invoiced,
+            # ~10% are stuck in exception states (On Hold / Back Ordered).
+            status_weights = [
+                0.05,  # Draft
+                0.08,  # Submitted
+                0.10,  # Booked
+                0.10,  # Scheduled
+                0.15,  # In Production
+                0.15,  # Shipped
+                0.20,  # Delivered
+                0.07,  # Invoiced
+                0.05,  # On Hold
+                0.05,  # Back Ordered
+            ]
             status = np.random.choice(self.statuses, p=status_weights)
             
             orders.append({

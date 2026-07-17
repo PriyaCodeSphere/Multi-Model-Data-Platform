@@ -19,8 +19,8 @@ QUESTION_MODEL_ROUTING = {
         "persona": "COO / Finance / S&OP",
         "queries": [
             "SELECT region, status, COUNT(*) as orders, SUM(amount) as total FROM fact_orders GROUP BY region, status",
-            "SELECT forecast_quarter, COUNT(*) as backlog_count, SUM(amount) as backlog_value FROM fact_orders WHERE status='Backlog' GROUP BY forecast_quarter",
-            "SELECT customer_id, SUM(amount) as backlog_value FROM fact_orders WHERE status='Backlog' GROUP BY customer_id ORDER BY backlog_value DESC"
+            "SELECT forecast_quarter, COUNT(*) as backlog_count, SUM(amount) as backlog_value FROM fact_orders WHERE status IN ('Booked','Scheduled','In Production','On Hold','Back Ordered') GROUP BY forecast_quarter",
+            "SELECT customer_id, SUM(amount) as backlog_value FROM fact_orders WHERE status IN ('Booked','Scheduled','In Production') GROUP BY customer_id ORDER BY backlog_value DESC"
         ]
     },
     "View Configuration Attributes": {

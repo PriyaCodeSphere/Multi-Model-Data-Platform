@@ -98,12 +98,22 @@ def _tool_query_orders(orders_df: pd.DataFrame, *, status: str | None = None,
     }
 
 
+AT_RISK_STATUSES = ("On Hold", "Back Ordered", "Cancelled")
+
+
 def _tool_analyze_backlog(orders_df: pd.DataFrame, *, dimension: str = "region",
-                          status: str | None = "Delayed") -> dict:
-    """Star-schema-style aggregation."""
+                          status: str | None = "On Hold") -> dict:
+    """Star-schema-style aggregation.
+
+    `status` accepts a single ERP status label. Pass 'at_risk' as a special
+    value to filter to any exception state (On Hold / Back Ordered / Cancelled).
+    """
     df = orders_df
     if status:
-        df = df[df["status"].str.lower() == status.lower()]
+        if status.lower() in {"at_risk", "at risk", "exception"}:
+            df = df[df["status"].isin(list(AT_RISK_STATUSES))]
+        else:
+            df = df[df["status"].str.lower() == status.lower()]
 
     if dimension not in {"region", "forecast_quarter", "product_id", "product_family", "status"}:
         dimension = "region"
@@ -132,7 +142,7 @@ def _tool_get_order_json(orders_df: pd.DataFrame, *, order_id: str) -> dict:
     if matches.empty:
         return {"paradigm": "Semi-Structured (JSON)", "error": f"No order {order_id}"}
     row = matches.iloc[0]
-    is_delayed = row["status"] == "Delayed"
+    is_at_risk = row["status"] in AT_RISK_STATUSES
     return {
         "paradigm": "Semi-Structured (JSON)",
         "order_id": row["order_id"],
@@ -147,8 +157,8 @@ def _tool_get_order_json(orders_df: pd.DataFrame, *, order_id: str) -> dict:
         "forecast_quarter": row["forecast_quarter"],
         "region": row["region"],
         "shipping": {
-            "priority": "high" if is_delayed else "standard",
-            "expedited": is_delayed,
+            "priority": "high" if is_at_risk else "standard",
+            "expedited": is_at_risk,
         },
     }
 
@@ -203,7 +213,7 @@ TOOL_SCHEMAS = [
             "parameters": {
                 "type": "object",
                 "properties": {
-                    "status": {"type": "string", "description": "e.g. 'Delayed', 'Confirmed'"},
+                    "status": {"type": "string", "description": "e.g. 'On Hold', 'Booked', 'Shipped'. Pass 'at_risk' to match any exception state (On Hold / Back Ordered / Cancelled)."},
                     "region": {"type": "string", "description": "e.g. 'Europe', 'Asia Pacific'"},
                     "quarter": {"type": "string", "description": "e.g. 'Q3-2026'"},
                     "product_id": {"type": "string"},
