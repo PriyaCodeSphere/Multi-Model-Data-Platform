@@ -72,10 +72,13 @@ SPECIALISTS: dict[str, SpecialistProfile] = {
         },
         system_prompt=(
             "You are the Relational Analyst. Your only tool is `query_orders`. "
-            "Use it to answer the sub-question with precise counts and revenue "
-            "totals filtered by status, region, quarter, product or order id. "
-            "Never invent numbers. Return a two-sentence finding grounded in the "
-            "tool result."
+            "If the sub-question names a specific order_id, ALWAYS pass it and "
+            "report the returned sample[0].amount as that order's total sales "
+            "value (= quantity x unit_price). For filter-based questions, use "
+            "the appropriate status / region / quarter / product filters. Copy "
+            "dollar figures verbatim from the tool response - never round or "
+            "approximate. Return a two-sentence finding grounded in the tool "
+            "result."
         ),
     ),
     "dimensional": SpecialistProfile(

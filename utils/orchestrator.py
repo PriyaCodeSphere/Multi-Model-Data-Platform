@@ -87,14 +87,25 @@ def _tool_query_orders(orders_df: pd.DataFrame, *, status: str | None = None,
     if product_id:
         df = df[df["product_id"].str.lower() == product_id.lower()]
 
+    sample = df[[
+        "order_id", "customer_id", "product_id", "product_name",
+        "status", "region", "forecast_quarter",
+        "quantity", "unit_price", "amount",
+    ]].head(limit).copy()
+    # Round monetary fields so the LLM sees clean decimals instead of long floats
+    for col in ("unit_price", "amount"):
+        sample[col] = sample[col].astype(float).round(2)
+
     return {
         "paradigm": "Relational (3NF)",
         "matching_orders": int(len(df)),
-        "total_revenue": float(df["amount"].sum()),
-        "sample": df[[
-            "order_id", "customer_id", "product_id", "status",
-            "region", "amount", "forecast_quarter"
-        ]].head(limit).to_dict(orient="records"),
+        "total_revenue": round(float(df["amount"].sum()), 2),
+        "note": (
+            "For a single-order lookup, `sample[0].amount` IS the order's total sales "
+            "value (= quantity x unit_price). Do not sum sample[].amount when the "
+            "user asked about ONE order id."
+        ),
+        "sample": sample.to_dict(orient="records"),
     }
 
 
@@ -205,10 +216,13 @@ TOOL_SCHEMAS = [
         "function": {
             "name": "query_orders",
             "description": (
-                "Relational lookup on the sales-order header table. Use for "
-                "specific record lookups and simple filters (by status, region, "
-                "quarter, product, or order_id). Returns matching row count, "
-                "total revenue, and a sample."
+                "Relational lookup on the sales-order header table. ALWAYS use this "
+                "tool when the user names a specific order_id (e.g. 'SO-1000005') — "
+                "pass the order_id and the returned sample[0].amount is that order's "
+                "total sales value. Also use for simple filters (status, region, "
+                "quarter, product). Returns matching row count, total revenue across "
+                "matches, and a per-order sample including quantity, unit_price, "
+                "and amount."
             ),
             "parameters": {
                 "type": "object",
@@ -315,13 +329,20 @@ The five tools available to you:
   • search_knowledge_base — vector retrieval for the 'why' behind delays
 
 Rules:
-1. For any non-trivial question, call at least two tools so the answer is
-   grounded in multiple paradigms.
-2. Prefer tool output over guessing. Never invent numbers.
-3. When you present the final answer, briefly cite which paradigm(s)
-   contributed each fact (e.g. 'per the relational count', 'via the
+1. If the user names a specific order_id (e.g. 'SO-1000005'), you MUST call
+   query_orders with that order_id. The returned sample[0].amount is that
+   order's total sales value. Do NOT call analyze_backlog for single-order
+   questions - that returns aggregates across many orders and will give
+   the wrong answer.
+2. For broader analytical questions ('by region', 'this quarter', 'across
+   suppliers'), call at least two tools so the answer is grounded in
+   multiple paradigms.
+3. Prefer tool output over guessing. Never invent numbers. Copy dollar
+   figures verbatim from the tool response - do not round or approximate.
+4. When you present the final answer, briefly cite which paradigm(s)
+   contributed each fact (e.g. 'per the relational lookup', 'via the
    graph traversal').
-4. Keep answers concise and business-relevant. Do not repeat entire
+5. Keep answers concise and business-relevant. Do not repeat entire
    dataframes back to the user — summarise.
 """
 
