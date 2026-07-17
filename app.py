@@ -354,6 +354,9 @@ with ord_col:
     )
     st.session_state.selected_order = selected_order_id
 
+AT_RISK_STATUSES = ("On Hold", "Back Ordered", "Cancelled")
+DONE_STATUSES = ("Shipped", "Delivered", "Invoiced")
+
 selected_order_data = orders_df[orders_df["order_id"] == selected_order_id].iloc[0]
 question_info = get_model_recommendation(selected_question)
 
@@ -366,11 +369,118 @@ if question_info:
         f"{question_info['reason']} · *Consumer:* {question_info['persona']}"
     )
 
-# ---- Selected-order summary card -------------------------------------------
-_boot("UI: order summary")
 
-AT_RISK_STATUSES = ("On Hold", "Back Ordered", "Cancelled")
-DONE_STATUSES = ("Shipped", "Delivered", "Invoiced")
+# ---- Question-driven inline preview ----------------------------------------
+_boot("UI: question preview")
+
+
+def _render_question_preview(question: str) -> None:
+    """Show a paradigm-specific answer to the selected business question.
+
+    Each question surfaces a genuinely different result set so picking a
+    different question actually changes what the user sees, not just the
+    recommendation text.
+    """
+    with st.container(border=True):
+        if question == "Show Sales Order Details":
+            st.markdown(f"##### 🔎 Relational answer for **{selected_order_id}**")
+            hdr = orders_df[orders_df["order_id"] == selected_order_id][[
+                "order_id", "customer_id", "product_id", "product_name",
+                "status", "amount", "region", "forecast_quarter",
+            ]]
+            st.dataframe(hdr, width="stretch", hide_index=True)
+            st.caption(
+                "Master-record lookup. Full HDR + LINE detail on the **Relational** tab."
+            )
+
+        elif question == "Analyze Backlog":
+            backlog_statuses = ["Booked", "Scheduled", "In Production", "On Hold", "Back Ordered"]
+            backlog = orders_df[orders_df["status"].isin(backlog_statuses)]
+            by_qtr = (
+                backlog.groupby("forecast_quarter")["amount"]
+                       .agg(orders="count", revenue="sum")
+                       .sort_index()
+                       .reset_index()
+            )
+            by_qtr["revenue"] = by_qtr["revenue"].map(lambda x: f"${x:,.0f}")
+            st.markdown(
+                f"##### 📊 Dimensional answer — backlog by quarter · "
+                f"{len(backlog):,} unshipped orders totalling "
+                f"**${backlog['amount'].sum():,.0f}**"
+            )
+            st.dataframe(by_qtr, width="stretch", hide_index=True)
+            st.caption(
+                "Star-schema aggregate. Region / product-family breakdowns on the **Dimensional** tab."
+            )
+
+        elif question == "View Configuration Attributes":
+            engine = _engine_options_for(selected_order_id)
+            is_at_risk = selected_order_data["status"] in AT_RISK_STATUSES
+            st.markdown(f"##### 📦 JSON answer — configuration for **{selected_order_id}**")
+            st.json({
+                "engine_options": engine,
+                "shipping": {
+                    "priority": "high" if is_at_risk else "standard",
+                    "expedited": is_at_risk,
+                },
+            })
+            st.caption(
+                "Semi-structured attributes that don't fit relational columns. "
+                "Full payload on the **JSON** tab."
+            )
+
+        elif question == "Supplier Impact Analysis":
+            suppliers_for_order = graph.get_suppliers_for_order(selected_order_id)
+            if suppliers_for_order:
+                top_sid, top_count = suppliers_for_order[0]
+                analytics, _ = graph.get_impact_analytics(top_sid)
+                st.markdown(
+                    f"##### 🕸️ Graph answer — supply-chain exposure for **{selected_order_id}** "
+                    f"({selected_order_data['product_name']})"
+                )
+                a, b, c = st.columns(3)
+                a.metric("Top supplier", top_sid, help=f"Supplies {top_count} components")
+                b.metric("Impacted orders", f"{analytics['total_impacted_orders']:,}")
+                c.metric("Revenue at risk", f"${analytics['total_impacted_amount']:,.0f}")
+                st.caption(
+                    f"Ripple analysis: if {top_sid} slips, {analytics['total_impacted_orders']} "
+                    f"orders across {len(analytics['impacted_regions'])} regions are affected. "
+                    f"Full traversal on the **Graph** tab."
+                )
+            else:
+                st.info("No suppliers found in the graph for this order's product.")
+
+        elif question == "Explain Order Delay":
+            status = selected_order_data["status"]
+            st.markdown(f"##### 🧠 Vector / AI answer — why is **{selected_order_id}** where it is?")
+            if status in AT_RISK_STATUSES:
+                hits = vector_engine.search(
+                    f"turbocharger supply delay {selected_order_data['product_name']}",
+                    top_k=1,
+                )
+                if hits:
+                    doc = hits[0]
+                    st.markdown(
+                        f"**Root cause candidate** — {doc['metadata']['doc_type']} "
+                        f"(relevance {doc['similarity_score']:.0%})"
+                    )
+                    st.markdown(f"> {doc['excerpt']}")
+                else:
+                    st.info("No high-relevance knowledge document found.")
+            else:
+                st.info(
+                    f"Order {selected_order_id} is currently **{status}** — not in an exception "
+                    f"state. Nothing to explain. Try picking an order with status *On Hold* or "
+                    f"*Back Ordered* to see the retrieval in action."
+                )
+            st.caption("Full retrieval + confidence bar on the **Vector/AI** tab.")
+
+        else:
+            st.info("Pick a business question to see a paradigm-specific answer here.")
+
+
+if question_info:
+    _render_question_preview(selected_question)
 
 _status = str(selected_order_data["status"])
 _status_class = (
