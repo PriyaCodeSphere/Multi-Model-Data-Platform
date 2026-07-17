@@ -326,7 +326,94 @@ paradigms represent that same transaction — each optimised for a different con
    a Router LLM plans, five specialist LLMs each handle their own paradigm, and a Synthesiser
    LLM combines the findings — every step visible in collapsible panels.
 
-*All data is synthetic. No real the customer, supplier, or transaction is represented.*
+*All data is synthetic. No real customer, supplier, or transaction is represented.*
+        """
+    )
+
+with st.expander("Guided tour · follow one sales order through every tab"):
+    st.markdown(
+        """
+Pick **SO-1000408** in the Sales-order dropdown below to follow this walkthrough
+against real data. It's the largest at-risk order in the dataset — 12 units of the
+Model 3500 Engine, $4.6M, Q3-2026, currently On Hold.
+
+**The order at a glance**
+
+| Field | Value |
+|---|---|
+| Order ID | SO-1000408 |
+| Customer | Dealer-D018 |
+| Product | PROD-3500 (Model 3500 Engine) |
+| Quantity | 12 units @ $387,220.56 |
+| Amount | **$4,646,646.69** |
+| Region | South America |
+| Forecast quarter | Q3-2026 |
+| Status | 🔴 On Hold |
+
+---
+
+**Step 1 · Header + selectors.** With SO-1000408 selected, the blue callout
+recommends a tab based on the business question you chose. The order card turns
+yellow with a red *On Hold* pill.
+
+**Step 2 · Relational tab (Operations).** SALES_ORDER_HDR shows exactly one row
+for SO-1000408. SALES_ORDER_LINE lists its deterministic line items. The SQL
+card embeds `WHERE order_id = 'SO-1000408'`.
+*What Ops learns:* the master record.
+
+**Step 3 · Dimensional tab (Finance / COO).** Three dimension cards — DIM_CUSTOMER,
+DIM_PRODUCT, DIM_DATE — join to the fact row. A highlighted revenue-by-region chart
+puts South America in yellow, and a metric card shows *"$4,646,646 — 1.6% of the
+Q3-2026 quarter total"*.
+*What Finance learns:* how this order sits inside the bigger revenue picture.
+
+**Step 4 · JSON tab (Data Science / API).** The full semi-structured document
+including `engine_options`, `shipping.expedited=true` (because status is On Hold),
+and `metadata.compliance_flags`. Attributes that don't fit relational columns.
+*What Data Science learns:* the messy per-order features.
+
+**Step 5 · Graph tab (Supply Chain).** The picker defaults to the supplier
+contributing the most components to PROD-3500. The Plotly diagram draws
+`Supplier -> Components -> PROD-3500 -> SO-1000408` with peer orders shown in a
+lighter shade. Try switching suppliers to see how the blast radius changes.
+*What Supply Chain learns:* which supplier failure would hurt this order.
+
+**Step 6 · Vector / AI tab (Knowledge / RCA).** Ask *"why is this order delayed?"*
+The TF-IDF search pulls the Supplier Bulletin or Quality Alert citing a
+turbocharger shortage affecting the Model 3500 line.
+*What the AI assistant learns:* the *why*, in the original document's words.
+
+**Step 7 · Compare tab.** One question — *"What's the Q3-2026 exposure from
+at-risk orders?"* — answered five ways side-by-side, with the actual SQL, Cypher,
+JSON aggregation, and vector query each team would run. The takeaway: no single
+paradigm answers this question completely.
+
+**Step 8 · Ask tab (single-agent chat).** Type *"What is the total value of order
+SO-1000408, and why is it on hold?"* — one LLM calls `query_orders` for the amount
+and `search_knowledge_base` for the reason, then synthesises. Expand the *🔧
+Paradigms consulted* panel to see every tool call.
+
+**Step 9 · Agents tab (multi-agent squad).** Same question, but a Router LLM
+dispatches to five specialists (each restricted to one paradigm's tool) and a
+Synthesiser combines their findings. Every planning decision, tool argument, and
+specialist finding is inspectable.
+
+---
+
+**What the flow demonstrates**
+
+| Team | Tab | What it answered for SO-1000408 |
+|---|---|---|
+| Operations | Relational | *"Show me the order record"* |
+| Finance / COO | Dimensional | *"What's it worth relative to the quarter?"* |
+| Data Science | JSON | *"What are its config attributes?"* |
+| Supply Chain | Graph | *"Who could break this order?"* |
+| AI Assistant | Vector/AI | *"Why is it stuck?"* |
+| Architect | Compare | *"How do the five views differ?"* |
+| Any user | Ask / Agents | *"Just tell me — with sources."* |
+
+One canonical business object. Seven grounded views. That's polyglot persistence
+in practice.
         """
     )
 
